@@ -167,7 +167,7 @@ Complete reference for all available AI PM apps in the toolkit.
 
 ## Coming Soon
 
-The following apps are planned for future releases (see `initial_planning.md` for details):
+The following apps are planned for future releases (see `initial-planning.md` for details):
 
 ### Discovery & Intake
 - `/idea-validator` - Assess feasibility and DS effort for requests
