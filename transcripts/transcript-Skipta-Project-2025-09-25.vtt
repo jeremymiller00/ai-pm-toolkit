@@ -1,0 +1,5635 @@
+WEBVTT
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/9-0
+00:00:03.316 --> 00:00:07.746
+<v Marshall, Jake>Analytics intro that cover the types of
+reporting that we do and and also a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/9-1
+00:00:07.746 --> 00:00:12.175
+<v Marshall, Jake>little bit on some some ideas for for
+what we're trying to accomplish here.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/9-2
+00:00:12.175 --> 00:00:17.071
+<v Marshall, Jake>Is is that a good place to get started or
+do you have somewhere else you you'd want</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/9-3
+00:00:17.071 --> 00:00:17.596
+<v Marshall, Jake>to start?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/8-0
+00:00:17.396 --> 00:00:19.756
+<v Miller, Jeremy>That's perfect. Let's start there.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/10-0
+00:00:19.756 --> 00:00:19.876
+<v Marshall, Jake>Cool.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/12-0
+00:00:23.716 --> 00:00:27.246
+<v Marshall, Jake>All right.
+So some different types of of reporting</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/12-1
+00:00:27.246 --> 00:00:32.022
+<v Marshall, Jake>that we execute for our clients.
+So the 1st is physician level data,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/12-2
+00:00:32.022 --> 00:00:35.968
+<v Marshall, Jake>it's called P, you know,
+PLD or you'll hear the acronym.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/12-3
+00:00:35.968 --> 00:00:40.398
+<v Marshall, Jake>So this is essentially the the physician
+or MPI level activity.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/12-4
+00:00:40.398 --> 00:00:43.236
+<v Marshall, Jake>It's shared on a weekly or monthly basis.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/13-0
+00:00:43.396 --> 00:00:47.469
+<v Marshall, Jake>At an individual HCP level,
+just something you know it's kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/13-1
+00:00:47.469 --> 00:00:51.479
+<v Marshall, Jake>unique about you know this,
+you know the space that we're in of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/13-2
+00:00:51.479 --> 00:00:56.178
+<v Marshall, Jake>course in terms of how having to allocate
+you know the activity for almost</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/13-3
+00:00:56.178 --> 00:01:00.815
+<v Marshall, Jake>everything that we do to to the
+individual user and and generally this is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/13-4
+00:01:00.815 --> 00:01:03.196
+<v Marshall, Jake>sent directly to a client's preferred.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/15-0
+00:01:03.436 --> 00:01:07.479
+<v Marshall, Jake>Destination.
+So you know their SFTP or their portal</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/15-1
+00:01:07.479 --> 00:01:13.231
+<v Marshall, Jake>and they're you know they're based on a
+you know data exchange agreement.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/15-2
+00:01:13.231 --> 00:01:19.606
+<v Marshall, Jake>So there's probably limited ability for
+us to you know share PLD via via a portal</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/15-3
+00:01:19.606 --> 00:01:22.716
+<v Marshall, Jake>like this because and there's also some.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/16-0
+00:01:22.956 --> 00:01:27.235
+<v Marshall, Jake>Some handy, thanks for joining,
+just getting started.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/16-1
+00:01:27.235 --> 00:01:32.782
+<v Marshall, Jake>Some sensitivity around who is able to be
+exposed to PLD as well. So,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/16-2
+00:01:32.782 --> 00:01:37.457
+<v Marshall, Jake>so generally at our at our customers on
+on the media side,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/16-3
+00:01:37.457 --> 00:01:39.676
+<v Marshall, Jake>it's quite common that only.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/17-0
+00:01:40.196 --> 00:01:43.849
+<v Marshall, Jake>A limited, you know,
+group over there can actually, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/17-1
+00:01:43.849 --> 00:01:47.738
+<v Marshall, Jake>transact with with the physician level
+data and be exposed to it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/17-2
+00:01:47.738 --> 00:01:51.744
+<v Marshall, Jake>Everyone else has to have, you know,
+an aggregate view of the data.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/17-3
+00:01:51.744 --> 00:01:55.044
+<v Marshall, Jake>So thought it was just good to kind of
+level set there.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/17-4
+00:01:55.044 --> 00:01:58.756
+<v Marshall, Jake>Good news about that is you know that
+that process is largely.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/20-0
+00:02:00.116 --> 00:02:04.986
+<v Marshall, Jake>Automated there's there's a good amount
+of of validation that has to take place</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/20-1
+00:02:04.986 --> 00:02:09.979
+<v Marshall, Jake>and some obviously you know delivery of
+the files that and all those things can't</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/20-2
+00:02:09.979 --> 00:02:14.727
+<v Marshall, Jake>be automated but you know that's that's
+kind of the you know the table stakes</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/20-3
+00:02:14.727 --> 00:02:18.076
+<v Marshall, Jake>reporting that that that we start with
+here at skipta.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/21-0
+00:02:18.436 --> 00:02:20.956
+<v Marshall, Jake>Any questions on on the TLD? Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/19-0
+00:02:18.596 --> 00:02:20.436
+<v Miller, Jeremy>I mean, that's just some.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/18-0
+00:02:18.716 --> 00:02:19.836
+<v Skokos, Spiro>Yep. And uh, just.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/22-0
+00:02:21.236 --> 00:02:21.356
+<v Skokos, Spiro>But.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/25-0
+00:02:22.436 --> 00:02:25.914
+<v Miller, Jeremy>So I just got to ask you a really basic
+question.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/24-0
+00:02:24.476 --> 00:02:24.676
+<v Marshall, Jake>Please.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/25-1
+00:02:25.914 --> 00:02:30.087
+<v Miller, Jeremy>So where it says weekly or monthly
+tactical level activity,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/25-2
+00:02:30.087 --> 00:02:34.956
+<v Miller, Jeremy>that's activity on the skip to platform
+by these physicians, correct?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/30-0
+00:02:34.436 --> 00:02:39.258
+<v Marshall, Jake>Excellent question and yes and no.
+So that's actually one of the things that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/26-0
+00:02:37.716 --> 00:02:37.836
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/30-1
+00:02:39.258 --> 00:02:44.142
+<v Marshall, Jake>I was was was going to kind of get more
+in and and certainly will is just the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/27-0
+00:02:40.356 --> 00:02:40.476
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/28-0
+00:02:42.396 --> 00:02:42.956
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/30-2
+00:02:44.142 --> 00:02:47.711
+<v Marshall, Jake>where the data comes from and what
+channels it includes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/29-0
+00:02:47.596 --> 00:02:47.836
+<v Visconti, Frank>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/30-3
+00:02:47.711 --> 00:02:52.533
+<v Marshall, Jake>So you know one of the things that is
+somewhat unique about what we do or at</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/30-4
+00:02:52.533 --> 00:02:54.036
+<v Marshall, Jake>least makes it a little.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/31-0
+00:02:54.116 --> 00:02:59.670
+<v Marshall, Jake>More complex is the the data coming from
+multiple channels. So Jeremy, yes,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/31-1
+00:02:59.670 --> 00:03:03.617
+<v Marshall, Jake>that is skipped on-site activity,
+an e-mail activity,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/31-2
+00:03:03.617 --> 00:03:06.832
+<v Marshall, Jake>but it is also programmatic media
+activity.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/31-3
+00:03:06.832 --> 00:03:12.094
+<v Marshall, Jake>So you know and that's honestly that's
+that's the easiest thing, right?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/31-4
+00:03:12.094 --> 00:03:13.556
+<v Marshall, Jake>Because that's just.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/32-0
+00:03:13.636 --> 00:03:14.116
+<v Marshall, Jake>Questions.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/33-0
+00:03:14.196 --> 00:03:18.746
+<v Marshall, Jake>And clicks and there's very little data
+transformation or ETL that needs to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/33-1
+00:03:18.746 --> 00:03:21.620
+<v Marshall, Jake>happen with that data.
+But for the e-mail data,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/33-2
+00:03:21.620 --> 00:03:26.350
+<v Marshall, Jake>for the onsite data and potentially for
+like ad Butler data or ad server data,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/33-3
+00:03:26.350 --> 00:03:29.045
+<v Marshall, Jake>although that's that's essentially you
+know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/33-4
+00:03:29.045 --> 00:03:33.116
+<v Marshall, Jake>married with with the onsite or e-mail
+data, you know those things.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/34-0
+00:03:34.316 --> 00:03:39.268
+<v Marshall, Jake>They're all coming from, you know,
+separate sources and have their own,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/34-1
+00:03:39.268 --> 00:03:42.707
+<v Marshall, Jake>you know,
+engagement definitions and criteria and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/34-2
+00:03:42.707 --> 00:03:45.596
+<v Marshall, Jake>expectations from a reporting perspective.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/36-0
+00:03:46.556 --> 00:03:51.916
+<v Miller, Jeremy>OK. And just to clarify,
+when you say programmatic media activity,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/35-0
+00:03:48.036 --> 00:03:48.156
+<v Marshall, Jake>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/36-1
+00:03:51.916 --> 00:03:58.396
+<v Miller, Jeremy>that's an ad gets served on a website to
+a physician and they click on it. Yeah,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/38-0
+00:03:56.036 --> 00:04:02.676
+<v Marshall, Jake>100%, Yep. So we do basically, you know,
+off-site media campaigns to HC PS and you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/36-2
+00:03:58.396 --> 00:03:58.636
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/38-1
+00:04:02.676 --> 00:04:06.516
+<v Marshall, Jake>know,
+the brand safe places on the web that are</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/38-2
+00:04:06.516 --> 00:04:10.836
+<v Marshall, Jake>delivered via partners who are experts in
+that space.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/37-0
+00:04:08.796 --> 00:04:08.956
+<v Miller, Jeremy>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/38-3
+00:04:10.836 --> 00:04:14.996
+<v Marshall, Jake>So we have a couple of programmatic media
+partners.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/39-0
+00:04:15.916 --> 00:04:15.996
+<v Marshall, Jake>Oh.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/40-0
+00:04:16.356 --> 00:04:21.993
+<v Marshall, Jake>And you know you can envision we you have
+other kind of you know partners to plug</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/40-1
+00:04:21.993 --> 00:04:27.356
+<v Marshall, Jake>in you know from an audience promotional
+perspective whether they're you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/40-2
+00:04:27.356 --> 00:04:33.062
+<v Marshall, Jake>social companies who do something similar
+like programmatic but it's you know it's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/40-3
+00:04:33.062 --> 00:04:36.156
+<v Marshall, Jake>it's primarily you know exactly ad
+delivery.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/41-0
+00:04:36.396 --> 00:04:38.356
+<v Marshall, Jake>Free across the web.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/42-0
+00:04:37.636 --> 00:04:39.556
+<v Miller, Jeremy>Got it. OK, cool.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/43-0
+00:04:40.036 --> 00:04:43.316
+<v Marshall, Jake>Any other questions about PLT?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/45-0
+00:04:43.916 --> 00:04:50.091
+<v Skokos, Spiro>Yeah. So and then then there's I, I,
+I'm not sure if you mentioned it, Jake,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/45-1
+00:04:50.091 --> 00:04:56.186
+<v Skokos, Spiro>but there's the obviously there's the
+vanilla out-of-the-box skipta PLD and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/45-2
+00:04:56.186 --> 00:05:00.116
+<v Skokos, Spiro>then there's the bespoke customer related,
+yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/44-0
+00:04:56.716 --> 00:04:56.956
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/47-0
+00:04:58.316 --> 00:05:02.957
+<v Marshall, Jake>Yeah, for sure. And I have,
+I have a break on the on the next slide.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/46-0
+00:05:01.916 --> 00:05:03.516
+<v Skokos, Spiro>OK, yes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/47-1
+00:05:02.957 --> 00:05:06.387
+<v Marshall, Jake>Thank you, Spiro.
+So the the next kind of level of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/47-2
+00:05:06.387 --> 00:05:11.970
+<v Marshall, Jake>reporting is the aggregate data reporting.
+So this is what is sent to you know the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/47-3
+00:05:11.970 --> 00:05:17.014
+<v Marshall, Jake>the media planners and the and the
+non-technical folks who are our primary</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/47-4
+00:05:17.014 --> 00:05:17.956
+<v Marshall, Jake>buyers at the.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/48-0
+00:05:17.996 --> 00:05:18.436
+<v Marshall, Jake>Your team.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/49-0
+00:05:18.436 --> 00:05:23.042
+<v Marshall, Jake>Or you know at the media agency but also
+potentially directly to the client and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/49-1
+00:05:23.042 --> 00:05:27.475
+<v Marshall, Jake>this is really the the the the details
+and the context that we want to share</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/49-2
+00:05:27.475 --> 00:05:31.965
+<v Marshall, Jake>with with the partner to hopefully you
+know again either goes directly to the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/49-3
+00:05:31.965 --> 00:05:35.074
+<v Marshall, Jake>client or the good stuff makes its way to
+the client.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/49-4
+00:05:35.074 --> 00:05:38.356
+<v Marshall, Jake>But this is where you know we generally
+have a lot more.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-0
+00:05:38.436 --> 00:05:42.058
+<v Marshall, Jake>More flexibility here.
+I say generally because there are there</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-1
+00:05:42.058 --> 00:05:46.887
+<v Marshall, Jake>are also client aggregate data templates
+that are basically like their PLD process,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-2
+00:05:46.887 --> 00:05:49.417
+<v Marshall, Jake>but just there's an aggregate data
+process.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-3
+00:05:49.417 --> 00:05:52.522
+<v Marshall, Jake>But what we're really talking about here
+is you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-4
+00:05:52.522 --> 00:05:56.949
+<v Marshall, Jake>monthly tactic and audience level
+activity, you know, broken out by segment,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/50-5
+00:05:56.949 --> 00:05:58.156
+<v Marshall, Jake>broken out by tactic.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/51-0
+00:05:58.436 --> 00:06:02.291
+<v Marshall, Jake>That is also you know tracks to a
+campaign goal as well.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/51-1
+00:06:02.291 --> 00:06:05.267
+<v Marshall, Jake>So in this you know,
+monthly documentation,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/51-2
+00:06:05.267 --> 00:06:10.001
+<v Marshall, Jake>you know executive summary lays out the
+campaign, what the goals are,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/51-3
+00:06:10.001 --> 00:06:13.856
+<v Marshall, Jake>how we're pacing,
+provides highlights each month and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/51-4
+00:06:13.856 --> 00:06:16.156
+<v Marshall, Jake>what we're really trying to do is.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-0
+00:06:16.356 --> 00:06:19.646
+<v Marshall, Jake>You know, arm,
+arm the agencies as best we can to tell</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-1
+00:06:19.646 --> 00:06:24.551
+<v Marshall, Jake>our story to the brand and and you know,
+vouch for us because we're really trying</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-2
+00:06:24.551 --> 00:06:28.978
+<v Marshall, Jake>to, you know, overcome, you know,
+what can be interpreted through the PLD</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-3
+00:06:28.978 --> 00:06:31.789
+<v Marshall, Jake>alone,
+which sometimes isn't a favorable story</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-4
+00:06:31.789 --> 00:06:35.438
+<v Marshall, Jake>out of context, right.
+So we're really trying to provide the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/52-5
+00:06:35.438 --> 00:06:36.276
+<v Marshall, Jake>more holistic.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/53-0
+00:06:36.356 --> 00:06:41.116
+<v Marshall, Jake>Context to to the campaign and I'll I'll
+show you some some examples of what that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/53-1
+00:06:41.116 --> 00:06:45.760
+<v Marshall, Jake>looks like and probably best to to jump
+ahead a little bit now and we'll circle</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/53-2
+00:06:45.760 --> 00:06:48.372
+<v Marshall, Jake>back.
+But so so this is like the PLD example</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/53-3
+00:06:48.372 --> 00:06:52.261
+<v Marshall, Jake>that Spiro was mentioning.
+So this is just like a skip to standard</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/53-4
+00:06:52.261 --> 00:06:53.596
+<v Marshall, Jake>template. There's just.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/55-0
+00:06:53.796 --> 00:06:58.354
+<v Marshall, Jake>Number of fields, it's not exhaustive.
+This is kind of like the simplest</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/55-1
+00:06:58.354 --> 00:07:03.099
+<v Marshall, Jake>requirements in terms of you know who it
+is, MPI, where they saw the thing,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/55-2
+00:07:03.099 --> 00:07:07.157
+<v Marshall, Jake>you know what was the thing,
+what they did, you know, timestamp,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/54-0
+00:07:04.716 --> 00:07:05.196
+<v Miller, Jeremy>Mhm.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/55-3
+00:07:07.157 --> 00:07:10.716
+<v Marshall, Jake>whatever date.
+So but client formats which are which are</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/55-4
+00:07:10.716 --> 00:07:13.276
+<v Marshall, Jake>very often the case for PLD are you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/56-0
+00:07:13.756 --> 00:07:18.958
+<v Marshall, Jake>Based on their agreement and requirements
+and again the process required to to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/56-1
+00:07:18.958 --> 00:07:24.226
+<v Marshall, Jake>transmit the data as well and they can
+have things like you know creative level</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/56-2
+00:07:24.226 --> 00:07:29.626
+<v Marshall, Jake>reporting with with unique identifiers or
+multiple unique identifiers or you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/56-3
+00:07:29.626 --> 00:07:33.116
+<v Marshall, Jake>things like you know operating system or
+device and.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/57-0
+00:07:33.236 --> 00:07:35.610
+<v Marshall, Jake>And you know,
+all those kind of things a client might</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/57-1
+00:07:35.610 --> 00:07:37.676
+<v Marshall, Jake>ask about across the channels that we
+deliver.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/58-0
+00:07:39.876 --> 00:07:42.672
+<v Marshall, Jake>So this is,
+this is going back to that monthly</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/58-1
+00:07:42.672 --> 00:07:45.826
+<v Marshall, Jake>reporting again.
+So as I mentioned you know you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/58-2
+00:07:45.826 --> 00:07:50.526
+<v Marshall, Jake>generally how we set it up and and what
+what we'd love to be able to replicate</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/58-3
+00:07:50.526 --> 00:07:54.215
+<v Marshall, Jake>and further automate.
+Honestly we've we've we've been kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/58-4
+00:07:54.215 --> 00:07:58.916
+<v Marshall, Jake>really chipping away at the foundation
+and the supporting data and processing.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/60-0
+00:07:59.476 --> 00:07:59.956
+<v Marshall, Jake>This too.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/61-0
+00:07:59.956 --> 00:08:04.489
+<v Marshall, Jake>To enable an advancement like this.
+So you know we're we're we're excited for</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/59-0
+00:08:04.276 --> 00:08:04.436
+<v Visconti, Frank>Really.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/61-1
+00:08:04.489 --> 00:08:09.139
+<v Marshall, Jake>the project and and to see if this is
+actually what you guys had had envisioned</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/61-2
+00:08:09.139 --> 00:08:13.323
+<v Marshall, Jake>as well or or you know what we might have
+to sacrifice or or phase out.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/61-3
+00:08:13.323 --> 00:08:17.624
+<v Marshall, Jake>But again typically it's an executive
+summary as is on the left side here</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/61-4
+00:08:17.624 --> 00:08:19.716
+<v Marshall, Jake>consent examples of these of course.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/62-0
+00:08:19.956 --> 00:08:22.644
+<v Marshall, Jake>Of course too,
+but you can see you know which</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/62-1
+00:08:22.644 --> 00:08:27.320
+<v Marshall, Jake>communities you know the term of the
+campaign, the the the goal and the pacing,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/62-2
+00:08:27.320 --> 00:08:30.592
+<v Marshall, Jake>some highlights,
+a reminder of what they bought and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/62-3
+00:08:30.592 --> 00:08:34.450
+<v Marshall, Jake>how it's you know what how the
+deliverable is assessed. So again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/62-4
+00:08:34.450 --> 00:08:38.716
+<v Marshall, Jake>not not sure all of this would make it
+into this kind of interface, but.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/63-0
+00:08:38.956 --> 00:08:43.805
+<v Marshall, Jake>You know this is this is what is
+typically very helpful for us to keep the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/63-1
+00:08:43.805 --> 00:08:49.172
+<v Marshall, Jake>campaigns in the right you know frame of
+mind with our with our clients and then a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/63-2
+00:08:49.172 --> 00:08:52.534
+<v Marshall, Jake>couple examples of you know tactic
+specific sheets.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/63-3
+00:08:52.534 --> 00:08:57.706
+<v Marshall, Jake>So I probably didn't specify this but
+this this is typically delivered in Excel</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/63-4
+00:08:57.706 --> 00:08:58.676
+<v Marshall, Jake>format and the.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-0
+00:08:58.676 --> 00:09:02.015
+<v Marshall, Jake>The way that and and the the the data
+curation is is automated,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-1
+00:09:02.015 --> 00:09:06.136
+<v Marshall, Jake>but obviously there's there's a level of
+manual transposition that's happening</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-2
+00:09:06.136 --> 00:09:08.536
+<v Marshall, Jake>here.
+But there are some some good reasons to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-3
+00:09:08.536 --> 00:09:12.396
+<v Marshall, Jake>that in that it gives us, you know,
+ultimate flexibility to customize the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-4
+00:09:12.396 --> 00:09:16.466
+<v Marshall, Jake>columns and give the client exactly what
+they want and it's very common for a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/64-5
+00:09:16.466 --> 00:09:17.196
+<v Marshall, Jake>client to say.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-0
+00:09:17.716 --> 00:09:21.857
+<v Marshall, Jake>Hey, you know, I I know this is views,
+but I'd really love to see 3 plus second</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-1
+00:09:21.857 --> 00:09:25.997
+<v Marshall, Jake>views or five plus second views or you
+know, 20% video completions or whatever,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-2
+00:09:25.997 --> 00:09:28.016
+<v Marshall, Jake>right.
+So that's that's one of the the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-3
+00:09:28.016 --> 00:09:31.794
+<v Marshall, Jake>challenges that we have to kind of
+automate this further is the level of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-4
+00:09:31.794 --> 00:09:35.883
+<v Marshall, Jake>customization that our clients request
+and it's one of those things where if a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/65-5
+00:09:35.883 --> 00:09:37.436
+<v Marshall, Jake>client wants that and they're.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/66-0
+00:09:37.716 --> 00:09:40.665
+<v Marshall, Jake>Looking at these, you know,
+that is generally a great thing for</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/66-1
+00:09:40.665 --> 00:09:43.659
+<v Marshall, Jake>Skipton in terms of renewal.
+So we don't want to disincentivize,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/66-2
+00:09:43.659 --> 00:09:45.825
+<v Marshall, Jake>you know,
+being able to have that that kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/66-3
+00:09:45.825 --> 00:09:48.036
+<v Marshall, Jake>customization to the extent that it's
+possible.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/67-0
+00:09:49.236 --> 00:09:53.567
+<v Miller, Jeremy>Are are those customization,
+I'm just gonna call them requirements</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/67-1
+00:09:53.567 --> 00:09:56.992
+<v Miller, Jeremy>from the client.
+Are they for one client or are they</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/67-2
+00:09:56.992 --> 00:09:58.996
+<v Miller, Jeremy>generally consistent over time?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/68-0
+00:10:18.876 --> 00:10:19.036
+<v Miller, Jeremy>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-0
+00:10:19.476 --> 00:10:22.083
+<v Marshall, Jake>Comes in,
+they see the world a slightly different</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/69-0
+00:10:21.596 --> 00:10:21.836
+<v Miller, Jeremy>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-1
+00:10:22.083 --> 00:10:24.274
+<v Marshall, Jake>way.
+You know the the one client wants to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-2
+00:10:24.274 --> 00:10:28.289
+<v Marshall, Jake>categorize a group of something as a
+light engagement versus a versus a deep</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-3
+00:10:28.289 --> 00:10:31.001
+<v Marshall, Jake>engagement.
+The next client on the same brand says,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-4
+00:10:31.001 --> 00:10:34.704
+<v Marshall, Jake>you know, I don't really care about that.
+They can all be engagements.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/70-5
+00:10:34.704 --> 00:10:38.876
+<v Marshall, Jake>So there is there is some again some some
+level that that just kind of expects.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/72-0
+00:10:39.076 --> 00:10:43.382
+<v Marshall, Jake>Although there's certainly some room in
+cases to also probably, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/72-1
+00:10:43.382 --> 00:10:47.805
+<v Marshall, Jake>push back a little bit on that. Again,
+we've just, we've just been able to,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/72-2
+00:10:47.805 --> 00:10:50.657
+<v Marshall, Jake>you know,
+cater to to to the needs to the extent</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/72-3
+00:10:50.657 --> 00:10:54.556
+<v Marshall, Jake>that it's possible, you know,
+with our with our clients, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/72-4
+00:10:54.556 --> 00:10:55.836
+<v Marshall, Jake>for for the most part.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-0
+00:10:55.996 --> 00:10:59.799
+<v Marshall, Jake>Sometimes it's also just a semantics
+thing too, Jeremy. Sometimes it's just,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-1
+00:10:59.799 --> 00:11:02.861
+<v Marshall, Jake>you know, we know, you know,
+this is the standard way we call</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/73-0
+00:10:59.916 --> 00:11:00.076
+<v Miller, Jeremy>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-2
+00:11:02.861 --> 00:11:05.034
+<v Marshall, Jake>something,
+but we know the client prefers a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-3
+00:11:05.034 --> 00:11:07.651
+<v Marshall, Jake>different verbiage.
+And just as not to confuse them,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-4
+00:11:07.651 --> 00:11:11.553
+<v Marshall, Jake>especially if it's going to the brand
+client who might get just like peeved at</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/74-5
+00:11:11.553 --> 00:11:15.356
+<v Marshall, Jake>those kind of things like, hey, you know,
+this is how I refer to this thing.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/75-0
+00:11:15.636 --> 00:11:19.434
+<v Marshall, Jake>Stop trying to call this other thing like
+some of those things are just like again</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/75-1
+00:11:19.434 --> 00:11:21.676
+<v Marshall, Jake>like campaign or client specific
+customizations.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/80-0
+00:11:22.316 --> 00:11:25.464
+<v Malik, Hassan>So, so, so Jake,
+these seem to me mostly as customizable</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/76-0
+00:11:24.236 --> 00:11:24.396
+<v Marshall, Jake>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/80-1
+00:11:25.464 --> 00:11:29.550
+<v Malik, Hassan>configurable parameters, right?
+So if we can define requirement that way,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/77-0
+00:11:29.196 --> 00:11:29.356
+<v Miller, Jeremy>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/80-2
+00:11:29.550 --> 00:11:32.588
+<v Malik, Hassan>so for right.
+So for example you know the I think what</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/78-0
+00:11:31.196 --> 00:11:31.356
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/80-3
+00:11:32.588 --> 00:11:36.729
+<v Malik, Hassan>you what you mentioned earlier was you
+know along the lines of attribution</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/80-4
+00:11:36.729 --> 00:11:37.116
+<v Malik, Hassan>window.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/79-0
+00:11:36.956 --> 00:11:37.196
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/83-0
+00:11:37.316 --> 00:11:42.560
+<v Malik, Hassan>And that where you know some people or or
+you know what counts as a certain type of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/83-1
+00:11:42.560 --> 00:11:46.306
+<v Malik, Hassan>engagement, right.
+So I've dealt with for example customers</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/82-0
+00:11:43.076 --> 00:11:43.596
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/83-2
+00:11:46.306 --> 00:11:51.176
+<v Malik, Hassan>in the past who did not want to see any
+view through you know convergence for</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/83-3
+00:11:51.176 --> 00:11:54.110
+<v Malik, Hassan>example,
+right versus some customers that were</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/83-4
+00:11:54.110 --> 00:11:55.796
+<v Malik, Hassan>complete with OK with 100%.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/85-0
+00:11:55.876 --> 00:11:59.065
+<v Malik, Hassan>Some wanted,
+some would count something like, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/85-1
+00:11:59.065 --> 00:12:03.621
+<v Malik, Hassan>within two hours conversion because it
+was very difficult to argue that someone</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/85-2
+00:12:03.621 --> 00:12:07.893
+<v Malik, Hassan>saw an ad instead of clicking on it,
+they just opened a browser window and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/85-3
+00:12:07.893 --> 00:12:10.911
+<v Malik, Hassan>they bought right. So,
+so but but in the end, right,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/84-0
+00:12:07.996 --> 00:12:08.476
+<v Marshall, Jake>100%, Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/85-4
+00:12:10.911 --> 00:12:14.556
+<v Malik, Hassan>what we ended up building was, you know,
+a set of configurable.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/87-0
+00:12:14.996 --> 00:12:18.955
+<v Malik, Hassan>Parameters you know are both around
+different type of windows and different</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/87-1
+00:12:18.955 --> 00:12:21.925
+<v Malik, Hassan>type of actions.
+So I think we we can define it that way</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/87-2
+00:12:21.925 --> 00:12:26.145
+<v Malik, Hassan>and then build a system that can allow
+configuration per account or per customer</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/87-3
+00:12:26.145 --> 00:12:30.156
+<v Malik, Hassan>or per campaign or whatever we want to do
+here, right? And then then it can.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/89-0
+00:12:30.636 --> 00:12:33.337
+<v Malik, Hassan>Basically just be creating you know those
+reports.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/86-0
+00:12:31.076 --> 00:12:31.196
+<v Miller, Jeremy>But.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/89-1
+00:12:33.337 --> 00:12:37.416
+<v Malik, Hassan>I also want to you know understand and
+this exact assembly assembly as well.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/89-2
+00:12:37.416 --> 00:12:41.282
+<v Malik, Hassan>I think you know can mostly be automated
+again if you can templatize it,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/89-3
+00:12:41.282 --> 00:12:45.413
+<v Malik, Hassan>if you can define what are different
+sections you know and and then it can be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/88-0
+00:12:42.636 --> 00:12:42.956
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/89-4
+00:12:45.413 --> 00:12:45.996
+<v Malik, Hassan>configured.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-0
+00:12:46.676 --> 00:12:49.968
+<v Malik, Hassan>You know, enable,
+disabled for them at a campaign level and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-1
+00:12:49.968 --> 00:12:54.303
+<v Malik, Hassan>what what what's the information that
+goes there. So far I don't see anything,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/90-0
+00:12:53.996 --> 00:12:54.396
+<v Marshall, Jake>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-2
+00:12:54.303 --> 00:12:56.992
+<v Malik, Hassan>anything,
+but I also want you know anything that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-3
+00:12:56.992 --> 00:13:00.449
+<v Malik, Hassan>that cannot be done.
+But I I I also want to understand how are</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-4
+00:13:00.449 --> 00:13:03.687
+<v Malik, Hassan>we joining, right,
+which was the whole premise of you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/91-5
+00:13:03.687 --> 00:13:06.156
+<v Malik, Hassan>the the, the, the, this,
+how are we joining?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/93-0
+00:13:06.596 --> 00:13:11.727
+<v Malik, Hassan>The RWD data today right with these
+campaign level metrics and what type of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/92-0
+00:13:10.156 --> 00:13:10.396
+<v Visconti, Frank>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/93-1
+00:13:11.727 --> 00:13:14.900
+<v Malik, Hassan>insights are we producing right? Uh,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/93-2
+00:13:14.900 --> 00:13:17.196
+<v Malik, Hassan>super set of them will be awesome.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/94-0
+00:13:15.316 --> 00:13:18.223
+<v Marshall, Jake>For sure.
+Well you are you're teeing me up</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/94-1
+00:13:18.223 --> 00:13:22.956
+<v Marshall, Jake>beautifully so I'm I'm I'm just about to
+get into that. So thank you.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/94-2
+00:13:22.956 --> 00:13:28.568
+<v Marshall, Jake>So so skip this part for now although it
+pertains to that but I have it broken out</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/94-3
+00:13:28.568 --> 00:13:32.827
+<v Marshall, Jake>in a better example.
+Actually I'll I'll I'll show the pictures</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/94-4
+00:13:32.827 --> 00:13:33.436
+<v Marshall, Jake>first so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/95-0
+00:13:34.996 --> 00:13:39.596
+<v Marshall, Jake>Actually, no, I'll circle back there. So,
+so essentially.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/96-0
+00:13:40.756 --> 00:13:43.946
+<v Marshall, Jake>Once we have the the MPIs,
+so assign to your point,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/96-1
+00:13:43.946 --> 00:13:48.853
+<v Marshall, Jake>you're you know you're you're all over it,
+right. It's just you know how do we,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/96-2
+00:13:48.853 --> 00:13:53.515
+<v Marshall, Jake>how do we kind of account for all the
+variables in the engagements and then</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/96-3
+00:13:53.515 --> 00:13:57.809
+<v Marshall, Jake>just kind of semantics wise,
+how do we kind of cover what what things</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/96-4
+00:13:57.809 --> 00:13:59.956
+<v Marshall, Jake>are called and and how it shows up.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/97-0
+00:14:00.356 --> 00:14:06.011
+<v Marshall, Jake>But basically for for us you know it all
+starts with you know with with the MPIs</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/97-1
+00:14:06.011 --> 00:14:11.457
+<v Marshall, Jake>or I should say you know tracks back to
+the MPIs as as the unique identifier.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/97-2
+00:14:11.457 --> 00:14:16.554
+<v Marshall, Jake>You know we are just doing a lot of our
+our our joins on our side from a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/97-3
+00:14:16.554 --> 00:14:19.836
+<v Marshall, Jake>reporting perspective on on the user ID
+which.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/98-0
+00:14:20.276 --> 00:14:23.909
+<v Marshall, Jake>The e-mail address,
+but obviously when we're when we're</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/98-1
+00:14:23.909 --> 00:14:27.087
+<v Marshall, Jake>trying to qualify activity from HEP
+perspective,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/98-2
+00:14:27.087 --> 00:14:31.887
+<v Marshall, Jake>we're tracking back to the unique MPI.
+You know all the HEPS that that we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/98-3
+00:14:31.887 --> 00:14:36.298
+<v Marshall, Jake>interact with are are you have an MPI at
+least to to to this point.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/98-4
+00:14:36.298 --> 00:14:39.996
+<v Marshall, Jake>So essentially what we are doing is on a
+periodic basis.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/99-0
+00:14:40.116 --> 00:14:44.775
+<v Marshall, Jake>Basis because we don't have this part you
+know automated to be reflected back in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/99-1
+00:14:44.775 --> 00:14:49.147
+<v Marshall, Jake>that in that monthly reporting yet
+something we were thinking about but you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/99-2
+00:14:49.147 --> 00:14:53.691
+<v Marshall, Jake>know may be able to accomplish here of
+course based on what we're doing Hassan</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/99-3
+00:14:53.691 --> 00:14:58.408
+<v Marshall, Jake>and Jeremy is you know taking those lists
+of MPIs which are either you know based</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/99-4
+00:14:58.408 --> 00:14:59.156
+<v Marshall, Jake>on exposures.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/100-0
+00:14:59.716 --> 00:15:06.223
+<v Marshall, Jake>Or actions or you know what we call
+engagements and basically taking those to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/100-1
+00:15:06.223 --> 00:15:12.229
+<v Marshall, Jake>show the like the patients treated
+historically just as a just to get a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/100-2
+00:15:12.229 --> 00:15:19.236
+<v Marshall, Jake>sense of you know kind of you know these
+are the right HCP. So basically trying to.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/101-0
+00:15:19.596 --> 00:15:24.423
+<v Marshall, Jake>Quantify the the patient treatment
+behavior kind of at at a minimum we'll do</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/101-1
+00:15:24.423 --> 00:15:27.245
+<v Marshall, Jake>that.
+And then it's just a question of do we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/101-2
+00:15:27.245 --> 00:15:32.260
+<v Marshall, Jake>look at you know prescribing behavior or
+procedural behavior as is relevant and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/101-3
+00:15:32.260 --> 00:15:37.276
+<v Marshall, Jake>and you know there are some ways that
+that we can essentially do that here but.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/102-0
+00:15:37.636 --> 00:15:40.023
+<v Marshall, Jake>Again,
+so basically we're saying you know what's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/102-1
+00:15:40.023 --> 00:15:43.481
+<v Marshall, Jake>the number of HCPS we reached,
+how does what's the percent or you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/102-2
+00:15:43.481 --> 00:15:46.307
+<v Marshall, Jake>or or engaged again kind of depending on
+how you pull it,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/102-3
+00:15:46.307 --> 00:15:50.057
+<v Marshall, Jake>how does that track as a percentage to
+the target list which is you know the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/102-4
+00:15:50.057 --> 00:15:53.516
+<v Marshall, Jake>group of of HCPS we intended to engage or
+or expose your messaging to?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/103-0
+00:15:53.956 --> 00:15:58.593
+<v Marshall, Jake>Put that into some frequency calculations
+cause you know that's that's something</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/103-1
+00:15:58.593 --> 00:16:02.141
+<v Marshall, Jake>important to summarize.
+So you know you know views for HCP or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/103-2
+00:16:02.141 --> 00:16:06.549
+<v Marshall, Jake>engage for HCP and then we basically say
+OK you know of those HC PS who were</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/103-3
+00:16:06.549 --> 00:16:09.869
+<v Marshall, Jake>exposed or engaged, you know XYZ, right.
+So here's their,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/103-4
+00:16:09.869 --> 00:16:13.876
+<v Marshall, Jake>here's their you know treatment history
+of patients with Alzheimer's.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/104-0
+00:16:13.956 --> 00:16:18.803
+<v Marshall, Jake>Disease over the prior 12 months and then
+and then kind of throw that into a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/104-1
+00:16:18.803 --> 00:16:22.454
+<v Marshall, Jake>frequency as well.
+So that's kind of like the the minimum</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/104-2
+00:16:22.454 --> 00:16:27.553
+<v Marshall, Jake>that we'll do and this is actually when
+we talk about like identifying potential</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/104-3
+00:16:27.553 --> 00:16:29.316
+<v Marshall, Jake>additional segments of HCPS.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-0
+00:16:29.636 --> 00:16:33.524
+<v Marshall, Jake>One of the ways that this is actually
+really helpful is if we have already done</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-1
+00:16:33.524 --> 00:16:35.809
+<v Marshall, Jake>that.
+So there are often cases where we have a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-2
+00:16:35.809 --> 00:16:39.357
+<v Marshall, Jake>group of HC PS participating in the
+program that are skipped the sourced</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-3
+00:16:39.357 --> 00:16:42.954
+<v Marshall, Jake>based on their patient treatment
+behaviors or prescribing behaviors or or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-4
+00:16:42.954 --> 00:16:45.433
+<v Marshall, Jake>other RWD.
+So you know we're already we're already</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-5
+00:16:45.433 --> 00:16:49.030
+<v Marshall, Jake>doing that and this is always a good
+opportunity to remind the client and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/105-6
+00:16:49.030 --> 00:16:49.516
+<v Marshall, Jake>reinforce.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/106-0
+00:16:49.636 --> 00:16:53.029
+<v Marshall, Jake>You know why they're doing that, right?
+So it's it's one,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/106-1
+00:16:53.029 --> 00:16:57.709
+<v Marshall, Jake>it's good to just to kind of try to take
+stock and and translate to real people</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/106-2
+00:16:57.709 --> 00:17:02.096
+<v Marshall, Jake>and real patients in terms of your
+potential future behavior based on your</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/106-3
+00:17:02.096 --> 00:17:06.484
+<v Marshall, Jake>historic behavior. But you know it's also,
+you know, helpful to, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/106-4
+00:17:06.484 --> 00:17:09.116
+<v Marshall, Jake>take care of the other, the other,
+you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/107-0
+00:17:09.516 --> 00:17:15.158
+<v Marshall, Jake>Pieces as well from from that perspective.
+So the other I should say so that's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/107-1
+00:17:15.158 --> 00:17:20.871
+<v Marshall, Jake>that's a patient treatment perspective
+and then there's essentially what do you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/107-2
+00:17:20.871 --> 00:17:26.656
+<v Marshall, Jake>do in terms of you know scripts written
+or or procedures performed right and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/107-3
+00:17:26.656 --> 00:17:29.156
+<v Marshall, Jake>honestly at the scale that we work.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/108-0
+00:17:29.276 --> 00:17:35.951
+<v Marshall, Jake>With you know it's not always the easiest
+thing to to show that in a in a favorable</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/108-1
+00:17:35.951 --> 00:17:41.354
+<v Marshall, Jake>way versus a control group.
+So you know it it really depends on the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/108-2
+00:17:41.354 --> 00:17:46.996
+<v Marshall, Jake>situation and and the feasibility,
+but you know we may also using the.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/109-0
+00:17:46.996 --> 00:17:50.743
+<v Marshall, Jake>What we've worked on with with the RWD
+data science team,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/109-1
+00:17:50.743 --> 00:17:55.782
+<v Marshall, Jake>you know do a script lift methodology
+based on you know change in prescribing</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/109-2
+00:17:55.782 --> 00:17:59.852
+<v Marshall, Jake>behaviour over time.
+I think I think you know that is a little</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/109-3
+00:17:59.852 --> 00:18:02.436
+<v Marshall, Jake>trickier to accomplish and and actually.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/110-0
+00:18:02.956 --> 00:18:07.603
+<v Marshall, Jake>You know quantifying scripts written or
+for those HC PS who are care team members</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/110-1
+00:18:07.603 --> 00:18:12.081
+<v Marshall, Jake>like you know scripts influenced like and
+being able to automate that would be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/110-2
+00:18:12.081 --> 00:18:16.615
+<v Marshall, Jake>would be a great initial step because
+obviously that is just you know based off</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/110-3
+00:18:16.615 --> 00:18:21.149
+<v Marshall, Jake>the MPI or having a shared patient with
+an with an MPI if if we kind of did the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/110-4
+00:18:21.149 --> 00:18:22.396
+<v Marshall, Jake>the the route for the.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/111-0
+00:18:22.916 --> 00:18:27.070
+<v Marshall, Jake>Care team and that would be significantly
+more data than than these clients</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/111-1
+00:18:27.070 --> 00:18:30.732
+<v Marshall, Jake>typically have on their programs in a
+near real-time basis, right?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/111-2
+00:18:30.732 --> 00:18:33.356
+<v Marshall, Jake>Like it's very rare for them to even see,
+well,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/111-3
+00:18:33.356 --> 00:18:36.034
+<v Marshall, Jake>here's your historic patient treatment
+behavior.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/111-4
+00:18:36.034 --> 00:18:40.516
+<v Marshall, Jake>It's significantly more rare to have a
+have a and and I think exciting to have a.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/112-0
+00:18:40.596 --> 00:18:43.479
+<v Marshall, Jake>Vendor who is proactively sharing the,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/112-1
+00:18:43.479 --> 00:18:47.185
+<v Marshall, Jake>script impact or or at least the you know
+total script impact,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/112-2
+00:18:47.185 --> 00:18:51.715
+<v Marshall, Jake>you know not not for the control group
+over time from the HC PS that are you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/112-3
+00:18:51.715 --> 00:18:55.716
+<v Marshall, Jake>know being reached with the messaging for
+the for the given vendor.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/113-0
+00:18:56.716 --> 00:19:02.459
+<v Malik, Hassan>So is script in fact pretty much the de
+facto optimization metric here for all</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/113-1
+00:19:02.459 --> 00:19:05.076
+<v Malik, Hassan>these campaigns or are there others?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/116-0
+00:19:05.236 --> 00:19:09.332
+<v Marshall, Jake>Well, it's a fascinating question.
+So it's actually not because it's not</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/116-1
+00:19:09.332 --> 00:19:13.036
+<v Marshall, Jake>readily available and obtainable across
+all tactics and partners.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/116-2
+00:19:13.036 --> 00:19:17.188
+<v Marshall, Jake>But but you know you're hitting on
+something that if if you did have this</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/116-3
+00:19:17.188 --> 00:19:21.733
+<v Marshall, Jake>scale like that's a great story to tell
+to the client that we're optimizing your</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/116-4
+00:19:21.733 --> 00:19:25.156
+<v Marshall, Jake>campaign based on based on actual
+prescribing behavior what.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/115-0
+00:19:24.636 --> 00:19:24.876
+<v Visconti, Frank>Yes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/117-0
+00:19:25.236 --> 00:19:30.146
+<v Marshall, Jake>Essentially happens in the real world.
+Hassan is you know they're they're making</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/117-1
+00:19:30.146 --> 00:19:34.875
+<v Marshall, Jake>optimizations off of you know proxies,
+you know media metrics in terms of you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/117-2
+00:19:34.875 --> 00:19:37.785
+<v Marshall, Jake>know click rate and and all those things
+right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/117-3
+00:19:37.785 --> 00:19:42.877
+<v Marshall, Jake>Action based you know metrics and and the
+the prescribed behavior is such a lagging</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/117-4
+00:19:42.877 --> 00:19:44.756
+<v Marshall, Jake>metric that you know you don't.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-0
+00:19:44.836 --> 00:19:49.030
+<v Marshall, Jake>Find out till 12 months later how you
+performed on their script left exercise,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-1
+00:19:49.030 --> 00:19:51.471
+<v Marshall, Jake>right.
+So there's and and and some of that is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/118-0
+00:19:49.356 --> 00:19:49.596
+<v Malik, Hassan>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-2
+00:19:51.471 --> 00:19:55.718
+<v Marshall, Jake>also just the practical part of some of
+these campaigns or you know hundreds of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-3
+00:19:55.718 --> 00:19:58.531
+<v Marshall, Jake>oncologists.
+So given the challenges of even getting</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-4
+00:19:58.531 --> 00:20:02.513
+<v Marshall, Jake>that data but also at that scale
+sometimes these are it just it's just not</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/119-5
+00:20:02.513 --> 00:20:04.636
+<v Marshall, Jake>a feasible measurement you know and and.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/120-0
+00:20:04.756 --> 00:20:08.607
+<v Marshall, Jake>And oftentimes we're dealing with rare
+disease or smaller groups.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/120-1
+00:20:08.607 --> 00:20:13.392
+<v Marshall, Jake>So that's where I feel like I don't know
+if maybe that is the attack on component</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/120-2
+00:20:13.392 --> 00:20:16.368
+<v Marshall, Jake>and an upsell opportunity to be able to,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/120-3
+00:20:16.368 --> 00:20:20.920
+<v Marshall, Jake>enable some script lift measurement or
+optimize based off of an actual script</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/120-4
+00:20:20.920 --> 00:20:24.596
+<v Marshall, Jake>lift versus control.
+But I think at a minimum if we were able.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/121-0
+00:20:24.636 --> 00:20:27.594
+<v Marshall, Jake>Pull it off, you know, tracking those,
+those scripts or again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/121-1
+00:20:27.594 --> 00:20:31.539
+<v Marshall, Jake>I think they have very limited visibility
+if it's not the actual prescriber, right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/121-2
+00:20:31.539 --> 00:20:33.980
+<v Marshall, Jake>They don't,
+they don't have no idea what the nurses</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/121-3
+00:20:33.980 --> 00:20:37.596
+<v Marshall, Jake>and the PAS are doing and and that is
+also lagging data they're getting from</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/121-4
+00:20:37.596 --> 00:20:40.836
+<v Marshall, Jake>IQVIA several months later, right.
+So we were also able to say, hey.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/123-0
+00:20:41.116 --> 00:20:45.252
+<v Marshall, Jake>And for your, you know, N PS or PC PS,
+here's the scripts they're influencing,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/123-1
+00:20:45.252 --> 00:20:46.980
+<v Marshall, Jake>right.
+So that allows us to take</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/123-2
+00:20:46.980 --> 00:20:50.226
+<v Marshall, Jake>disproportionate credit versus our
+competitors for, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/123-3
+00:20:50.226 --> 00:20:54.048
+<v Marshall, Jake>the messages we're getting in front of
+those, you know, care team HC PS,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/123-4
+00:20:54.048 --> 00:20:54.676
+<v Marshall, Jake>for example.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/125-0
+00:20:55.236 --> 00:20:59.576
+<v Malik, Hassan>Yep, makes makes sense.
+So the the landing page is almost always</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/124-0
+00:20:57.916 --> 00:20:58.036
+<v Marshall, Jake>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/125-1
+00:20:59.576 --> 00:21:03.248
+<v Malik, Hassan>a skipped up property right now, correct?
+Or you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/125-2
+00:21:03.248 --> 00:21:08.590
+<v Malik, Hassan>because I remember discuss you know some
+discussions around the creative taking</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/125-3
+00:21:08.590 --> 00:21:12.796
+<v Malik, Hassan>you know the click to the you know the
+customer side directly.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/126-0
+00:21:13.236 --> 00:21:13.796
+<v Malik, Hassan>Is it?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-0
+00:21:13.396 --> 00:21:16.285
+<v Marshall, Jake>So, so good, so good question. So,
+so for that,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-1
+00:21:16.285 --> 00:21:19.836
+<v Marshall, Jake>for that programmatic media part that we
+had talked about,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-2
+00:21:19.836 --> 00:21:23.327
+<v Marshall, Jake>we leveraged the programmatic media
+partners in two ways.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-3
+00:21:23.327 --> 00:21:27.540
+<v Marshall, Jake>So one of them is to drive you know
+traffic back to our our platform.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-4
+00:21:27.540 --> 00:21:30.850
+<v Marshall, Jake>So that's not the data we would be
+talking about here,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/128-5
+00:21:30.850 --> 00:21:32.836
+<v Marshall, Jake>but that that media is, is going.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/129-0
+00:21:33.356 --> 00:21:37.417
+<v Marshall, Jake>To the partner website.
+So that is that is that is you know like</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/129-1
+00:21:37.417 --> 00:21:42.602
+<v Marshall, Jake>I mean I guess all their banners click to
+the partner website but you know that is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/129-2
+00:21:42.602 --> 00:21:47.288
+<v Marshall, Jake>that is not happening on the skip to
+platform that is going to the partner</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/129-3
+00:21:47.288 --> 00:21:49.975
+<v Marshall, Jake>site.
+The one one tactic that we have is a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/129-4
+00:21:49.975 --> 00:21:53.036
+<v Marshall, Jake>partner micro site.
+So it's you know it's their.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/130-0
+00:21:53.116 --> 00:21:57.690
+<v Marshall, Jake>It's their page that they designate
+enabled in our platform via an iframe.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/130-1
+00:21:57.690 --> 00:22:01.166
+<v Marshall, Jake>So in that they're still visiting the
+skip the property,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/130-2
+00:22:01.166 --> 00:22:05.069
+<v Marshall, Jake>they just are also visiting the client's
+site at the same time.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/130-3
+00:22:05.069 --> 00:22:07.996
+<v Marshall, Jake>So all that data is tracked through
+through us.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/131-0
+00:22:05.436 --> 00:22:10.558
+<v Malik, Hassan>Good. So the reason I made, yeah,
+the reason I made made that comment is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/131-1
+00:22:10.558 --> 00:22:14.838
+<v Malik, Hassan>that right there. So,
+so there are you know, very, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/131-2
+00:22:14.838 --> 00:22:20.101
+<v Malik, Hassan>straightforward but somewhat shallow
+engagement metric like clicks, right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/131-3
+00:22:20.101 --> 00:22:22.276
+<v Malik, Hassan>And of course you know viewing.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/133-0
+00:22:22.556 --> 00:22:27.198
+<v Malik, Hassan>Uh, the impressions and stuff like that.
+But then there are there and and and the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/133-1
+00:22:27.198 --> 00:22:31.330
+<v Malik, Hassan>ideal is you know script writing,
+but it's like so if we can define some</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/133-2
+00:22:31.330 --> 00:22:35.972
+<v Malik, Hassan>sort of a standard way of uh of providing
+a deeper engagement metric of some sort</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/133-3
+00:22:35.972 --> 00:22:38.916
+<v Malik, Hassan>um like uh and include that,
+I think that could be.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/135-0
+00:22:39.276 --> 00:22:44.836
+<v Malik, Hassan>Evaluate and and and but when when I say
+deeper right I've you know seen things</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/135-1
+00:22:44.836 --> 00:22:47.964
+<v Malik, Hassan>like there is let's say a sub website
+right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/135-2
+00:22:47.964 --> 00:22:53.663
+<v Malik, Hassan>So so so so you click on you land on some
+page but then there are there is a form</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/135-3
+00:22:53.663 --> 00:22:58.876
+<v Malik, Hassan>that the customer submits or there are
+bunch of secondary pages like that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/134-0
+00:22:58.476 --> 00:22:58.836
+<v Marshall, Jake>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-0
+00:22:59.236 --> 00:23:02.378
+<v Malik, Hassan>You would click on and go.
+So which basically indicates more time</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-1
+00:23:02.378 --> 00:23:04.568
+<v Malik, Hassan>spent,
+right or and you deploy a pixel there,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-2
+00:23:04.568 --> 00:23:06.663
+<v Malik, Hassan>right,
+which you know could call be called,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-3
+00:23:06.663 --> 00:23:09.091
+<v Malik, Hassan>you know,
+secondary engagement pixel or conversion</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-4
+00:23:09.091 --> 00:23:11.900
+<v Malik, Hassan>pixel, whatever you want to call it.
+But then we can show,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-5
+00:23:11.900 --> 00:23:15.042
+<v Malik, Hassan>we can optimize on that, right,
+'cause that would be more readily</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-6
+00:23:15.042 --> 00:23:17.327
+<v Malik, Hassan>available,
+would be a subset of people that are</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/137-7
+00:23:17.327 --> 00:23:17.756
+<v Malik, Hassan>clicking.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/139-0
+00:23:18.156 --> 00:23:20.760
+<v Malik, Hassan>Right.
+So that's one one thing that often works,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/136-0
+00:23:18.436 --> 00:23:18.676
+<v Marshall, Jake>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/139-1
+00:23:20.760 --> 00:23:25.117
+<v Malik, Hassan>especially if it can show a higher level
+of interest in the product or something,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/138-0
+00:23:22.116 --> 00:23:22.236
+<v Visconti, Frank>But.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-0
+00:23:23.836 --> 00:23:27.923
+<v Marshall, Jake>No, it's it's it's a great point.
+We do provide those metrics and we'll</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/139-2
+00:23:25.117 --> 00:23:25.436
+<v Malik, Hassan>right?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-1
+00:23:27.923 --> 00:23:31.045
+<v Marshall, Jake>certainly go through kind of all the
+standard metrics,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-2
+00:23:31.045 --> 00:23:35.189
+<v Marshall, Jake>but things like you know questions
+answered and comments and some of the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-3
+00:23:35.189 --> 00:23:39.105
+<v Marshall, Jake>action oriented things that you know not
+necessarily depth of visit,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/140-0
+00:23:36.796 --> 00:23:37.396
+<v Malik, Hassan>Yes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-4
+00:23:39.105 --> 00:23:42.397
+<v Marshall, Jake>but I do have to,
+I do have to like I have to kind of set</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/141-5
+00:23:42.397 --> 00:23:43.476
+<v Marshall, Jake>expectations there.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/142-0
+00:23:43.676 --> 00:23:49.584
+<v Marshall, Jake>There in that it sounds great Ahsan and
+it and it and it can be great if you're</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/142-1
+00:23:49.584 --> 00:23:53.719
+<v Marshall, Jake>working with scale,
+but just the the scale that we see,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/142-2
+00:23:53.719 --> 00:23:59.036
+<v Marshall, Jake>you are generally seeing very little of
+that behavior and very shallow.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/145-0
+00:23:59.276 --> 00:24:02.333
+<v Marshall, Jake>Experiences.
+So you know we we have we have users who</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/143-0
+00:24:00.476 --> 00:24:01.556
+<v Malik, Hassan>Got it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/145-1
+00:24:02.333 --> 00:24:06.182
+<v Marshall, Jake>go real deep and stick around for several
+minutes or several hours.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/145-2
+00:24:06.182 --> 00:24:10.711
+<v Marshall, Jake>We also have way more users who are there
+for a second right or you know or and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/144-0
+00:24:10.276 --> 00:24:10.676
+<v Malik, Hassan>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/145-3
+00:24:10.711 --> 00:24:13.937
+<v Marshall, Jake>don't do anything.
+So you know it's one of those and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/145-4
+00:24:13.937 --> 00:24:18.636
+<v Marshall, Jake>it's also the other part of is I always
+say it's it's it's a math problem in that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/146-0
+00:24:18.836 --> 00:24:18.996
+<v Marshall, Jake>You know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/148-0
+00:24:19.236 --> 00:24:24.092
+<v Marshall, Jake>We might have a campaign for oncologists
+where, you know, we expect to get,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/148-1
+00:24:24.092 --> 00:24:27.095
+<v Marshall, Jake>you know,
+500 views on a custom asset over the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/148-2
+00:24:27.095 --> 00:24:31.504
+<v Marshall, Jake>course of, you know, five months.
+Now in that 500 views, just again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/148-3
+00:24:31.504 --> 00:24:35.337
+<v Marshall, Jake>just just the math,
+I actually don't expect anyone to click</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/148-4
+00:24:35.337 --> 00:24:38.596
+<v Marshall, Jake>on a link in there just because the the
+benchmark.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/151-0
+00:24:39.196 --> 00:24:43.019
+<v Marshall, Jake>For for that kind of behavior or right or
+or I guess in that you know it's it's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/147-0
+00:24:40.756 --> 00:24:40.956
+<v Malik, Hassan>Sir.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/151-1
+00:24:43.019 --> 00:24:45.600
+<v Marshall, Jake>like 1% right.
+So we got we get like 5 clicks in that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/149-0
+00:24:44.676 --> 00:24:44.996
+<v Malik, Hassan>Done.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/151-2
+00:24:45.600 --> 00:24:47.989
+<v Marshall, Jake>example.
+So and then it's like if you want even a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/151-3
+00:24:47.989 --> 00:24:51.956
+<v Marshall, Jake>deeper engagement behind that like you're
+you're not going to get any but it is it</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/150-0
+00:24:50.796 --> 00:24:52.436
+<v Malik, Hassan>Yeah, under understood.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/151-4
+00:24:51.956 --> 00:24:55.636
+<v Marshall, Jake>is the right way to be thinking about it.
+It's just then you have to say OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/153-0
+00:24:56.356 --> 00:25:00.396
+<v Marshall, Jake>Again what is what is kind of the
+standard way you show it if because you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/153-1
+00:25:00.396 --> 00:25:04.982
+<v Marshall, Jake>don't want to you don't want to nudge the
+client to look at those things if it's if</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/153-2
+00:25:04.982 --> 00:25:09.350
+<v Marshall, Jake>it's not a favorable story and and those
+things and not to be and it's not it's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/152-0
+00:25:05.916 --> 00:25:07.756
+<v Malik, Hassan>Yeah, no, I.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/153-3
+00:25:09.350 --> 00:25:13.554
+<v Marshall, Jake>not honestly just to skip the problem
+it's it's a scale of the audiences and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/153-4
+00:25:13.554 --> 00:25:15.956
+<v Marshall, Jake>also just how you know a physician
+behaves.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/155-0
+00:25:16.156 --> 00:25:20.327
+<v Marshall, Jake>Your problem or you know just consumer
+behavior right now and I think the the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/155-1
+00:25:20.327 --> 00:25:24.337
+<v Marshall, Jake>nice thing about the some of the
+programmatic stuff is if you can get that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/154-0
+00:25:22.036 --> 00:25:22.276
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/155-2
+00:25:24.337 --> 00:25:28.508
+<v Marshall, Jake>scale and impression delivery and the
+clicks and and then you have a a a much</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/155-3
+00:25:28.508 --> 00:25:31.396
+<v Marshall, Jake>larger scale potentially of those
+sequential actions.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/156-0
+00:25:32.836 --> 00:25:35.184
+<v Marshall, Jake>So you know,
+it's just it's just something to keep in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/156-1
+00:25:35.184 --> 00:25:36.836
+<v Marshall, Jake>mind, but I like what you're thinking.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/158-0
+00:25:35.236 --> 00:25:40.171
+<v Malik, Hassan>Yeah, no, it makes perfect sense. I mean,
+I'm and I was referring to opportunities</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/157-0
+00:25:38.836 --> 00:25:39.076
+<v Marshall, Jake>Hmm.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/158-1
+00:25:40.171 --> 00:25:44.036
+<v Malik, Hassan>where scale is available, right? You know,
+like programming, so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-0
+00:25:42.676 --> 00:25:45.083
+<v Marshall, Jake>Well,
+and and and just a a way simpler way to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-1
+00:25:45.083 --> 00:25:48.328
+<v Marshall, Jake>think about it too is just something like
+average time spent.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-2
+00:25:48.328 --> 00:25:52.462
+<v Marshall, Jake>Like we will have to think like do we
+want to show that in in a summary if you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/159-0
+00:25:48.836 --> 00:25:49.036
+<v Malik, Hassan>What?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-3
+00:25:52.462 --> 00:25:56.858
+<v Marshall, Jake>know there's a chance that the campaign's
+been running for a month and that numbers</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-4
+00:25:56.858 --> 00:25:59.265
+<v Marshall, Jake>really doesn't look great and out of
+context,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/160-5
+00:25:59.265 --> 00:26:02.196
+<v Marshall, Jake>we actually don't want to show it in the
+dashboard, so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-0
+00:26:02.476 --> 00:26:06.741
+<v Marshall, Jake>So there's those types of considerations
+where sometimes we're, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-1
+00:26:06.741 --> 00:26:11.351
+<v Marshall, Jake>trying to tell the best story possible.
+And sometimes it's something simple as,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-2
+00:26:11.351 --> 00:26:13.945
+<v Marshall, Jake>you know,
+the client's creative actually has</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-3
+00:26:13.945 --> 00:26:17.230
+<v Marshall, Jake>nowhere to click in it,
+so there's going to be 0 clicks.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-4
+00:26:17.230 --> 00:26:21.668
+<v Marshall, Jake>So it's nice in the Excel format to be
+able to remind the client of that and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/162-5
+00:26:21.668 --> 00:26:21.956
+<v Marshall, Jake>show.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-0
+00:26:21.996 --> 00:26:26.125
+<v Marshall, Jake>A screenshot and say hey, oh by the way,
+you know zero clicks are expected here</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-1
+00:26:26.125 --> 00:26:28.602
+<v Marshall, Jake>because there's nowhere to click in this
+thing.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-2
+00:26:28.602 --> 00:26:32.576
+<v Marshall, Jake>Like that's the kind of context that
+sometimes can be really helpful just to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-3
+00:26:32.576 --> 00:26:35.311
+<v Marshall, Jake>keep from like a campaign getting getting
+cancelled.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-4
+00:26:35.311 --> 00:26:39.234
+<v Marshall, Jake>Honestly the and I'll go back and show
+you some of the script lifts and ROI</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/163-5
+00:26:39.234 --> 00:26:41.556
+<v Marshall, Jake>stuff,
+but but basically then what we'll do.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/164-0
+00:26:41.756 --> 00:26:44.826
+<v Marshall, Jake>Is again,
+we'll we'll execute that ROI script lift</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/164-1
+00:26:44.826 --> 00:26:48.316
+<v Marshall, Jake>measurement versus a control that we
+worked on, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/164-2
+00:26:48.316 --> 00:26:52.108
+<v Marshall, Jake>having a methodology with the data
+science team. And you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/164-3
+00:26:52.108 --> 00:26:56.080
+<v Marshall, Jake>it's one of those things where again,
+the audiences are so small,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/164-4
+00:26:56.080 --> 00:27:01.076
+<v Marshall, Jake>you know you're not always guaranteed to
+have a, you know, a positive script lift.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/165-0
+00:27:01.476 --> 00:27:06.168
+<v Marshall, Jake>And it's one of those things and and
+again it's sometimes the the you know the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/165-1
+00:27:06.168 --> 00:27:10.919
+<v Marshall, Jake>scale of the actual delivery is so small
+and so what are you really basing that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/165-2
+00:27:10.919 --> 00:27:15.076
+<v Marshall, Jake>behaviour change on anyway.
+So there is some consideration about when</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/165-3
+00:27:15.076 --> 00:27:19.768
+<v Marshall, Jake>it makes sense to use those and with
+where is it feasible and and and where is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/165-4
+00:27:19.768 --> 00:27:20.956
+<v Marshall, Jake>it only directional.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/166-0
+00:27:21.356 --> 00:27:24.376
+<v Marshall, Jake>And it's certainly not industry standard
+to, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/166-1
+00:27:24.376 --> 00:27:27.176
+<v Marshall, Jake>proactively provide a script lift ROI
+measurement,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/166-2
+00:27:27.176 --> 00:27:31.513
+<v Marshall, Jake>although it can certainly help support
+your case, especially if you can do it,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/166-3
+00:27:31.513 --> 00:27:34.368
+<v Marshall, Jake>you know,
+more more readily than than others can in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/166-4
+00:27:34.368 --> 00:27:35.356
+<v Marshall, Jake>terms of lag time.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/167-0
+00:27:37.516 --> 00:27:40.636
+<v Marshall, Jake>Couple other Yeah, please, Jeremy.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/169-0
+00:27:38.236 --> 00:27:41.916
+<v Miller, Jeremy>Are you pulling?
+Are you accessing the RWD production</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/169-1
+00:27:41.916 --> 00:27:46.277
+<v Miller, Jeremy>database for for this? OK,
+so you're just going straight to the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/168-0
+00:27:43.036 --> 00:27:43.796
+<v Marshall, Jake>Yes, yes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/169-2
+00:27:46.277 --> 00:27:49.820
+<v Miller, Jeremy>database, join on MPIs,
+pulling with data you need,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-0
+00:27:49.196 --> 00:27:52.238
+<v Marshall, Jake>That's exactly right.
+That's exactly right. And and spiro,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/169-3
+00:27:49.820 --> 00:27:51.796
+<v Miller, Jeremy>calculating your metrics, OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-1
+00:27:52.238 --> 00:27:56.312
+<v Marshall, Jake>you know we we have the the queries for
+it and it really just becomes you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-2
+00:27:56.312 --> 00:27:58.993
+<v Marshall, Jake>how are you creating your your sample
+group, right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-3
+00:27:58.993 --> 00:28:03.221
+<v Marshall, Jake>Because there is there is sometimes when
+you do this that you know you don't want</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-4
+00:28:03.221 --> 00:28:06.624
+<v Marshall, Jake>to take all exposed MPI,
+you want to qualify those to some extent</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/171-5
+00:28:06.624 --> 00:28:08.996
+<v Marshall, Jake>say we want the three plus you know
+exposure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/172-0
+00:28:09.036 --> 00:28:12.523
+<v Marshall, Jake>Or whatever and and try to then base your
+analysis off of that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/170-0
+00:28:11.156 --> 00:28:11.276
+<v Miller, Jeremy>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/172-1
+00:28:12.523 --> 00:28:16.391
+<v Marshall, Jake>You know there's some of those
+considerations and then it's just about</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/172-2
+00:28:16.391 --> 00:28:20.749
+<v Marshall, Jake>you know aligning to the the scripts and
+and matching back to the control group</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/172-3
+00:28:20.749 --> 00:28:24.236
+<v Marshall, Jake>you know which is based on HCPS with with
+similar you know pre.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/173-0
+00:28:24.356 --> 00:28:25.956
+<v Marshall, Jake>Precampaign prescribing characteristics.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/174-0
+00:28:27.596 --> 00:28:30.756
+<v Marshall, Jake>But still more we could do there, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/176-0
+00:28:27.676 --> 00:28:31.941
+<v Miller, Jeremy>Are you are you maintaining?
+So when you you say you know other MPIs</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/176-1
+00:28:31.941 --> 00:28:37.132
+<v Miller, Jeremy>with similar prescribing characteristics,
+so I'm that's got to be an aggregation of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/176-2
+00:28:37.132 --> 00:28:40.841
+<v Miller, Jeremy>what's in the database because I've
+looked at the database.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/175-0
+00:28:40.716 --> 00:28:41.076
+<v Marshall, Jake>That's right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/176-3
+00:28:40.841 --> 00:28:45.167
+<v Miller, Jeremy>So are you maintaining that aggregation?
+Are you doing it on the fly?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/176-4
+00:28:45.167 --> 00:28:47.516
+<v Miller, Jeremy>Do you have a, you know, pivoted view?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/177-0
+00:28:47.516 --> 00:28:51.356
+<v Miller, Jeremy>That shows things by NPI and calculates
+aggregations and so forth.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/179-0
+00:28:50.956 --> 00:28:53.016
+<v Marshall, Jake>Spiro,
+can you speak to how that part works in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/179-1
+00:28:53.016 --> 00:28:55.076
+<v Marshall, Jake>terms of setting up the control group
+offhand?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/178-0
+00:28:54.556 --> 00:28:55.196
+<v Miller, Jeremy>No.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/181-0
+00:28:56.636 --> 00:29:01.820
+<v Skokos, Spiro>Yep. In real world data,
+you're talking about the cohort. Yeah,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/180-0
+00:28:59.116 --> 00:29:00.996
+<v Marshall, Jake>Yep, Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/181-1
+00:29:01.820 --> 00:29:05.304
+<v Skokos, Spiro>yeah.
+So we we had originally had gotten a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/181-2
+00:29:05.304 --> 00:29:11.541
+<v Skokos, Spiro>script from Akshay and we we use that
+kind of as a template and it's a based</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/181-3
+00:29:11.541 --> 00:29:12.756
+<v Skokos, Spiro>off of age and.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/183-0
+00:29:13.036 --> 00:29:20.164
+<v Skokos, Spiro>I think graduate the year of graduation
+possibly and a few other parameters that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/183-1
+00:29:20.164 --> 00:29:26.852
+<v Skokos, Spiro>that were that were set and that that's
+how they they actually they get the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/183-2
+00:29:26.852 --> 00:29:27.556
+<v Skokos, Spiro>cohorts.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/184-0
+00:29:27.836 --> 00:29:31.040
+<v Marshall, Jake>So it doesn't sound like like it's going
+against aggregated tables.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/184-1
+00:29:31.040 --> 00:29:33.396
+<v Marshall, Jake>It sounds like that's just querying the
+database.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/185-0
+00:29:32.636 --> 00:29:35.196
+<v Skokos, Spiro>Yeah, it's querying the database, correct.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-0
+00:29:36.276 --> 00:29:38.886
+<v Miller, Jeremy>Yeah,
+we could maybe dive into the technical</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-1
+00:29:38.886 --> 00:29:42.075
+<v Miller, Jeremy>details later,
+but the thing that I'm curious about is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/186-0
+00:29:39.716 --> 00:29:39.996
+<v Marshall, Jake>No.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-2
+00:29:42.075 --> 00:29:45.265
+<v Miller, Jeremy>you've got your list of.
+I assume when you say cohort,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-3
+00:29:45.265 --> 00:29:48.339
+<v Miller, Jeremy>that's a list of MPIs.
+You've got your list of MPIs.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-4
+00:29:48.339 --> 00:29:52.398
+<v Miller, Jeremy>How do you build a picture of an API?
+You're talking about, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/187-5
+00:29:52.398 --> 00:29:55.356
+<v Miller, Jeremy>comparing based on previous subscribing
+behaviour.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/189-0
+00:29:56.276 --> 00:29:59.352
+<v Miller, Jeremy>And obviously you can go into claims or
+other data sources,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/189-1
+00:29:59.352 --> 00:30:02.428
+<v Miller, Jeremy>but where does that aggregation sit?
+Is it done on the fly?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/189-2
+00:30:02.428 --> 00:30:05.556
+<v Miller, Jeremy>Is it a temporary table that you maintain?
+Is it a data bit?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/193-0
+00:30:02.956 --> 00:30:06.870
+<v Skokos, Spiro>Yeah, it's done. No, no,
+it's done on the fly as per per script</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/193-1
+00:30:06.870 --> 00:30:10.600
+<v Skokos, Spiro>lift. Yeah, per script lift.
+Everything's done on the. Yeah,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/190-0
+00:30:07.676 --> 00:30:07.796
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/191-0
+00:30:09.516 --> 00:30:09.636
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/193-2
+00:30:10.600 --> 00:30:14.452
+<v Skokos, Spiro>it's not already pre aggregated.
+Now we we crunch the numbers,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/193-3
+00:30:14.452 --> 00:30:18.183
+<v Skokos, Spiro>we join the numbers,
+we compare it all all at at that at the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/193-4
+00:30:18.183 --> 00:30:19.956
+<v Skokos, Spiro>time of script lift run. Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/192-0
+00:30:20.476 --> 00:30:22.916
+<v Miller, Jeremy>Got it. OK. Thank you.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/194-0
+00:30:21.956 --> 00:30:22.636
+<v Skokos, Spiro>Yep, Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/195-0
+00:30:28.596 --> 00:30:28.916
+<v Miller, Jeremy>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/197-0
+00:30:28.956 --> 00:30:32.569
+<v Marshall, Jake>So a lot of our clients,
+the bigger ones are again performing</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/196-0
+00:30:28.996 --> 00:30:29.156
+<v Miller, Jeremy>Sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/197-1
+00:30:32.569 --> 00:30:35.308
+<v Marshall, Jake>these exercises or having a third party
+do it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/197-2
+00:30:35.308 --> 00:30:40.087
+<v Marshall, Jake>Of course it's just it's just another way
+to to dimensionalize the behavior right</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/197-3
+00:30:40.087 --> 00:30:43.817
+<v Marshall, Jake>that I that I think again if you're using
+kind of total counts,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/197-4
+00:30:43.817 --> 00:30:48.596
+<v Marshall, Jake>you know there's a way to to tell a good
+story without without it versus control.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/201-0
+00:30:49.436 --> 00:30:53.813
+<v Marshall, Jake>And you know but but yeah it certainly it
+certainly gets better if you have a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/201-1
+00:30:53.813 --> 00:30:57.965
+<v Marshall, Jake>communicating control and and be
+confident in it whether whether you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/201-2
+00:30:57.965 --> 00:31:02.454
+<v Marshall, Jake>just how how far does it go with a client
+is ultimately the question but it can</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/199-0
+00:31:01.836 --> 00:31:02.396
+<v Miller, Jeremy>Great.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/201-3
+00:31:02.454 --> 00:31:07.111
+<v Marshall, Jake>certainly can certainly kind of keep you
+from from the chopping block if if things</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/201-4
+00:31:07.111 --> 00:31:09.356
+<v Marshall, Jake>aren't trending the right way so can be.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/202-0
+00:31:09.476 --> 00:31:12.706
+<v Marshall, Jake>Need to have in your back pocket,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/202-1
+00:31:12.706 --> 00:31:15.716
+<v Marshall, Jake>or use out of necessity in certain cases.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/205-0
+00:31:15.476 --> 00:31:20.351
+<v Miller, Jeremy>And when you think about a control group,
+you're thinking about HC PS with similar</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/203-0
+00:31:16.876 --> 00:31:17.396
+<v Visconti, Frank>Goodbye.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/205-1
+00:31:20.351 --> 00:31:24.345
+<v Miller, Jeremy>characteristics profiles to the ones that
+are part of the campaign,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/205-2
+00:31:24.345 --> 00:31:26.636
+<v Miller, Jeremy>but that were not part of the campaign.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-0
+00:31:26.236 --> 00:31:28.958
+<v Marshall, Jake>That's exactly right, yes.
+So because the only thing we have</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-1
+00:31:28.958 --> 00:31:32.528
+<v Marshall, Jake>exposure to, right, is, is, is, you know,
+who we didn't expose the campaign to.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-2
+00:31:32.528 --> 00:31:34.849
+<v Marshall, Jake>So that's what really makes this,
+you know, tricky,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-3
+00:31:34.849 --> 00:31:38.240
+<v Marshall, Jake>especially in terms of scale, right?
+Because we don't know that those other</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/206-0
+00:31:35.876 --> 00:31:36.116
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-4
+00:31:38.240 --> 00:31:41.364
+<v Marshall, Jake>HCPS hadn't been hit, you know,
+50 times from our competitors because</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/208-5
+00:31:41.364 --> 00:31:44.756
+<v Marshall, Jake>everyone's trying to reach the same, same,
+same group of it, you know, 500.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/210-0
+00:31:45.756 --> 00:31:46.196
+<v Marshall, Jake>On.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/207-0
+00:31:45.996 --> 00:31:46.916
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-0
+00:31:46.236 --> 00:31:50.286
+<v Marshall, Jake>But we just know that we didn't reach
+them in that period. What makes it,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-1
+00:31:50.286 --> 00:31:52.912
+<v Marshall, Jake>you know, even trickier sometimes is,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-2
+00:31:52.912 --> 00:31:56.579
+<v Marshall, Jake>obviously we're working with clients for
+multiple years. You know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-3
+00:31:56.579 --> 00:32:00.300
+<v Marshall, Jake>our ability to have a control who hasn't
+been influenced, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-4
+00:32:00.300 --> 00:32:04.624
+<v Marshall, Jake>just kind of goes, goes down over time.
+So sometimes those things are just are</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/209-0
+00:32:02.756 --> 00:32:03.276
+<v Miller, Jeremy>Yes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/212-5
+00:32:04.624 --> 00:32:06.156
+<v Marshall, Jake>just, you know, challenging.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/213-0
+00:32:06.236 --> 00:32:08.396
+<v Marshall, Jake>If you're trying to look at the data in
+that way.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/211-0
+00:32:06.756 --> 00:32:07.076
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/214-0
+00:32:08.476 --> 00:32:11.462
+<v Miller, Jeremy>Yeah, if you do this perfectly,
+which will never happen,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/214-1
+00:32:11.462 --> 00:32:15.182
+<v Miller, Jeremy>but if you do this perfectly,
+there is no control group because you've</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/214-2
+00:32:15.182 --> 00:32:15.916
+<v Miller, Jeremy>hit everybody.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-0
+00:32:16.316 --> 00:32:19.433
+<v Marshall, Jake>Yeah, yeah, totally.
+And and again that's why I think,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/215-0
+00:32:18.076 --> 00:32:19.076
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-1
+00:32:19.433 --> 00:32:23.967
+<v Marshall, Jake>I think having total scripts is is more
+defensible or total procedures again or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-2
+00:32:23.967 --> 00:32:28.445
+<v Marshall, Jake>or total scripts influencing because
+because the the care team is such a blind</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-3
+00:32:28.445 --> 00:32:31.505
+<v Marshall, Jake>spot and a lot of these brands are trying
+to say, OK,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-4
+00:32:31.505 --> 00:32:35.529
+<v Marshall, Jake>you know we've we've got the
+pulmonologist now we've really got to get</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/216-5
+00:32:35.529 --> 00:32:35.756
+<v Marshall, Jake>the.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/217-0
+00:32:35.836 --> 00:32:36.276
+<v Marshall, Jake>PCP.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-0
+00:32:36.316 --> 00:32:38.793
+<v Marshall, Jake>Who influences that behavior or whatever,
+right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-1
+00:32:38.793 --> 00:32:42.686
+<v Marshall, Jake>So having having some having that linkage
+through the common you know shared</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-2
+00:32:42.686 --> 00:32:45.518
+<v Marshall, Jake>patient data I think would be a a great
+differentiator.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-3
+00:32:45.518 --> 00:32:49.360
+<v Marshall, Jake>And if you're doing it on you know a
+whole script standpoint versus a lift,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-4
+00:32:49.360 --> 00:32:52.191
+<v Marshall, Jake>you know it's like hey this is this is
+the data, right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/218-5
+00:32:52.191 --> 00:32:56.236
+<v Marshall, Jake>We're not we're not calculating anything
+here. This is this is the prescribing.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-0
+00:32:56.316 --> 00:33:00.132
+<v Marshall, Jake>Behavior. So now I get it.
+I mean sometimes the challenge with that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-1
+00:33:00.132 --> 00:33:04.116
+<v Marshall, Jake>is you control what you can control and
+you know some of these brands,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-2
+00:33:04.116 --> 00:33:07.651
+<v Marshall, Jake>you know that goes in the opposite
+direction than they'd like.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-3
+00:33:07.651 --> 00:33:12.028
+<v Marshall, Jake>So that's kind of the other thing about
+the deeper you show these things that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/219-0
+00:33:09.276 --> 00:33:09.796
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-4
+00:33:12.028 --> 00:33:14.553
+<v Marshall, Jake>again,
+it's not always positive and it's not</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/220-5
+00:33:14.553 --> 00:33:16.236
+<v Marshall, Jake>always a, you know, a problem.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-0
+00:33:16.316 --> 00:33:19.474
+<v Marshall, Jake>Has control over.
+Sometimes the brand just doesn't perform</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-1
+00:33:19.474 --> 00:33:23.382
+<v Marshall, Jake>right. And then it's like, well,
+did you want to have a big old negative</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-2
+00:33:23.382 --> 00:33:26.808
+<v Marshall, Jake>whatever percent or or so or you know,
+no no scripts over time.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-3
+00:33:26.808 --> 00:33:29.592
+<v Marshall, Jake>So some of those considerations are also,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-4
+00:33:29.592 --> 00:33:33.018
+<v Marshall, Jake>kept in mind when we think about scaling
+this across, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/222-5
+00:33:33.018 --> 00:33:34.196
+<v Marshall, Jake>everything that we do.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-0
+00:33:36.196 --> 00:33:39.687
+<v Malik, Hassan>Yeah, makes sense. Look,
+a lot of this stuff can be configurable</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/221-0
+00:33:36.836 --> 00:33:37.236
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/223-0
+00:33:39.276 --> 00:33:42.356
+<v Marshall, Jake>Oh, for sure, yeah. Well, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-1
+00:33:39.687 --> 00:33:42.426
+<v Malik, Hassan>and can also be built over right,
+built over time.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-2
+00:33:42.426 --> 00:33:46.776
+<v Malik, Hassan>So I think at least for the first release
+we should focus on low hanging fruits.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-3
+00:33:46.776 --> 00:33:49.515
+<v Malik, Hassan>You know,
+things that we know everyone can benefit</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-4
+00:33:49.515 --> 00:33:51.878
+<v Malik, Hassan>from.
+They do reduce time right to put this</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/224-0
+00:33:49.916 --> 00:33:50.196
+<v Marshall, Jake>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/225-5
+00:33:51.878 --> 00:33:55.476
+<v Malik, Hassan>together and hopefully get to deeper
+insights and recommendations.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/228-0
+00:33:55.876 --> 00:33:58.526
+<v Malik, Hassan>That we don't have today, right. So,
+so yeah, so,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/226-0
+00:33:57.596 --> 00:33:59.156
+<v Marshall, Jake>Yep, that's great.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/228-1
+00:33:58.526 --> 00:34:01.653
+<v Malik, Hassan>so starting from you know the so maybe
+and and and Jeremy,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/228-2
+00:34:01.653 --> 00:34:05.152
+<v Malik, Hassan>I think it's a follow up, right.
+You know because we have like 20</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/228-3
+00:34:05.152 --> 00:34:09.339
+<v Malik, Hassan>something minutes remaining but you can
+dive deep into later on dive deep into</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/228-4
+00:34:09.339 --> 00:34:12.996
+<v Malik, Hassan>you know the reports, the the joins,
+the information we are pulling.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/230-0
+00:34:13.596 --> 00:34:16.075
+<v Malik, Hassan>Right.
+And the the the the goal is to produce a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/230-1
+00:34:16.075 --> 00:34:20.207
+<v Malik, Hassan>requirement document that we can start
+basically assign some team members right</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/229-0
+00:34:17.716 --> 00:34:18.436
+<v Marshall, Jake>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/230-2
+00:34:20.207 --> 00:34:24.391
+<v Malik, Hassan>once we have the funding and and start
+building it literally and the requirement</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/230-3
+00:34:24.391 --> 00:34:28.316
+<v Malik, Hassan>document have to consider what we can
+automate from what you guys do today.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/232-0
+00:34:28.636 --> 00:34:33.447
+<v Malik, Hassan>Plus, what's the additional value add,
+right? So let's let's have both. Um, yeah,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/231-0
+00:34:31.516 --> 00:34:31.756
+<v Marshall, Jake>Awesome.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/232-1
+00:34:33.447 --> 00:34:34.796
+<v Malik, Hassan>that would be the goal.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-0
+00:34:35.156 --> 00:34:37.651
+<v Marshall, Jake>No, that's great.
+And and if I have a couple more things</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-1
+00:34:37.651 --> 00:34:40.672
+<v Marshall, Jake>from an insight perspective,
+I want to touch on because I think it's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-2
+00:34:40.672 --> 00:34:43.254
+<v Marshall, Jake>helpful to share.
+But then I I do have a section here just</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-3
+00:34:43.254 --> 00:34:46.756
+<v Marshall, Jake>on you know kind of you know challenges
+that I think will be good to talk about</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-4
+00:34:46.756 --> 00:34:50.040
+<v Marshall, Jake>you know data ingestion and kind of and
+some of we talked we we touched on</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-5
+00:34:50.040 --> 00:34:53.498
+<v Marshall, Jake>already but I think it would be a good
+way to close and and probably some good</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/233-6
+00:34:53.498 --> 00:34:54.636
+<v Marshall, Jake>questions around it so so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-0
+00:34:54.876 --> 00:34:57.025
+<v Marshall, Jake>Hassan,
+you you had kind of alluded this at one</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-1
+00:34:57.025 --> 00:34:59.128
+<v Marshall, Jake>point before in terms of creative
+performance,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-2
+00:34:59.128 --> 00:35:02.530
+<v Marshall, Jake>but of course there's insights that can
+come from that common one would be,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-3
+00:35:02.530 --> 00:35:04.679
+<v Marshall, Jake>you know,
+subject line for emails or something,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-4
+00:35:04.679 --> 00:35:08.260
+<v Marshall, Jake>right? So again, maybe not a phase one,
+but this is just under the the umbrella</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/234-5
+00:35:08.260 --> 00:35:11.796
+<v Marshall, Jake>of, you know, audience insights, you know,
+particular creative level insights.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/235-0
+00:35:11.916 --> 00:35:16.980
+<v Marshall, Jake>And then another which which we do not do
+now kind of systematically it's you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/235-1
+00:35:16.980 --> 00:35:19.970
+<v Marshall, Jake>kind of ad hoc when something really
+sticks out.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/235-2
+00:35:19.970 --> 00:35:24.546
+<v Marshall, Jake>But a couple other things that are that
+are really helpful to provide more</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/235-3
+00:35:24.546 --> 00:35:29.427
+<v Marshall, Jake>context for our programs are analysis of
+HCP commentary or their quiz behavior.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/235-4
+00:35:29.427 --> 00:35:31.196
+<v Marshall, Jake>So these are things that are.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/236-0
+00:35:31.916 --> 00:35:34.586
+<v Marshall, Jake>You know we'll we'll leverage AI
+oftentimes.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/236-1
+00:35:34.586 --> 00:35:38.976
+<v Marshall, Jake>I mean our our model's pretty well
+trained so there's not a lot of honing</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/236-2
+00:35:38.976 --> 00:35:43.603
+<v Marshall, Jake>that needs to be done to the output.
+But obviously like it's it's much easier</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/236-3
+00:35:43.603 --> 00:35:48.528
+<v Marshall, Jake>now to to plug these in you know comments
+with with the right prompt and get a get</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/236-4
+00:35:48.528 --> 00:35:51.316
+<v Marshall, Jake>a you know client facing deliverable you
+know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/237-0
+00:35:51.636 --> 00:35:51.996
+<v Marshall, Jake>Sum.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-0
+00:35:52.076 --> 00:35:56.222
+<v Marshall, Jake>Size of the HCP commentary. So, so,
+so that and then you know their their</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-1
+00:35:56.222 --> 00:35:59.527
+<v Marshall, Jake>quiz behavior and essentially you know
+what they did well,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-2
+00:35:59.527 --> 00:36:03.281
+<v Marshall, Jake>what they didn't do so well,
+what that tells us about the audience</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-3
+00:36:03.281 --> 00:36:05.802
+<v Marshall, Jake>like these give us some some nice,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-4
+00:36:05.802 --> 00:36:10.115
+<v Marshall, Jake>deeper engagement data to then base
+insights off of and they're often a kind</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/238-5
+00:36:10.115 --> 00:36:11.516
+<v Marshall, Jake>of a program hack for us.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-0
+00:36:12.116 --> 00:36:16.373
+<v Marshall, Jake>Us in that, you know, it's a it's a very,
+it's a it's a fairly small percentage of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-1
+00:36:16.373 --> 00:36:19.246
+<v Marshall, Jake>the audience who who does these types of
+things, right,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-2
+00:36:19.246 --> 00:36:22.785
+<v Marshall, Jake>versus everyone we're engaging.
+But it really allows us to tell that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-3
+00:36:22.785 --> 00:36:25.196
+<v Marshall, Jake>story more effectively and say, hey,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-4
+00:36:25.196 --> 00:36:29.249
+<v Marshall, Jake>here's the collaboration that's taking
+place within this discussion and here's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/239-5
+00:36:29.249 --> 00:36:31.916
+<v Marshall, Jake>what we're learning,
+here's what HCPs are learning.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/240-0
+00:36:32.076 --> 00:36:35.774
+<v Marshall, Jake>learning, here's what you can learn.
+You know, those types of things can be,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/240-1
+00:36:35.774 --> 00:36:38.848
+<v Marshall, Jake>you know, invaluable,
+especially when you're trying to get past</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/240-2
+00:36:38.848 --> 00:36:42.401
+<v Marshall, Jake>the scale problem or, you know,
+why didn't you have any clicks this month</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/240-3
+00:36:42.401 --> 00:36:45.427
+<v Marshall, Jake>or whatever. You know,
+those things that shouldn't just happen</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/240-4
+00:36:45.427 --> 00:36:47.156
+<v Marshall, Jake>with with these types of executions.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/242-0
+00:36:48.596 --> 00:36:51.957
+<v Malik, Hassan>Does that make sense?
+And then when we are thinking about,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/242-1
+00:36:51.957 --> 00:36:54.977
+<v Malik, Hassan>you know,
+what do we know about the audience, right?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/242-2
+00:36:54.977 --> 00:36:59.535
+<v Malik, Hassan>I think that's that's an area that would
+require a lot of, you know, deep dive.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/242-3
+00:36:59.535 --> 00:37:04.036
+<v Malik, Hassan>So to because then the goal is to come up
+with recommendations, right? So, so,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/242-4
+00:37:04.036 --> 00:37:07.796
+<v Malik, Hassan>so that would require at least a
+splitting into two rough groups.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/241-0
+00:37:04.076 --> 00:37:04.196
+<v Marshall, Jake>Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/245-0
+00:37:08.156 --> 00:37:11.109
+<v Malik, Hassan>The group,
+the group that's performing and engaging</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/245-1
+00:37:11.109 --> 00:37:15.255
+<v Malik, Hassan>the way we want them to and what are
+their characteristics and how do we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/243-0
+00:37:15.076 --> 00:37:15.196
+<v Visconti, Frank>It.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/245-2
+00:37:15.255 --> 00:37:19.799
+<v Malik, Hassan>identify unique characteristics of the
+group that that that's not doing what we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/245-3
+00:37:19.799 --> 00:37:22.979
+<v Malik, Hassan>want them to.
+And then you know from the first group we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/245-4
+00:37:22.979 --> 00:37:27.636
+<v Malik, Hassan>can go and find similar providers right
+that are currently not in the target set.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/244-0
+00:37:25.596 --> 00:37:26.356
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/246-0
+00:37:27.916 --> 00:37:28.196
+<v Malik, Hassan>So but.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/247-0
+00:37:28.236 --> 00:37:31.392
+<v Marshall, Jake>No, I think that's really,
+it's really interesting. I think,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/247-1
+00:37:31.392 --> 00:37:35.687
+<v Marshall, Jake>I think we want to make sure we're trying
+to do that in a way that you know builds</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/247-2
+00:37:35.687 --> 00:37:39.412
+<v Marshall, Jake>on what we have and and doesn't
+incentivize tailoring down what we have</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/247-3
+00:37:39.412 --> 00:37:43.552
+<v Marshall, Jake>because that is something where you know
+a client could could come back and say</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/247-4
+00:37:43.552 --> 00:37:44.276
+<v Marshall, Jake>well you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/248-0
+00:37:45.436 --> 00:37:48.129
+<v Marshall, Jake>Let's just pull,
+let's just do that one segment anyway and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/248-1
+00:37:48.129 --> 00:37:50.183
+<v Marshall, Jake>let's cut this program in a third,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/248-2
+00:37:50.183 --> 00:37:52.876
+<v Marshall, Jake>because that's the one that's doing.
+So it's but there is.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/253-0
+00:37:50.276 --> 00:37:53.373
+<v Malik, Hassan>Yeah, yeah, that's that's marketing,
+right. So we can,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/253-1
+00:37:53.373 --> 00:37:57.426
+<v Malik, Hassan>so we can basically just say, you know,
+you can present one side of it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/249-0
+00:37:54.356 --> 00:37:54.516
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/250-0
+00:37:57.396 --> 00:37:57.516
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/253-2
+00:37:57.426 --> 00:38:00.748
+<v Malik, Hassan>We will need to know the both sides for
+internal purposes,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/253-3
+00:38:00.748 --> 00:38:05.196
+<v Malik, Hassan>but the but the system can simply say
+here are these additional providers that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/253-4
+00:38:05.196 --> 00:38:06.716
+<v Malik, Hassan>are more likely to convert.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/251-0
+00:38:05.516 --> 00:38:05.796
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/254-0
+00:38:07.236 --> 00:38:08.396
+<v Malik, Hassan>Would you like to explain?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-0
+00:38:07.276 --> 00:38:11.054
+<v Marshall, Jake>No, no, I I think that's great.
+I actually that was my last bull you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/252-0
+00:38:08.316 --> 00:38:08.676
+<v Visconti, Frank>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-1
+00:38:11.054 --> 00:38:14.935
+<v Marshall, Jake>whatever we intend to do with the look
+alike or you know act alike HC PS to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-2
+00:38:14.935 --> 00:38:18.764
+<v Marshall, Jake>subject more, subject more audience.
+Obviously that would that would be an</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-3
+00:38:18.764 --> 00:38:22.798
+<v Marshall, Jake>insight or you know could could could
+build off of these insights that that we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/255-0
+00:38:19.756 --> 00:38:19.876
+<v Malik, Hassan>The.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-4
+00:38:22.798 --> 00:38:25.811
+<v Marshall, Jake>were talking about.
+So yeah again but that that is kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/256-5
+00:38:25.811 --> 00:38:27.036
+<v Marshall, Jake>the the problem that we.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-0
+00:38:27.276 --> 00:38:30.092
+<v Marshall, Jake>We generally face is is you know trying
+to have bigger,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-1
+00:38:30.092 --> 00:38:34.064
+<v Marshall, Jake>more relevant audiences and not but but
+generally we are actively telling that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/257-0
+00:38:32.516 --> 00:38:32.676
+<v Visconti, Frank>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-2
+00:38:34.064 --> 00:38:37.030
+<v Marshall, Jake>data story. Again,
+it's just it's just not happening in an</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-3
+00:38:37.030 --> 00:38:40.600
+<v Marshall, Jake>automated way and certainly not through
+you know a platform like this,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-4
+00:38:40.600 --> 00:38:44.471
+<v Marshall, Jake>but again care care team or based on
+patient treatment behaviour or based on</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/258-0
+00:38:44.116 --> 00:38:44.236
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/259-5
+00:38:44.471 --> 00:38:45.276
+<v Marshall, Jake>shared patients.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/261-0
+00:38:45.596 --> 00:38:50.442
+<v Marshall, Jake>Is you know something we're we're doing a
+good amount of which you know can can be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/261-1
+00:38:50.442 --> 00:38:54.588
+<v Marshall, Jake>tough in terms of you know clients
+preference for you know target list</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/261-2
+00:38:54.588 --> 00:38:59.026
+<v Marshall, Jake>engagement there there's only so much
+appetite to to go beyond but I I know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/261-3
+00:38:59.026 --> 00:39:00.836
+<v Marshall, Jake>we've we've discussed that too.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/260-0
+00:39:00.676 --> 00:39:00.836
+<v Visconti, Frank>PG.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/262-0
+00:39:01.116 --> 00:39:01.476
+<v Marshall, Jake>Yeah, please.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/264-0
+00:39:02.316 --> 00:39:05.192
+<v Visconti, Frank>Sorry.
+So like one of the things we talked about</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/264-1
+00:39:05.192 --> 00:39:09.300
+<v Visconti, Frank>in that meeting in New York,
+like the premise of this would be to and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/264-2
+00:39:09.300 --> 00:39:13.232
+<v Visconti, Frank>it may be through like a sample,
+you give them a one time freebie,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/264-3
+00:39:13.232 --> 00:39:17.928
+<v Visconti, Frank>but basically you know you have their
+target list on who they want to reach and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/264-4
+00:39:17.928 --> 00:39:22.036
+<v Visconti, Frank>let's say we extend that and identified,
+you know, another cohort of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/265-0
+00:39:22.316 --> 00:39:26.565
+<v Visconti, Frank>doctors that we think are that would
+perform as well, if not better,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/265-1
+00:39:26.565 --> 00:39:29.582
+<v Visconti, Frank>which would extend their audience or
+improve it,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/265-2
+00:39:29.582 --> 00:39:34.508
+<v Visconti, Frank>and then just run the run the program for
+those extra like a value add as a one</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/265-3
+00:39:34.508 --> 00:39:39.496
+<v Visconti, Frank>time and then be able to go back and show
+them the engagement metrics or however</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/265-4
+00:39:39.496 --> 00:39:41.836
+<v Visconti, Frank>deep we could go, whether it's leading</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/266-0
+00:39:41.996 --> 00:39:46.030
+<v Visconti, Frank>Indicator engagement metrics are all the
+way down to script and show them that,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/266-1
+00:39:46.030 --> 00:39:49.206
+<v Visconti, Frank>hey, look, you know,
+this is what you guys had and now you can</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/266-2
+00:39:49.206 --> 00:39:52.685
+<v Visconti, Frank>see what you would have gotten if you
+would have leveraged our data.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/269-0
+00:39:52.116 --> 00:39:55.103
+<v Marshall, Jake>Yeah,
+I don't think you can do it in that way</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/266-3
+00:39:52.685 --> 00:39:53.996
+<v Visconti, Frank>You know what I mean? And.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/269-1
+00:39:55.103 --> 00:40:00.233
+<v Marshall, Jake>for most clients because you'd have to
+make them aware of of where their media</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/269-2
+00:40:00.233 --> 00:40:05.687
+<v Marshall, Jake>is is going and who it's being exposed to.
+But I I do think what you could do is in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/267-0
+00:40:00.276 --> 00:40:00.436
+<v Visconti, Frank>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/268-0
+00:40:04.916 --> 00:40:05.876
+<v Visconti, Frank>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/269-3
+00:40:05.687 --> 00:40:10.232
+<v Marshall, Jake>an automated way, you know,
+quantify that upsell opportunity and say,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/269-4
+00:40:10.232 --> 00:40:11.596
+<v Marshall, Jake>hey, you know, reach.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/270-0
+00:40:11.916 --> 00:40:15.825
+<v Marshall, Jake>Back out to your skip to sales,
+you know representative to to learn more</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/270-1
+00:40:15.825 --> 00:40:20.270
+<v Marshall, Jake>whatever and then basically have that be
+a lead generation you know mechanism that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/270-2
+00:40:20.270 --> 00:40:24.553
+<v Marshall, Jake>our internal team can check on too and
+say hey you know looks like there's 5000</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/270-3
+00:40:24.553 --> 00:40:28.570
+<v Marshall, Jake>more docs who are who have this lab
+behavior that you're not targeting you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/270-4
+00:40:28.570 --> 00:40:31.836
+<v Marshall, Jake>know any interest you know I I think the
+idea of that is is.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/271-0
+00:40:31.876 --> 00:40:36.236
+<v Marshall, Jake>Is is really compelling because that is
+something that we're doing on an ad hoc</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/271-1
+00:40:36.236 --> 00:40:38.797
+<v Marshall, Jake>basis.
+Now now oftentimes there there are good</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/271-2
+00:40:38.797 --> 00:40:42.938
+<v Marshall, Jake>reasons for the ad hoc nature in terms of
+their highly customized requests.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/271-3
+00:40:42.938 --> 00:40:47.298
+<v Marshall, Jake>You know it's it's usually not as simple
+as you know them them wanting us to be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/271-4
+00:40:47.298 --> 00:40:51.276
+<v Marshall, Jake>prescriptive and and here's the audience,
+but there's obviously there's.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-0
+00:40:51.676 --> 00:40:55.332
+<v Marshall, Jake>There's room for that and I think that's
+a very, very cool idea.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-1
+00:40:55.332 --> 00:40:59.664
+<v Marshall, Jake>I just think we'd have to keep the
+governor unless there's a another version</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-2
+00:40:59.664 --> 00:41:03.264
+<v Marshall, Jake>of this which is, you know,
+activating that audience, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-3
+00:41:03.264 --> 00:41:07.708
+<v Marshall, Jake>immediately based on based on business
+rules that are set up in advance or you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/273-0
+00:41:03.316 --> 00:41:03.756
+<v Visconti, Frank>So yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/274-0
+00:41:06.996 --> 00:41:07.516
+Yeah.
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-4
+00:41:07.708 --> 00:41:10.296
+<v Marshall, Jake>know,
+having the ability to activate it right</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/275-5
+00:41:10.296 --> 00:41:11.196
+<v Marshall, Jake>in the platform.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/276-0
+00:41:11.396 --> 00:41:14.129
+<v Marshall, Jake>Form, you know,
+leveraging our next best action, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/276-1
+00:41:14.129 --> 00:41:15.796
+<v Marshall, Jake>capabilities and that kind of stuff.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-0
+00:41:16.476 --> 00:41:18.844
+<v Visconti, Frank>Yeah,
+and and there's probably a couple ways to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-1
+00:41:18.844 --> 00:41:21.804
+<v Visconti, Frank>do it. And I agree,
+I know they have to know who you're who</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-2
+00:41:21.804 --> 00:41:24.813
+<v Visconti, Frank>you're promoting to.
+You can't just do it whatever you want.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-3
+00:41:24.813 --> 00:41:26.983
+<v Visconti, Frank>But if like just like if we said,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-4
+00:41:26.983 --> 00:41:30.584
+<v Visconti, Frank>we were going to go to full community
+instead of just their target list,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-5
+00:41:30.584 --> 00:41:34.580
+<v Visconti, Frank>that's almost like a value add for them.
+We could kind of let them know up front</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/278-6
+00:41:34.580 --> 00:41:36.356
+<v Visconti, Frank>that we, you know, who who we would.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/279-0
+00:41:36.636 --> 00:41:42.996
+<v Visconti, Frank>Go out to and then just show them the
+results afterwards. I don't know, but um.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/280-0
+00:41:39.796 --> 00:41:44.457
+<v Marshall, Jake>No, we can do that now, but yeah, no.
+And then doing that in in this kind of a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/280-1
+00:41:44.457 --> 00:41:48.527
+<v Marshall, Jake>display or you know would would be would
+be really great. And again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/280-2
+00:41:48.527 --> 00:41:53.188
+<v Marshall, Jake>I think it's one of the benefits too
+would just be giving exposure to you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/280-3
+00:41:53.188 --> 00:41:55.076
+<v Marshall, Jake>the commercial team so they can.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/281-0
+00:41:55.876 --> 00:41:57.835
+<v Marshall, Jake>You know,
+use that as reasons to go down the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/281-1
+00:41:57.835 --> 00:42:00.664
+<v Marshall, Jake>pavement and say, look,
+look what else we can we can do for you.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/281-2
+00:42:00.664 --> 00:42:02.928
+<v Marshall, Jake>Look how good,
+look how good this other audience is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/281-3
+00:42:02.928 --> 00:42:03.276
+<v Marshall, Jake>working.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/283-0
+00:42:03.196 --> 00:42:05.971
+<v Visconti, Frank>Yeah,
+just like giving them a little taste and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/283-1
+00:42:05.971 --> 00:42:09.101
+<v Visconti, Frank>then then that would make them want to
+use the tool,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/283-2
+00:42:09.101 --> 00:42:13.884
+<v Visconti, Frank>either license the tool and you know the
+that model or have us, you know, build,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/283-3
+00:42:13.884 --> 00:42:18.135
+<v Visconti, Frank>help them build the non personal list and
+then promote to it, you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/282-0
+00:42:14.596 --> 00:42:14.876
+<v Marshall, Jake>E.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/283-4
+00:42:18.135 --> 00:42:21.796
+<v Visconti, Frank>So I don't know, just a thought,
+but that's that was kind of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/284-0
+00:42:19.236 --> 00:42:24.126
+<v Marshall, Jake>I I feel like this Monday come up in our
+prior conversation or Frank probably</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/284-1
+00:42:24.126 --> 00:42:27.512
+<v Marshall, Jake>mentioned it.
+But another thing that we that we do is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/284-2
+00:42:27.512 --> 00:42:32.464
+<v Marshall, Jake>you know next best action or engagement
+which is just you know you know mostly</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/284-3
+00:42:32.464 --> 00:42:34.596
+<v Marshall, Jake>triggered media or media based on.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/285-0
+00:42:34.756 --> 00:42:39.406
+<v Marshall, Jake>On your execution based on on data inputs
+from the client or skipped activity or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/285-1
+00:42:39.406 --> 00:42:42.678
+<v Marshall, Jake>real world data.
+So it is really compelling and you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/285-2
+00:42:42.678 --> 00:42:46.869
+<v Marshall, Jake>we're already basically you know,
+triggering emails for example based on</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/285-3
+00:42:46.869 --> 00:42:50.141
+<v Marshall, Jake>lab behaviour.
+The idea that you could do that in a more</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/285-4
+00:42:50.141 --> 00:42:54.676
+<v Marshall, Jake>efficient way or at least scope it and
+then have it still go through you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/286-0
+00:42:54.756 --> 00:42:58.732
+<v Marshall, Jake>The sales entity,
+whatever again is is very compelling and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/286-1
+00:42:58.732 --> 00:43:02.035
+<v Marshall, Jake>certainly makes it much more scalable,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/286-2
+00:43:02.035 --> 00:43:06.416
+<v Marshall, Jake>than than it currently is to kind of tee
+up those opportunities.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/286-3
+00:43:06.416 --> 00:43:09.516
+<v Marshall, Jake>But we have a basically a data cloud
+project.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/288-0
+00:43:10.036 --> 00:43:14.934
+<v Marshall, Jake>That that's about to get kicked off to
+help us harmonize that data in the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/288-1
+00:43:14.934 --> 00:43:18.509
+<v Marshall, Jake>execution.
+So it's it's much more conceivable to see,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/288-2
+00:43:18.509 --> 00:43:21.819
+<v Marshall, Jake>you know,
+whatever output is generated here to be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/288-3
+00:43:21.819 --> 00:43:26.916
+<v Marshall, Jake>turfed over into data cloud to enable
+execution in in a pretty seamless way.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/287-0
+00:43:27.356 --> 00:43:27.756
+<v Visconti, Frank>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/289-0
+00:43:31.076 --> 00:43:34.097
+<v Marshall, Jake>So couple,
+couple other thoughts as I mentioned and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/289-1
+00:43:34.097 --> 00:43:38.571
+<v Marshall, Jake>certainly jump in aside or Jeremy if
+there's something else critical you you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/289-2
+00:43:38.571 --> 00:43:43.277
+<v Marshall, Jake>definitely want to get to on this call.
+But I did just want to share some of the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/289-3
+00:43:43.277 --> 00:43:46.182
+<v Marshall, Jake>barriers.
+It's something we talked about in terms</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/289-4
+00:43:46.182 --> 00:43:46.356
+<v Marshall, Jake>of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/290-0
+00:43:46.356 --> 00:43:50.012
+<v Marshall, Jake>Relation to channel.
+So you know some of this data just lives</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/290-1
+00:43:50.012 --> 00:43:53.728
+<v Marshall, Jake>in different places.
+We do actually have a project underway to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/290-2
+00:43:53.728 --> 00:43:57.738
+<v Marshall, Jake>create a master reportable data
+materialized view to basically pull</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/290-3
+00:43:57.738 --> 00:44:02.338
+<v Marshall, Jake>together some disparate data sets and and
+overcome a little bit of the of the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/290-4
+00:44:02.338 --> 00:44:05.876
+<v Marshall, Jake>challenges with with some of the tables
+we're working with.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/292-0
+00:44:06.516 --> 00:44:09.836
+<v Miller, Jeremy>What is what is reportable mean here?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/291-0
+00:44:06.796 --> 00:44:07.116
+<v Marshall, Jake>Um.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/293-0
+00:44:08.876 --> 00:44:13.497
+<v Marshall, Jake>Excellent question. So again,
+so so I think this is also part of the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/293-1
+00:44:13.497 --> 00:44:18.720
+<v Marshall, Jake>challenge of of working with additional
+channels beyond like the programmatic</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/293-2
+00:44:18.720 --> 00:44:23.676
+<v Marshall, Jake>media channel where impressions and
+clicks are pretty straightforward so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/294-0
+00:44:24.036 --> 00:44:30.198
+<v Marshall, Jake>For example you know e-mail data and
+on-site data both you know is is curated</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/294-1
+00:44:30.198 --> 00:44:35.174
+<v Marshall, Jake>and and transformed and and you know
+scrubbed in various ways.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/294-2
+00:44:35.174 --> 00:44:39.756
+<v Marshall, Jake>So the simplest example is you know like
+for e-mail data.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/297-0
+00:44:40.756 --> 00:44:43.448
+<v Marshall, Jake>Removing you know suspicious click
+activity,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/297-1
+00:44:43.448 --> 00:44:48.173
+<v Marshall, Jake>potential bot activity based on you know
+you know behaviors within the e-mail.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/297-2
+00:44:48.173 --> 00:44:53.137
+<v Marshall, Jake>So you know there is a you know there is
+a you know logic that you know transforms</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/297-3
+00:44:53.137 --> 00:44:57.623
+<v Marshall, Jake>the raw Salesforce data into client
+facing reportable data that is that is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/297-4
+00:44:57.623 --> 00:44:59.836
+<v Marshall, Jake>taken care of some of those you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-0
+00:45:00.756 --> 00:45:03.458
+<v Marshall, Jake>Data anomalies. So an example would be,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/295-0
+00:45:01.036 --> 00:45:01.436
+<v Miller, Jeremy>Got it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/296-0
+00:45:02.876 --> 00:45:03.036
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-1
+00:45:03.458 --> 00:45:06.052
+<v Marshall, Jake>a single user clicks 37 times on the same
+link.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/298-0
+00:45:04.276 --> 00:45:05.076
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-2
+00:45:06.052 --> 00:45:09.294
+<v Marshall, Jake>We don't want that making it into the
+hands of our clients,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/299-0
+00:45:07.596 --> 00:45:07.876
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-3
+00:45:09.294 --> 00:45:12.212
+<v Marshall, Jake>so that is systematically removed from
+the reporting.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-4
+00:45:12.212 --> 00:45:16.643
+<v Marshall, Jake>Another example could simply be like you
+know there are there are opens without a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/300-5
+00:45:16.643 --> 00:45:20.156
+<v Marshall, Jake>corresponding send for whatever reason
+just because of you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/302-0
+00:45:20.276 --> 00:45:25.058
+<v Marshall, Jake>You know some piece of data got lost
+along the way from Salesforce and the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/302-1
+00:45:25.058 --> 00:45:28.183
+<v Marshall, Jake>system.
+So it's you know manufacturing that send</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/302-2
+00:45:28.183 --> 00:45:33.029
+<v Marshall, Jake>record to a company, the open record,
+you know kind of you know things like</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/301-0
+00:45:30.836 --> 00:45:32.036
+<v Miller, Jeremy>Yeah, got it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/302-3
+00:45:33.029 --> 00:45:35.324
+<v Marshall, Jake>that.
+Now for onsite data it's it's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/302-4
+00:45:35.324 --> 00:45:37.556
+<v Marshall, Jake>significantly more complex because.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/303-0
+00:45:37.636 --> 00:45:42.482
+<v Marshall, Jake>You know, we are basically, you know,
+scrubbing for, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/303-1
+00:45:42.482 --> 00:45:47.328
+<v Marshall, Jake>bots in various forms,
+including those who are suspected based</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/303-2
+00:45:47.328 --> 00:45:52.636
+<v Marshall, Jake>on their their IP address and and
+Internet behaviors. That helps us.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-0
+00:45:52.836 --> 00:45:57.315
+<v Marshall, Jake>Very much in terms of removing anomalies
+from the data. So similar wonky things,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-1
+00:45:57.315 --> 00:46:00.191
+<v Marshall, Jake>you know one single HCPS 500 visits in
+two seconds,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-2
+00:46:00.191 --> 00:46:04.559
+<v Marshall, Jake>you know it's we don't want that making
+it into the report and and and skewing</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-3
+00:46:04.559 --> 00:46:07.213
+<v Marshall, Jake>the data.
+And then there's also you know things</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-4
+00:46:07.213 --> 00:46:11.692
+<v Marshall, Jake>like you know requirements in terms of
+those you know report you know reportable</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/304-5
+00:46:11.692 --> 00:46:12.356
+<v Marshall, Jake>views so so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/306-0
+00:46:12.356 --> 00:46:12.836
+<v Marshall, Jake>Essentially.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/307-0
+00:46:12.836 --> 00:46:17.023
+<v Marshall, Jake>You know, having a, you know,
+time-based measurement of the activity.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/307-1
+00:46:17.023 --> 00:46:21.151
+<v Marshall, Jake>So we're not counting, you know,
+10 views on a single post within 10</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/305-0
+00:46:17.076 --> 00:46:17.196
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/307-2
+00:46:21.151 --> 00:46:25.099
+<v Marshall, Jake>seconds. You know, we count, you know,
+one view every 30 seconds,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/307-3
+00:46:25.099 --> 00:46:27.970
+<v Marshall, Jake>whatever the methodology is for for the
+tactic.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/307-4
+00:46:27.970 --> 00:46:32.756
+<v Marshall, Jake>So there's a series of and and there's
+some, you know, there's various kind of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/309-0
+00:46:32.916 --> 00:46:35.788
+<v Marshall, Jake>Related parts of that,
+but just to give you an idea,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/309-1
+00:46:35.788 --> 00:46:39.527
+<v Marshall, Jake>that curation is happening and the data
+is being put into, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/309-2
+00:46:39.527 --> 00:46:42.724
+<v Marshall, Jake>materialized view.
+Now one of the that that is great for a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/309-3
+00:46:42.724 --> 00:46:46.680
+<v Marshall, Jake>lot of reasons gives us a ton of
+flexibility as the data changes and the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/308-0
+00:46:46.116 --> 00:46:46.556
+<v Visconti, Frank>No.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/309-4
+00:46:46.680 --> 00:46:48.956
+<v Marshall, Jake>methodology changes for for processing it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/310-0
+00:46:49.236 --> 00:46:52.896
+<v Marshall, Jake>One of the challenges though,
+is that necessitates having a monthly</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/310-1
+00:46:52.896 --> 00:46:57.148
+<v Marshall, Jake>archival process where we're essentially
+closing the books on the prior month.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/310-2
+00:46:57.148 --> 00:47:01.077
+<v Marshall, Jake>So that data is never changing
+retroactively and kind of screwing up our</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/310-3
+00:47:01.077 --> 00:47:04.576
+<v Marshall, Jake>reporting down the line.
+But that basically requires you kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/310-4
+00:47:04.576 --> 00:47:08.236
+<v Marshall, Jake>more a little bit more complexity in
+terms of, you know, referring.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/311-0
+00:47:09.236 --> 00:47:13.387
+<v Marshall, Jake>Back to the prior closed months versus
+kind of the currently active month in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/311-1
+00:47:13.387 --> 00:47:15.436
+<v Marshall, Jake>terms of how the data is is organized.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/312-0
+00:47:17.756 --> 00:47:18.676
+<v Marshall, Jake>Is that helpful?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/314-0
+00:47:19.636 --> 00:47:22.499
+<v Marshall, Jake>Cool.
+Other just kind of you know just kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/314-1
+00:47:22.499 --> 00:47:27.432
+<v Marshall, Jake>where we are right now is something that
+we we've been working to improve Andy's</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/314-2
+00:47:27.432 --> 00:47:32.305
+<v Marshall, Jake>team's been doing an excellent job in
+terms of you know data pipelines and data</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/314-3
+00:47:32.305 --> 00:47:35.107
+<v Marshall, Jake>availability and and and monitoring the
+data,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/313-0
+00:47:32.516 --> 00:47:34.036
+<v Visconti, Frank>Excellent.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/314-4
+00:47:35.107 --> 00:47:38.396
+<v Marshall, Jake>but it's just kind of the practical fact
+of you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-0
+00:47:39.436 --> 00:47:43.491
+<v Marshall, Jake>Where we are coupled with you know the
+number of data sources you know these</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-1
+00:47:43.491 --> 00:47:46.018
+<v Marshall, Jake>things aren't aren't always aren't always
+live.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-2
+00:47:46.018 --> 00:47:50.231
+<v Marshall, Jake>You know the I would say you know once
+every you know two months or so probably</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-3
+00:47:50.231 --> 00:47:54.602
+<v Marshall, Jake>there's there's an issue where something
+needs to be back filled or reconnected or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-4
+00:47:54.602 --> 00:47:57.551
+<v Marshall, Jake>you know there's a release that that jams
+something up.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/315-5
+00:47:57.551 --> 00:47:59.236
+<v Marshall, Jake>So we we had been putting in as.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-0
+00:47:59.236 --> 00:48:02.864
+<v Marshall, Jake>As many alerts and flags as we possibly
+can. But you know, Murphy's Law,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-1
+00:48:02.864 --> 00:48:06.591
+<v Marshall, Jake>you know this something will inevitably
+go happen that trips something up.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-2
+00:48:06.591 --> 00:48:09.871
+<v Marshall, Jake>So it's just it's just a note on data
+availability because again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-3
+00:48:09.871 --> 00:48:12.654
+<v Marshall, Jake>I think in the programmatic world,
+it's just, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-4
+00:48:12.654 --> 00:48:16.481
+<v Marshall, Jake>having data available nearly, you know,
+100% of the time is just par for the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/316-5
+00:48:16.481 --> 00:48:18.916
+<v Marshall, Jake>course and that's not necessarily the
+case with.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-0
+00:48:18.996 --> 00:48:23.153
+<v Marshall, Jake>Like you know processing the onsite data
+and e-mail data and we basically have</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-1
+00:48:23.153 --> 00:48:27.048
+<v Marshall, Jake>like a 48 hour lag time and that's
+because we're getting at the time what</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-2
+00:48:27.048 --> 00:48:31.363
+<v Marshall, Jake>we're getting from partners and also with
+our data processes and it's kind of you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-3
+00:48:31.363 --> 00:48:35.363
+<v Marshall, Jake>know TBD how much we could we could
+potentially trim that down and still be</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-4
+00:48:35.363 --> 00:48:38.204
+<v Marshall, Jake>comfortable.
+So where you know it it kind of begs the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/317-5
+00:48:38.204 --> 00:48:38.836
+<v Marshall, Jake>question of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/318-0
+00:48:38.916 --> 00:48:43.693
+<v Marshall, Jake>You know is is client facing quote UN
+quote real-time data a future phase and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/318-1
+00:48:43.693 --> 00:48:48.715
+<v Marshall, Jake>and is it should it now be you know that
+should that be internal only potentially</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/318-2
+00:48:48.715 --> 00:48:53.492
+<v Marshall, Jake>and then the client gets a a monthly
+report that has a chance to be validated</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/318-3
+00:48:53.492 --> 00:48:57.227
+<v Marshall, Jake>and and and you know and and looked over
+before it's shared.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/318-4
+00:48:57.227 --> 00:48:58.636
+<v Marshall, Jake>So obviously that that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-0
+00:48:58.756 --> 00:49:01.656
+<v Marshall, Jake>Cuts into some of the automation,
+but it's just, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-1
+00:49:01.656 --> 00:49:05.147
+<v Marshall, Jake>there are very few thankfully in this
+space who who even do, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-2
+00:49:05.147 --> 00:49:07.801
+<v Marshall, Jake>quote UN quote,
+real-time dashboards for this kind of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-3
+00:49:07.801 --> 00:49:11.882
+<v Marshall, Jake>stuff and and they tend to be, you know,
+the heaviest hitters in the space, right?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-4
+00:49:11.882 --> 00:49:15.716
+<v Marshall, Jake>Like Doximity and Medscape can do it,
+but I don't think anybody else does it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/319-5
+00:49:15.716 --> 00:49:18.076
+<v Marshall, Jake>So it's not like that's a that's a
+requirement.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/320-0
+00:49:18.276 --> 00:49:22.942
+<v Marshall, Jake>It's more of can we can we plot a course
+to get there with our with our data</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/320-1
+00:49:22.942 --> 00:49:25.791
+<v Marshall, Jake>availability and you know portal
+availability.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/320-2
+00:49:25.791 --> 00:49:30.214
+<v Marshall, Jake>But I think again showing reports on a
+monthly basis and and having them</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/320-3
+00:49:30.214 --> 00:49:34.396
+<v Marshall, Jake>available internally more readily would
+would be an excellent start.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/322-0
+00:49:34.916 --> 00:49:39.280
+<v Miller, Jeremy>What's your timeline for that? Sorry,
+for the master reportable table?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/321-0
+00:49:34.996 --> 00:49:37.716
+<v Marshall, Jake>And then the last thing is please.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/322-1
+00:49:39.280 --> 00:49:42.476
+<v Miller, Jeremy>What's the, broadly speaking,
+the timeline on that?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/325-0
+00:49:42.196 --> 00:49:47.577
+<v Marshall, Jake>So we actually we we should be done by
+October 15th and and likely sooner. Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/323-0
+00:49:46.676 --> 00:49:46.796
+<v Miller, Jeremy>Cool.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/328-0
+00:49:47.476 --> 00:49:52.575
+<v Skokos, Spiro>And and and a lot of the and a lot of the
+underlying tables are already built.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/325-1
+00:49:47.577 --> 00:49:49.836
+<v Marshall, Jake>So and and the good news is, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/324-0
+00:49:48.236 --> 00:49:48.356
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/328-1
+00:49:52.575 --> 00:49:55.996
+<v Skokos, Spiro>So just a matter of pulling them all
+together, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/326-0
+00:49:52.796 --> 00:49:54.396
+<v Marshall, Jake>That's right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/329-0
+00:49:55.476 --> 00:49:58.360
+<v Marshall, Jake>That's right.
+And and and the good thing about that is</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/327-0
+00:49:55.516 --> 00:49:56.916
+<v Miller, Jeremy>OK, cool.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/329-1
+00:49:58.360 --> 00:50:02.554
+<v Marshall, Jake>we kind of really got our ducks in a row
+in terms of you know the common fields</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/329-2
+00:50:02.554 --> 00:50:06.906
+<v Marshall, Jake>across across all the disparate channels
+and and kind of you know having those you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/329-3
+00:50:06.906 --> 00:50:09.999
+<v Marshall, Jake>know harmonized in a way that that we're
+comfortable with.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/329-4
+00:50:09.999 --> 00:50:14.036
+<v Marshall, Jake>So that's you know a a good, a good,
+a good step I think to facilitate this.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/330-0
+00:50:14.116 --> 00:50:19.321
+<v Marshall, Jake>And then the other just kind of thing
+that just happens again kind of goes back</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/330-1
+00:50:19.321 --> 00:50:23.225
+<v Marshall, Jake>to the customization.
+But you know because of these various</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/330-2
+00:50:23.225 --> 00:50:26.674
+<v Marshall, Jake>factors there are just needs for manual
+adjustments.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/330-3
+00:50:26.674 --> 00:50:31.879
+<v Marshall, Jake>So we would have to just have you know a
+way to you know update that data where</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/330-4
+00:50:31.879 --> 00:50:33.636
+<v Marshall, Jake>when we need to an example.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/331-0
+00:50:33.636 --> 00:50:37.289
+<v Marshall, Jake>Would be like, hey, you know, a bot,
+you know, slipped by,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/331-1
+00:50:37.289 --> 00:50:41.872
+<v Marshall, Jake>caused something wonky in the data for
+some reason, didn't get, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/331-2
+00:50:41.872 --> 00:50:45.897
+<v Marshall, Jake>caught in one of the filters that we have.
+We have limited time.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/331-3
+00:50:45.897 --> 00:50:50.479
+<v Marshall, Jake>Are we processing the whole, you know,
+materialized table again or are we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/331-4
+00:50:50.479 --> 00:50:52.956
+<v Marshall, Jake>changing that, you know, 120 to a 10 or?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/333-0
+00:50:53.116 --> 00:50:57.334
+<v Marshall, Jake>10 or whatever to account for the 110
+views from from the pop getting out of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/333-1
+00:50:57.334 --> 00:51:00.293
+<v Marshall, Jake>there, right.
+So these are just things that just kind</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/332-0
+00:50:58.356 --> 00:50:59.196
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/333-2
+00:51:00.293 --> 00:51:04.895
+<v Marshall, Jake>of pop up again that that I think are you
+know just par for the course for for more</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/333-3
+00:51:04.895 --> 00:51:08.785
+<v Marshall, Jake>complex executions like these.
+But you know again having the Excel has</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/333-4
+00:51:08.785 --> 00:51:12.236
+<v Marshall, Jake>given us ultimate flexibility
+historically to handle those so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/334-0
+00:51:12.756 --> 00:51:15.531
+<v Marshall, Jake>It's a it's, you know,
+we're curious how well we could</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/334-1
+00:51:15.531 --> 00:51:19.316
+<v Marshall, Jake>accommodate that kind of stuff in,
+you know, more automated way like this.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/336-0
+00:51:21.876 --> 00:51:25.097
+<v Marshall, Jake>Well, I know I talked your ears off.
+Any any other,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/336-1
+00:51:25.097 --> 00:51:29.556
+<v Marshall, Jake>any other questions or or things you'd
+want to cover as we as we close?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/337-0
+00:51:30.556 --> 00:51:30.636
+<v Miller, Jeremy>Oh.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/338-0
+00:51:31.236 --> 00:51:33.956
+<v Marshall, Jake>Actually, do do we?
+Are we going till 3:20 or did I?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/340-0
+00:51:33.236 --> 00:51:36.796
+<v Miller, Jeremy>I booked it 90 minutes,
+but we can just stop whenever you know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/342-0
+00:51:37.116 --> 00:51:39.790
+<v Marshall, Jake>Yeah,
+cause I'm I'm good to keep going if if if</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/342-1
+00:51:39.790 --> 00:51:41.796
+<v Marshall, Jake>you have questions or would like to.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/343-0
+00:51:41.796 --> 00:51:45.277
+<v Miller, Jeremy>Yeah. I mean,
+everything that I see makes sense,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/341-0
+00:51:42.356 --> 00:51:42.636
+Yeah.
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/343-1
+00:51:45.277 --> 00:51:50.748
+<v Miller, Jeremy>broadly speaking. And I think that.
+So there's a couple of things that would</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/343-2
+00:51:50.748 --> 00:51:56.219
+<v Miller, Jeremy>be really helpful for me. What is,
+can I get access to the platform so I can</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/343-3
+00:51:56.219 --> 00:51:56.716
+<v Miller, Jeremy>log in?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/344-0
+00:51:58.276 --> 00:52:03.703
+<v Miller, Jeremy>You know, use it, see what users see,
+experience what users experience in a way</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/344-1
+00:52:03.703 --> 00:52:06.687
+<v Miller, Jeremy>that doesn't screw up your data,
+hopefully,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/344-2
+00:52:06.687 --> 00:52:10.757
+<v Miller, Jeremy>but that would be really helpful.
+That table that you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/344-3
+00:52:10.757 --> 00:52:12.996
+<v Miller, Jeremy>then the other one to ask for is.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/345-0
+00:52:13.476 --> 00:52:18.067
+<v Miller, Jeremy>Database or access, but as you said,
+you're working on updating the data to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/345-1
+00:52:18.067 --> 00:52:22.356
+<v Miller, Jeremy>this new master table format.
+So if you have documentation on that you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/345-2
+00:52:22.356 --> 00:52:26.706
+<v Miller, Jeremy>can share, that would be helpful.
+And then you know in a month or so we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/345-3
+00:52:26.706 --> 00:52:28.156
+<v Miller, Jeremy>talk about query access.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/347-0
+00:52:29.916 --> 00:52:34.718
+<v Miller, Jeremy>And then examples, yes,
+like you're showing at screw right now,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/347-1
+00:52:34.718 --> 00:52:39.370
+<v Miller, Jeremy>like examples of the PLD level
+deliverable and the aggregated</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/346-0
+00:52:34.956 --> 00:52:35.276
+<v Marshall, Jake>Mm.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/347-2
+00:52:39.370 --> 00:52:43.196
+<v Miller, Jeremy>deliverable so that I can study them more
+closely.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/348-0
+00:52:43.156 --> 00:52:47.515
+<v Marshall, Jake>Cool. Yeah, happy to do it. And and Jimmy,
+I I think you know other than the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/348-1
+00:52:47.515 --> 00:52:51.704
+<v Marshall, Jake>challenge we laid out just trying to
+conceive how we can you know get all</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/348-2
+00:52:51.704 --> 00:52:56.459
+<v Marshall, Jake>these tactics in a dashboard and and even
+if one of the things that we've been kind</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/348-3
+00:52:56.459 --> 00:53:00.535
+<v Marshall, Jake>of playing around is just even
+consolidating this type of thing and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/348-4
+00:53:00.535 --> 00:53:02.516
+<v Marshall, Jake>trying to get into you know as few.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-0
+00:53:02.876 --> 00:53:05.552
+<v Marshall, Jake>Pages as possible, but there's just,
+you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-1
+00:53:05.552 --> 00:53:09.650
+<v Marshall, Jake>a decent amount of columns and a decent
+amount of rows and they're not,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-2
+00:53:09.650 --> 00:53:12.668
+<v Marshall, Jake>they're not standardized across across
+every tactic.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/349-0
+00:53:11.476 --> 00:53:11.836
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-3
+00:53:12.668 --> 00:53:17.222
+<v Marshall, Jake>So I think there is just a bit of this is
+just a how do we display the data and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-4
+00:53:17.222 --> 00:53:20.637
+<v Marshall, Jake>give the level of, you know,
+tactic level or audience level</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/350-5
+00:53:20.637 --> 00:53:22.516
+<v Marshall, Jake>granularity that is expected and.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/351-0
+00:53:22.516 --> 00:53:25.595
+<v Marshall, Jake>Still, you know,
+have it display in in portal fashion and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/351-1
+00:53:25.595 --> 00:53:28.356
+<v Marshall, Jake>not require you know all these tabs and
+everything.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/352-0
+00:53:28.556 --> 00:53:32.213
+<v Visconti, Frank>Hey, Jeremy,
+what type of platform do you envision?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/352-1
+00:53:32.213 --> 00:53:37.628
+<v Visconti, Frank>Like do you envision it being like you
+start with a standard report and then</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/352-2
+00:53:37.628 --> 00:53:43.396
+<v Visconti, Frank>being able to customize or drag or do it
+like what kind of you know to be able to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/352-3
+00:53:43.396 --> 00:53:47.756
+<v Visconti, Frank>accommodate like let's say you know 70 to
+80% of the reports.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/354-0
+00:53:48.076 --> 00:53:48.476
+<v Visconti, Frank>Pretty.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/355-0
+00:53:48.716 --> 00:53:53.727
+<v Visconti, Frank>Standard and then maybe 20% of them we
+have to like switch stuff and I don't</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/355-1
+00:53:53.727 --> 00:53:56.591
+<v Visconti, Frank>know if that 702080207030 is even
+accurate,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/355-2
+00:53:56.591 --> 00:54:01.863
+<v Visconti, Frank>but just assuming that the majority are
+standard and then the other ones have to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/355-3
+00:54:01.863 --> 00:54:05.182
+<v Visconti, Frank>be customized,
+how are you envisioning that? Like,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/355-4
+00:54:05.182 --> 00:54:08.436
+<v Visconti, Frank>is there a platform that you'd be able to
+easily?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/356-0
+00:54:08.596 --> 00:54:14.385
+<v Visconti, Frank>Customize so that 70% of them pop out
+standard or 100% pop out standard and you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/356-1
+00:54:14.385 --> 00:54:19.956
+<v Visconti, Frank>you can easily customize the other 20 or
+30% that have like nuances to them.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/357-0
+00:54:22.356 --> 00:54:25.421
+<v Miller, Jeremy>I mean, yeah, that makes sense.
+So you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/357-1
+00:54:25.421 --> 00:54:31.141
+<v Miller, Jeremy>if the idea of going from deliverable via
+these Excel files to deliverable via some</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/357-2
+00:54:31.141 --> 00:54:33.116
+<v Miller, Jeremy>platform that users log into.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/359-0
+00:54:35.076 --> 00:54:39.359
+<v Miller, Jeremy>I I I think the idea of using
+configurations like I saw as I saw</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/359-1
+00:54:39.359 --> 00:54:44.169
+<v Miller, Jeremy>mentioned, I think is the key.
+And so defining that configuration model,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/358-0
+00:54:42.236 --> 00:54:42.516
+<v Visconti, Frank>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/359-2
+00:54:44.169 --> 00:54:48.057
+<v Miller, Jeremy>what does it look like?
+How much do you let the user do it</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/359-3
+00:54:48.057 --> 00:54:49.836
+<v Miller, Jeremy>themselves versus having a?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/361-0
+00:54:50.276 --> 00:54:54.842
+<v Miller, Jeremy>You know somebody on our side help them
+with it or configure it for them and then</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/360-0
+00:54:53.356 --> 00:54:53.676
+<v Visconti, Frank>Right.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/361-1
+00:54:54.842 --> 00:54:58.962
+<v Miller, Jeremy>tied to you know it should be tied to
+assuming that one client equals one</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/361-2
+00:54:58.962 --> 00:55:02.080
+<v Miller, Jeremy>configuration, which may not be the case.
+I don't know.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/361-3
+00:55:02.080 --> 00:55:06.646
+<v Miller, Jeremy>Then you know you have that tied to their
+login and they can see what they expect</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/361-4
+00:55:06.646 --> 00:55:07.036
+<v Miller, Jeremy>to see.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/362-0
+00:55:07.476 --> 00:55:09.756
+<v Miller, Jeremy>you know, when they log in.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/364-0
+00:55:10.956 --> 00:55:14.476
+<v Marshall, Jake>Yeah, good, good. Sorry, Franka.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/363-0
+00:55:11.076 --> 00:55:13.236
+<v Visconti, Frank>Yeah, is this some? Is this?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/365-0
+00:55:14.636 --> 00:55:18.273
+<v Visconti, Frank>No, I was just gonna say,
+are are there specific platforms that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/365-1
+00:55:18.273 --> 00:55:21.796
+<v Visconti, Frank>exist that you're considering or is this
+like a custom build?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/366-0
+00:55:23.316 --> 00:55:26.799
+<v Miller, Jeremy>I mean, I think it's,
+I mean that's a good question.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/366-1
+00:55:26.799 --> 00:55:32.057
+<v Miller, Jeremy>I think that we would want to see some
+sort of so if if so if this is going to,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/366-2
+00:55:32.057 --> 00:55:37.118
+<v Miller, Jeremy>if we're going to move from delivering
+this via you know the things you said</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/366-3
+00:55:37.118 --> 00:55:40.667
+<v Miller, Jeremy>SMTP, Excel files,
+you know data let's say instead of</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/366-4
+00:55:40.667 --> 00:55:42.836
+<v Miller, Jeremy>delivering data we're delivering.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/367-0
+00:55:43.276 --> 00:55:47.965
+<v Miller, Jeremy>you a URL that you log into that you then
+access that data and maybe you can</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/367-1
+00:55:47.965 --> 00:55:52.350
+<v Miller, Jeremy>download it into other things too.
+There has to be some user experience</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/367-2
+00:55:52.350 --> 00:55:55.882
+<v Miller, Jeremy>research, I think,
+around what that looks like and making</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/367-3
+00:55:55.882 --> 00:56:00.876
+<v Miller, Jeremy>sure that we design that workflow so that
+it suits what the user is trying to do.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/368-0
+00:56:01.236 --> 00:56:04.355
+<v Miller, Jeremy>So I mean,
+it doesn't sound that complicated,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/368-1
+00:56:04.355 --> 00:56:07.474
+<v Miller, Jeremy>frankly,
+unless there's pieces of it that I'm</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/368-2
+00:56:07.474 --> 00:56:08.356
+<v Miller, Jeremy>missing, but.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/369-0
+00:56:09.796 --> 00:56:13.604
+<v Miller, Jeremy>Yeah, I think we would need.
+We would need a designer to help us with</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/369-1
+00:56:13.604 --> 00:56:13.876
+<v Miller, Jeremy>that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-0
+00:56:16.236 --> 00:56:18.779
+<v Malik, Hassan>Yeah. And in terms of the platform itself,
+right,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/371-0
+00:56:16.676 --> 00:56:18.636
+<v Marshall, Jake>Well, in a listen.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/370-0
+00:56:17.396 --> 00:56:17.596
+Yes.
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-1
+00:56:18.779 --> 00:56:22.696
+<v Malik, Hassan>there may be options that we can just
+adopt to and customize or we may build</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-2
+00:56:22.696 --> 00:56:25.036
+<v Malik, Hassan>custom.
+I think we should keep the door open.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-3
+00:56:25.036 --> 00:56:28.190
+<v Malik, Hassan>It really depends on, you know,
+I think we need more detailed</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-4
+00:56:28.190 --> 00:56:32.362
+<v Malik, Hassan>requirements to determine that in in the
+past frankly I ended up in vast majority</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/372-0
+00:56:29.596 --> 00:56:29.716
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/374-5
+00:56:32.362 --> 00:56:34.956
+<v Malik, Hassan>of the cases I ended up building
+something custom.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/376-0
+00:56:35.316 --> 00:56:39.947
+<v Malik, Hassan>Because it was the platforms are either
+costly or slow or, you know,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/373-0
+00:56:36.076 --> 00:56:36.316
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/376-1
+00:56:39.947 --> 00:56:45.116
+<v Malik, Hassan>there were just all kind of reasons,
+sometimes not enough customizable. Yep.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/377-0
+00:56:41.876 --> 00:56:43.881
+<v Marshall, Jake>Right.
+By the time you actually get what you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/377-1
+00:56:43.881 --> 00:56:45.396
+<v Marshall, Jake>want, might as well just build it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/378-0
+00:56:44.916 --> 00:56:48.836
+<v Miller, Jeremy>Yeah, yeah.
+And your users are very specific, so.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/379-0
+00:56:48.716 --> 00:56:51.309
+<v Marshall, Jake>Yeah.
+Well and and Jeremy to circle back to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/379-1
+00:56:51.309 --> 00:56:54.374
+<v Marshall, Jake>your other question. So,
+so that is one of the one,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/379-2
+00:56:54.374 --> 00:56:59.207
+<v Marshall, Jake>one of the complications is because our
+like the media clients that we work with,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/379-3
+00:56:59.207 --> 00:57:03.156
+<v Marshall, Jake>they might be on multiple brands who
+cover multiple manufacturers.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/380-0
+00:57:03.956 --> 00:57:08.590
+<v Marshall, Jake>So basically like you know I I work for
+CMI, I am on Pfizer, their oncology.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/380-1
+00:57:08.590 --> 00:57:12.863
+<v Marshall, Jake>I also am in I I cover Genentech,
+you know their PCP brands, whatever.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/380-2
+00:57:12.863 --> 00:57:17.918
+<v Marshall, Jake>So I might be on you know a few different
+reports that have you know some different</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/380-3
+00:57:17.918 --> 00:57:21.047
+<v Marshall, Jake>configurations.
+So that's just something like yeah,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/380-4
+00:57:21.047 --> 00:57:23.876
+<v Marshall, Jake>now you would be able to handle that I'm
+sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/381-0
+00:57:23.956 --> 00:57:27.244
+<v Marshall, Jake>In terms of you know dial,
+you know drilling down at the campaign</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/381-1
+00:57:27.244 --> 00:57:29.684
+<v Marshall, Jake>level,
+but it it just it's probably you wouldn't</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/381-2
+00:57:29.684 --> 00:57:33.619
+<v Marshall, Jake>be able to kind of align it at a user
+level just just in in some you know in a</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/381-3
+00:57:33.619 --> 00:57:37.156
+<v Marshall, Jake>fair amount of cases just to kind of
+answer that answer that question.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/383-0
+00:57:37.116 --> 00:57:39.754
+<v Skokos, Spiro>Yeah,
+so some some would be part of some other</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/383-1
+00:57:39.754 --> 00:57:42.336
+<v Skokos, Spiro>groups.
+If you set up some groups that would,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-0
+00:57:41.636 --> 00:57:44.351
+<v Marshall, Jake>Yeah,
+I mean the other thing I would just say</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/383-2
+00:57:42.336 --> 00:57:44.076
+<v Skokos, Spiro>that would probably work, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/382-0
+00:57:44.276 --> 00:57:44.716
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-1
+00:57:44.351 --> 00:57:47.302
+<v Marshall, Jake>is I'm I'm like,
+I'm very stoked to have you guys</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-2
+00:57:47.302 --> 00:57:52.200
+<v Marshall, Jake>assisting with this project because this
+has been something we've conceived of for</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/384-0
+00:57:51.476 --> 00:57:51.956
+<v Miller, Jeremy>Mhm.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-3
+00:57:52.200 --> 00:57:57.099
+<v Marshall, Jake>for a while as we've chipped away at all
+the underlying kind of precursor steps to</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-4
+00:57:57.099 --> 00:57:59.873
+<v Marshall, Jake>get here.
+So the the timing is actually really</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/385-5
+00:57:59.873 --> 00:58:00.876
+<v Marshall, Jake>great to to have.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/386-0
+00:58:01.156 --> 00:58:04.093
+<v Marshall, Jake>You guys involved now we're we're super
+thankful.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/386-1
+00:58:04.093 --> 00:58:08.617
+<v Marshall, Jake>But I I would say there there's also
+probably a version of this concept that</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/386-2
+00:58:08.617 --> 00:58:12.788
+<v Marshall, Jake>is more about the insights that is
+basically you know generating those</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/386-3
+00:58:12.788 --> 00:58:17.017
+<v Marshall, Jake>insights based off the exposed or engaged
+engaged MPI's that's you know</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/386-4
+00:58:17.017 --> 00:58:20.836
+<v Marshall, Jake>significantly more simplistic in terms of
+you know it not being.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/387-0
+00:58:20.916 --> 00:58:23.674
+<v Marshall, Jake>Being our monthly reporting portal.
+That said,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/387-1
+00:58:23.674 --> 00:58:28.427
+<v Marshall, Jake>I mean again I I think I think having the
+monthly reporting portal is is a super</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/387-2
+00:58:28.427 --> 00:58:33.122
+<v Marshall, Jake>helpful and also a significantly better
+you know front porch so to speak to get</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/387-3
+00:58:33.122 --> 00:58:37.758
+<v Marshall, Jake>users into the experience and then tee up
+other things because we know they're</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/387-4
+00:58:37.758 --> 00:58:40.516
+<v Marshall, Jake>going to come get those monthly reports.
+So I.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/388-0
+00:58:40.516 --> 00:58:40.996
+<v Marshall, Jake>I do.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/390-0
+00:58:40.996 --> 00:58:45.115
+<v Marshall, Jake>I do love that, but you know,
+if we for some reason can't get there,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/390-1
+00:58:45.115 --> 00:58:49.354
+<v Marshall, Jake>we could potentially, you know,
+pivot to focusing more on the insights</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/390-2
+00:58:49.354 --> 00:58:52.518
+<v Marshall, Jake>generated from the just the MPIs engaged
+or exposed,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/390-3
+00:58:52.518 --> 00:58:57.055
+<v Marshall, Jake>which is significantly easier to pipe
+into whatever query we need to do and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/390-4
+00:58:57.055 --> 00:59:00.756
+<v Marshall, Jake>then and then you know,
+summarize in in the portal, but just.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/389-0
+00:59:00.236 --> 00:59:00.956
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/391-0
+00:59:00.996 --> 00:59:03.116
+<v Marshall, Jake>Just a thought in terms of a Plan B.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/393-0
+00:59:03.196 --> 00:59:06.883
+<v Miller, Jeremy>Yeah, I mean in my.
+So I mean there's a lot to learn</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/392-0
+00:59:06.636 --> 00:59:06.796
+<v Marshall, Jake>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/393-1
+00:59:06.883 --> 00:59:10.987
+<v Miller, Jeremy>obviously still,
+but in my head this sits in kind of three</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/393-2
+00:59:10.987 --> 00:59:14.674
+<v Miller, Jeremy>broad phases.
+So one is what can with continuing the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/393-3
+00:59:14.674 --> 00:59:19.196
+<v Miller, Jeremy>same delivery mechanism that you have now,
+what can we automate?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/394-0
+00:59:19.476 --> 00:59:24.498
+<v Miller, Jeremy>Considering the same delivery mechanism
+that you have now, what value can we add?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/394-1
+00:59:24.498 --> 00:59:28.847
+<v Miller, Jeremy>What insights and value can we add?
+And then the phase beyond that is,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/394-2
+00:59:28.847 --> 00:59:31.909
+<v Miller, Jeremy>you know,
+updating the delivery mechanism to this</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/394-3
+00:59:31.909 --> 00:59:36.196
+<v Miller, Jeremy>portal that you described,
+which uses that data but presents it in a.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/395-0
+00:59:36.716 --> 00:59:39.596
+<v Miller, Jeremy>Different way, basically.
+Does that make sense?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/396-0
+00:59:39.716 --> 00:59:40.996
+<v Marshall, Jake>Yeah, it certainly does.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/397-0
+00:59:41.836 --> 00:59:41.956
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/403-0
+00:59:42.916 --> 00:59:47.514
+<v Malik, Hassan>So, so Jeremy in the first one,
+it can also be sort you know the the UI</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/403-1
+00:59:47.514 --> 00:59:52.240
+<v Malik, Hassan>can still be built but for internal use
+so that so the customer don't see</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/398-0
+00:59:51.276 --> 00:59:51.836
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/403-2
+00:59:52.240 --> 00:59:56.072
+<v Malik, Hassan>anything change right?
+But we built something that internal</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/401-0
+00:59:52.836 --> 00:59:55.876
+<v Miller, Jeremy>Yeah, for sure. For sure.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/399-0
+00:59:53.756 --> 00:59:54.156
+<v Visconti, Frank>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/400-0
+00:59:54.716 --> 00:59:55.156
+<v Marshall, Jake>Thank you.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/403-3
+00:59:56.072 --> 00:59:58.881
+<v Malik, Hassan>users,
+you know admin users per se can take</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/403-4
+00:59:58.881 --> 01:00:01.436
+<v Malik, Hassan>configure maybe not everything is built.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/404-0
+01:00:01.756 --> 01:00:02.436
+<v Malik, Hassan>But yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/402-0
+01:00:02.356 --> 01:00:02.716
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/405-0
+01:00:02.436 --> 01:00:05.393
+<v Marshall, Jake>And we do,
+we do have you know we have internal</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/405-1
+01:00:05.393 --> 01:00:09.520
+<v Marshall, Jake>facing Tableau dashboards.
+It's just again the challenge is having</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/405-2
+01:00:09.520 --> 01:00:14.571
+<v Marshall, Jake>all that data live in the same place and
+be performing and be you know look right</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/405-3
+01:00:14.571 --> 01:00:17.651
+<v Marshall, Jake>visually.
+So there is there's something to do I I</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/405-4
+01:00:17.651 --> 01:00:21.716
+<v Marshall, Jake>think I think it's you know internal
+facing need is is certainly.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/406-0
+01:00:22.036 --> 01:00:26.900
+<v Marshall, Jake>Critical and exposing more of our
+internal folks to campaign performance or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/406-1
+01:00:26.900 --> 01:00:32.020
+<v Marshall, Jake>allowing them to self-serve versus you
+know a weekly update you know is is also</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/406-2
+01:00:32.020 --> 01:00:37.076
+<v Marshall, Jake>excellent and and certainly helpful.
+So you know I I do agree in terms and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/406-3
+01:00:37.076 --> 01:00:41.876
+<v Marshall, Jake>again something that you know they have
+access to internal dashboards now.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/408-0
+01:00:41.956 --> 01:00:46.690
+<v Marshall, Jake>And that's probably a place also Jeremy,
+we can kind of show you and you can poke</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/407-0
+01:00:46.436 --> 01:00:46.796
+<v Miller, Jeremy>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/408-1
+01:00:46.690 --> 01:00:51.194
+<v Marshall, Jake>around and you can see how we're we're
+displaying the data internally and and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/408-2
+01:00:51.194 --> 01:00:55.929
+<v Marshall, Jake>start to think through kind of how this
+could could function more efficiently and</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/408-3
+01:00:55.929 --> 01:00:59.335
+<v Marshall, Jake>you know be more you know digestible for
+for the audience,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/408-4
+01:00:59.335 --> 01:01:01.356
+<v Marshall, Jake>even the the internal stakeholders.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/409-0
+01:01:01.396 --> 01:01:04.156
+<v Miller, Jeremy>OK, yeah, I'd love to see it.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/411-0
+01:01:07.876 --> 01:01:12.307
+<v Marshall, Jake>Cool. Any other and again,
+so I'll I'll I'll share some examples.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/410-0
+01:01:11.116 --> 01:01:11.596
+<v Miller, Jeremy>Mhm.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/411-1
+01:01:12.307 --> 01:01:15.799
+<v Marshall, Jake>Jeremy, Andy,
+could you help get Jeremy set up with</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/411-2
+01:01:15.799 --> 01:01:17.276
+<v Marshall, Jake>with community access?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/412-0
+01:01:21.116 --> 01:01:22.676
+<v Popp, Andrew>Yep, I can definitely do that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/413-0
+01:01:22.916 --> 01:01:25.996
+<v Marshall, Jake>Cool. Thank you. Hassan,
+would would you like it as well?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/414-0
+01:01:27.756 --> 01:01:28.356
+<v Malik, Hassan>Yes, please.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/418-0
+01:01:28.436 --> 01:01:34.476
+<v Marshall, Jake>Cool. So we can do that. And then, Yep,
+go ahead.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/415-0
+01:01:30.316 --> 01:01:31.076
+<v Popp, Andrew>Already.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/417-0
+01:01:32.516 --> 01:01:33.436
+<v Miller, Jeremy>Yeah, and then.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/421-0
+01:01:34.636 --> 01:01:39.425
+<v Miller, Jeremy>You know, just, you know,
+give me a little time to dig in.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/420-0
+01:01:37.236 --> 01:01:38.596
+<v Marshall, Jake>Yeah, of course.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/421-1
+01:01:39.425 --> 01:01:45.676
+<v Miller, Jeremy>I'm sure I'll have a lot of questions and
+then we can schedule a yeah, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-0
+01:01:39.596 --> 01:01:41.882
+<v Marshall, Jake>Yeah,
+there's there's a lot to wrap your head</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-1
+01:01:41.882 --> 01:01:44.912
+<v Marshall, Jake>around. I actually,
+I I pull up this report just to give you</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-2
+01:01:44.912 --> 01:01:47.198
+<v Marshall, Jake>a sense of like this is one of our
+campaigns.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-3
+01:01:47.198 --> 01:01:51.123
+<v Marshall, Jake>It just has a ton of stuff going on,
+right. So it's it's emails, it's surveys,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/422-0
+01:01:48.116 --> 01:01:49.196
+<v Miller, Jeremy>Yeah, yeah, yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-4
+01:01:51.123 --> 01:01:54.303
+<v Marshall, Jake>it's discussions with comments, right.
+It's analysis. So again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/423-5
+01:01:54.303 --> 01:01:55.396
+<v Marshall, Jake>it's we we've kind of.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-0
+01:01:55.716 --> 01:01:59.695
+<v Marshall, Jake>Put these together over time to in some
+cases they're they're very large because</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-1
+01:01:59.695 --> 01:02:01.954
+<v Marshall, Jake>this client like loves this report.
+So again,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-2
+01:02:01.954 --> 01:02:05.245
+<v Marshall, Jake>but it's it's doesn't mean we'd have to
+execute this for everyone.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-3
+01:02:05.245 --> 01:02:09.273
+<v Marshall, Jake>But I'm I'm curious how how close to the
+pin we can get with with some of the way</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-4
+01:02:09.273 --> 01:02:11.631
+<v Marshall, Jake>we we've been doing it.
+Or again to your point,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/424-5
+01:02:11.631 --> 01:02:14.676
+<v Marshall, Jake>just do what we're doing more efficiently
+and add more value.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/427-0
+01:02:13.876 --> 01:02:17.216
+<v Miller, Jeremy>Right. Yeah. So, right.
+So I would say next steps,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/425-0
+01:02:14.676 --> 01:02:15.836
+<v Marshall, Jake>In a more automated way.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/427-1
+01:02:17.216 --> 01:02:22.324
+<v Miller, Jeremy>share this information, get us access,
+you know, give me some time to review,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/427-2
+01:02:22.324 --> 01:02:25.926
+<v Miller, Jeremy>digest, understand.
+If little questions come up in the</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/427-3
+01:02:25.926 --> 01:02:30.511
+<v Miller, Jeremy>meantime, I'll just ping you.
+But then let's plan on circling back in</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/426-0
+01:02:27.116 --> 01:02:28.636
+<v Marshall, Jake>Cool. Yeah, please.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/427-4
+01:02:30.511 --> 01:02:33.196
+<v Miller, Jeremy>maybe something like 2 weeks and at that.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/429-0
+01:02:33.396 --> 01:02:37.848
+<v Miller, Jeremy>At that point we'll try to have,
+I'll try to have a very high level road</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/429-1
+01:02:37.848 --> 01:02:41.751
+<v Miller, Jeremy>map for what you know,
+state phases would look like and then we</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/429-2
+01:02:41.751 --> 01:02:44.922
+<v Miller, Jeremy>can, you know, adjust the line,
+ask questions, add,</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/429-3
+01:02:44.922 --> 01:02:46.996
+<v Miller, Jeremy>remove whatever and go from there.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/428-0
+01:02:47.476 --> 01:02:49.156
+<v Marshall, Jake>That that sounds excellent.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/430-0
+01:02:50.796 --> 01:02:51.076
+<v Miller, Jeremy>OK.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/431-0
+01:02:51.276 --> 01:02:53.425
+<v Marshall, Jake>Yeah.
+Any other questions or comments or</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/431-1
+01:02:53.425 --> 01:02:55.836
+<v Marshall, Jake>thoughts from everyone before before we
+wrap?</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/433-0
+01:02:58.356 --> 01:03:01.216
+<v Marshall, Jake>Awesome.
+Thanks again for for your help guys.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/432-0
+01:02:58.756 --> 01:02:59.436
+<v Visconti, Frank>Nope, I'm good.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/433-1
+01:03:01.216 --> 01:03:03.516
+<v Marshall, Jake>We're really looking forward to this.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/434-0
+01:03:03.156 --> 01:03:03.516
+<v Visconti, Frank>Yeah.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/435-0
+01:03:05.116 --> 01:03:08.316
+<v Miller, Jeremy>Yeah, looking forward to it.
+Looks like a a lot of value to be added.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/437-0
+01:03:09.076 --> 01:03:13.410
+<v Marshall, Jake>A very complex one I think which will and
+I feel like we can set a new standard for</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/437-1
+01:03:13.410 --> 01:03:17.589
+<v Marshall, Jake>Norstella with some of this complexity.
+I I feel like we've got to be on the far</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/437-2
+01:03:17.589 --> 01:03:21.561
+<v Marshall, Jake>end of the spectrum in terms of reporting
+output and all the configurations.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/437-3
+01:03:21.561 --> 01:03:25.276
+<v Marshall, Jake>So maybe we can help some other companies
+as well with what we learned.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/436-0
+01:03:26.236 --> 01:03:26.556
+<v Miller, Jeremy>Cool.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/438-0
+01:03:27.556 --> 01:03:29.276
+<v Marshall, Jake>Alright, see y'all.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/447-0
+01:03:29.036 --> 01:03:31.716
+<v Miller, Jeremy>All right, thanks guys. Talk to you soon.
+Cheers.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/440-0
+01:03:29.676 --> 01:03:29.916
+<v Skokos, Spiro>Thank you.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/446-0
+01:03:29.756 --> 01:03:31.756
+<v Visconti, Frank>See you guys. Thanks. Bye, bye.</v>
+
+6b0e31d5-12bb-4280-b7f6-773e571b90ec/442-0
+01:03:30.436 --> 01:03:31.116
+<v Popp, Andrew>Thanks everyone.</v>

@@ -199,7 +199,7 @@ All saved in `./output/` for easy sharing with stakeholders.
 - Add company-specific context to prompts
 
 ### Organize Your Work
-- Use consistent naming: `[project-name]-[date]`
+- Use consistent naming: `[artifact]-[project-name]-[date]`
 - Archive old projects periodically
 - Keep transcripts and outputs together
 

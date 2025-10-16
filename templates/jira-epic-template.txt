@@ -1,0 +1,252 @@
+[Project Name] - Data Science Project
+ 
+
+This PRD is a living document. It is perfectly acceptable to update sections as more information becomes available or as project requirements evolve. The purpose of this guide is to ensure a smooth collaboration among all teams, reduce misunderstandings, and support data-driven decision-making in our data science projects.
+
+Data Science Jira Guidelines
+
+Items should be added or removed as needed. The Template represents was we expect to need to define most of the time, but there will inevitably be some bespoke elements in some projects. 
+
+Make a clone and edit…
+
+* these items will be required for any sizing / capacity estimation
+
+ 
+
+Status
+
+Defining
+ 
+Defined
+ 
+Defining: this document is WIP
+Defined: this document is ready for work to begin, though it may evolve
+
+Product Management Sponsor
+
+ 
+
+Data Science PM
+
+ 
+
+Data Science Tech Lead
+
+ 
+
+Other Team Members and Roles
+
+ 
+
+Leadership Stakeholder(s)
+
+ 
+
+Objective
+
+ 
+
+Due date
+
+ 
+
+Key outcomes
+
+ 
+
+Deliverable
+
+ 
+
+Links
+
+User Research, Design Docs, etc…
+
+Project Canvas - Risk Assessment
+Value
+Business Problem/Opportunity: summarize the core business challenge or potential opportunity
+
+Who is the user?
+
+What is the problem we want to solve for them?
+
+Business or Product Metrics: how will success be measured at the product or user level?
+
+Expected ROI: ie operational efficiency, new product sales, etc
+
+Alignment with Product Strategy: how does this project support a defined business or product strategy?
+
+Monday Board Link: what is the Monday board ticket item associated with this project?
+
+Viability
+* Data Availability: detail what data sources (databases, data warehouses, apis, etc) are available and add any links or documentation
+
+* Can the outbound dependancies for integration be cleared? who will be consuming this API and do they have the bandwidth to consume it?
+
+On what timeframe?
+
+Solution Flow: a flow diagram outlining how you see the solution should work
+
+Other Considerations (privacy, partnerships, etc):
+
+Timeline Constraints: include deadlines or scheduling conflicts that might affect this project
+
+Feasibility
+* Input: what data will be sent to the data science service? be as specific as you can
+
+* Output: what data it will be returned from the data science service?
+
+If this is a chatbot project, provide a document with at least 20 examples (to start, will eventually need to be 100+) representing the breadth of questions we expect the system to be able to handle Each example should include at a minumum:
+
+Question: required to understand scope
+
+Answer: shows us what a good answer looks like, even if the data are not correct
+
+Data source: where will we get the data to answer this question?
+
+* Model Quality Metrics and Targets (Precision, Recall, ROC AUC, etc): if you are unsure our data science team can provide guidance
+
+* Other Performance Metrics (latency, throughput, etc):
+
+* Deliverable Format (ie API, batch process, etc):
+
+Estimated Infrastructure and Compute Requirements:
+
+Estimated Team Member Requirements: how many people from each team for how long?
+
+Usability
+End User Persona: describe who will be using the final product that this API will support
+
+User Experience Requirements (if appropriate): explain how will end users interact with the data sign service outputs
+
+Evidence for ML outputs
+
+Ability to fail gracefully
+
+Ways of Working
+Communication Channels
+Working Team:
+
+Teams Channel (preferred):
+
+Email List:
+
+Meeting Cadence:
+
+Leadership Stakeholder Updates (if not already represented by the Product, or otherwise needed):
+
+Update Method:
+
+Update Frequency:
+
+thinking face Assumptions
+ 
+
+glowing star Milestones
+ 
+
+Milestone
+
+Owner
+
+Deadline
+
+Status
+
+Success Criteria
+
+Deliverables
+
+POC/Feasibility
+ 
+
+ 
+
+ 
+
+What are the go / no-go criteria for moving from POC to development?
+
+ 
+
+Development
+ 
+
+ 
+
+ 
+
+What metric values or facts must we observe in order to say that this work is ready for production?
+
+ 
+
+Production
+ 
+
+ 
+
+ 
+
+What are the production service requirements in terms of quality and performance?
+
+ 
+
+ 
+
+Executive Summary (once a full draft is complete, you may want to add this section at the top)
+Problem Statement:
+
+Current Solution, if exists:
+
+Proposed Solution:
+
+Expected Impact:
+
+Cost of Development:
+
+Additional Considerations for GenAI Chatbot Projects
+Projects using generative AI (GenAI) chatbots require some extra upfront work and caution because these systems cannot be evaluated with standard Machine Learning techniques and can be prone to errors, sometimes in unexpected ways. Here’s what to consider:
+
+Early Stage: Creating Examples and Setting Expectations
+Example Questions and Answers:  
+Provide a collection of questions that end users are likely to ask, along with ideal example responses.  These examples serve as a guide for the AI to understand context and desired outcomes. They also help in setting boundaries on language and scope.
+
+Contextual Information:  
+Describe the domain, such as clinical planning, novel drug development, or patient recruitment, so that the service is aligned with domain-specific language and policies.
+
+Validation and Evaluation Process
+SME Review:  
+Before deployment, subject matter experts (SMEs) should manually review representative sample of the chatbot’s responses. Manual curation ensures accuracy, relevance, and safety.
+
+Iterative Feedback Cycles:  
+Expect to run through a few cycles of testing and review. In each cycle:
+
+The GenAI chatbot’s output is compared with the provided examples.
+
+SMEs evaluate the responses against predefined quality criteria.
+
+Feedback is incorporated to fine-tune the responses.
+
+Deployment Caution:  
+Consider whether you want to release a valuable but flawed product to Early Access customers. Alternatively, you might plan to release only after clear, positive feedback from the evaluation cycles.  
+Tip: Document all changes and key decisions during these cycles for transparency and continual improvement.
+
+Some additional resources for planning AI Chatbot projects:
+GenAI Chatbot Considerations
+
+ 
+
+ 
+
+Sign-off (this work is ready to be executed)
+Product Management Sponsor:
+
+Data Science Lead:
+
+Other (if needed):
+
+Date:
+
+Child work items
+
+Add child work item
+
