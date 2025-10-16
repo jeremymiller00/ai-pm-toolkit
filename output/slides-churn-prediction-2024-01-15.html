@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Tier Churn Prediction - Executive Presentation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .slide {
+            width: 960px;
+            height: 540px;
+            margin: 20px auto;
+            background: white;
+            padding: 60px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            page-break-after: always;
+            position: relative;
+            box-sizing: border-box;
+        }
+        .slide h1 {
+            color: #1a1a1a;
+            font-size: 44px;
+            margin: 0 0 20px 0;
+            font-weight: 600;
+        }
+        .slide h2 {
+            color: #2c5aa0;
+            font-size: 32px;
+            margin: 0 0 30px 0;
+            font-weight: 600;
+        }
+        .slide h3 {
+            color: #1a1a1a;
+            font-size: 24px;
+            margin: 25px 0 15px 0;
+            font-weight: 600;
+        }
+        .slide p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+            margin: 0 0 15px 0;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #666;
+            margin: -10px 0 40px 0;
+        }
+        .highlight-box {
+            background: #e8f4f8;
+            border-left: 5px solid #2c5aa0;
+            padding: 20px 25px;
+            margin: 20px 0;
+            font-size: 20px;
+            font-weight: 500;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin: 30px 0;
+        }
+        .metric-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #e0e0e0;
+        }
+        .metric-value {
+            font-size: 36px;
+            font-weight: bold;
+            color: #2c5aa0;
+            margin: 10px 0;
+        }
+        .metric-label {
+            font-size: 16px;
+            color: #666;
+            font-weight: 500;
+        }
+        .metric-target {
+            font-size: 28px;
+            color: #28a745;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin: 25px 0;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 25px;
+        }
+        li {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #333;
+            margin: 8px 0;
+        }
+        .timeline {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+            font-size: 18px;
+        }
+        .timeline-date {
+            font-weight: bold;
+            color: #2c5aa0;
+            min-width: 150px;
+        }
+        .timeline-desc {
+            color: #333;
+        }
+        .risk-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .risk-table th {
+            background: #2c5aa0;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-size: 16px;
+        }
+        .risk-table td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+            font-size: 16px;
+        }
+        .risk-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        .footer {
+            position: absolute;
+            bottom: 30px;
+            right: 60px;
+            font-size: 14px;
+            color: #999;
+        }
+        .roi-highlight {
+            background: #d4edda;
+            border: 3px solid #28a745;
+            padding: 25px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 25px 0;
+        }
+        .roi-value {
+            font-size: 48px;
+            font-weight: bold;
+            color: #28a745;
+            margin: 10px 0;
+        }
+        .roi-label {
+            font-size: 20px;
+            color: #333;
+        }
+        strong {
+            color: #2c5aa0;
+        }
+    </style>
+</head>
+<body>
+
+<!-- SLIDE 1: Overview & Business Case -->
+<div class="slide">
+    <h1>Premium Tier Churn Prediction</h1>
+    <p class="subtitle">Proactive Retention to Recover $2M Annual Revenue Loss</p>
+
+    <div class="highlight-box">
+        We're building a predictive system to identify at-risk premium customers 2-4 weeks before they cancel, enabling proactive CS outreach to reduce churn by 25%.
+    </div>
+
+    <h3>The Problem</h3>
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <div class="metric-label">Current Monthly Churn</div>
+            <div class="metric-value">8%</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-label">Annual Revenue at Risk</div>
+            <div class="metric-value">$2M</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-label">Current Approach</div>
+            <div class="metric-value" style="font-size: 24px;">Reactive Only</div>
+            <p style="margin: 0; font-size: 14px; color: #666;">Learn after cancellation</p>
+        </div>
+        <div class="metric-card">
+            <div class="metric-label">Exit Survey Response</div>
+            <div class="metric-value">20%</div>
+            <p style="margin: 0; font-size: 14px; color: #666;">Limited insight into why</p>
+        </div>
+    </div>
+
+    <h3>The Solution</h3>
+    <p>Analyze customer behavior patterns (logins, feature usage, support tickets) to predict churn risk and surface top 10% highest-risk customers to CS team for personalized intervention.</p>
+
+    <div class="footer">January 2024 | Sarah Chen, Product Lead</div>
+</div>
+
+<!-- SLIDE 2: Expected Impact & Investment -->
+<div class="slide">
+    <h2>Expected Impact & Investment</h2>
+
+    <div class="roi-highlight">
+        <div class="roi-label">Expected Return on Investment</div>
+        <div class="roi-value">4-8x ROI</div>
+        <p style="margin: 0; font-size: 18px; color: #666;">$400K-600K annual retention on ~$75K-100K investment</p>
+    </div>
+
+    <div class="two-column">
+        <div>
+            <h3>Success Metrics</h3>
+            <div class="metric-card">
+                <div class="metric-label">Monthly Churn Rate</div>
+                <div class="metric-value">8%</div>
+                <div style="font-size: 20px; margin: 10px 0;">↓</div>
+                <div class="metric-target">6%</div>
+                <p style="margin: 5px 0 0 0; font-size: 14px; color: #666;">25% reduction by Q3 2024</p>
+            </div>
+            <div class="metric-card" style="margin-top: 15px;">
+                <div class="metric-label">Prediction Accuracy</div>
+                <div class="metric-target">80%+</div>
+                <p style="margin: 5px 0 0 0; font-size: 14px; color: #666;">Precision target</p>
+            </div>
+        </div>
+
+        <div>
+            <h3>Timeline & Investment</h3>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">3-4 months</div>
+                    <div class="timeline-desc">To full launch</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">$75K-100K</div>
+                    <div class="timeline-desc">Total investment</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">12-16 weeks</div>
+                    <div class="timeline-desc">Data Science effort</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">3-4 weeks</div>
+                    <div class="timeline-desc">Engineering effort</div>
+                </div>
+            </div>
+
+            <h3>Key Milestones</h3>
+            <ul style="margin-top: 15px;">
+                <li><strong>Jan 22:</strong> Validation complete</li>
+                <li><strong>Early Mar:</strong> Testing ready</li>
+                <li><strong>Late Mar:</strong> Full deployment</li>
+                <li><strong>Q2:</strong> Impact measurement</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">January 2024 | Sarah Chen, Product Lead</div>
+</div>
+
+<!-- SLIDE 3: Approach, Risks & What We Need -->
+<div class="slide">
+    <h2>Approach, Risks & Next Steps</h2>
+
+    <h3>How It Works</h3>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;">
+        <div style="text-align: center; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+            <div style="font-size: 36px; margin-bottom: 10px;">📊</div>
+            <div style="font-size: 16px; font-weight: 600; color: #2c5aa0;">Analyze Behavior</div>
+            <p style="font-size: 14px; margin: 5px 0;">Usage, support tickets, engagement</p>
+        </div>
+        <div style="text-align: center; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+            <div style="font-size: 36px; margin-bottom: 10px;">🎯</div>
+            <div style="font-size: 16px; font-weight: 600; color: #2c5aa0;">Predict Risk</div>
+            <p style="font-size: 14px; margin: 5px 0;">Score customers daily, rank by risk</p>
+        </div>
+        <div style="text-align: center; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+            <div style="font-size: 36px; margin-bottom: 10px;">💬</div>
+            <div style="font-size: 16px; font-weight: 600; color: #2c5aa0;">Proactive Outreach</div>
+            <p style="font-size: 14px; margin: 5px 0;">CS contacts top 10% with help</p>
+        </div>
+    </div>
+
+    <h3>Key Risks & Mitigations</h3>
+    <table class="risk-table">
+        <tr>
+            <th style="width: 40%;">Risk</th>
+            <th style="width: 60%;">Mitigation</th>
+        </tr>
+        <tr>
+            <td><strong>Data quality issues</strong></td>
+            <td>Week 1 data audit before committing resources</td>
+        </tr>
+        <tr>
+            <td><strong>Weak predictive signal</strong></td>
+            <td>Week 1 exploratory analysis validates signal exists</td>
+        </tr>
+        <tr>
+            <td><strong>CS team capacity</strong></td>
+            <td>Confirming capacity with leadership; adjust % if needed</td>
+        </tr>
+    </table>
+    <p style="margin: 10px 0; font-size: 16px;"><strong>Overall Risk:</strong> Medium | <strong>De-risking:</strong> Week 1 validation checkpoint acts as go/no-go gate</p>
+
+    <h3>What We Need to Proceed</h3>
+    <div class="two-column" style="margin-top: 15px;">
+        <div>
+            <strong style="display: block; margin-bottom: 10px; font-size: 18px;">From Leadership:</strong>
+            <ul style="margin: 0;">
+                <li>Approval for $75K-100K investment</li>
+                <li>CS team prioritization confirmed</li>
+                <li>Discount budget authority</li>
+            </ul>
+        </div>
+        <div>
+            <strong style="display: block; margin-bottom: 10px; font-size: 18px;">Next Steps (Week 1):</strong>
+            <ul style="margin: 0;">
+                <li>Data quality & signal validation</li>
+                <li>Salesforce integration feasibility</li>
+                <li>Go/no-go decision (Jan 22)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">January 2024 | Sarah Chen, Product Lead</div>
+</div>
+
+<div style="text-align: center; padding: 40px; background: white; margin: 20px auto; width: 960px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h2 style="color: #2c5aa0; margin-bottom: 20px;">How to Use These Slides</h2>
+    <p style="font-size: 16px; line-height: 1.6; color: #333; max-width: 700px; margin: 0 auto;">
+        <strong>To copy to PowerPoint:</strong><br>
+        1. Open this HTML file in your browser<br>
+        2. Select the content of each slide (click and drag to select all content within a slide)<br>
+        3. Copy (Ctrl+C or Cmd+C)<br>
+        4. Paste into PowerPoint (Ctrl+V or Cmd+V)<br>
+        5. Adjust formatting as needed<br><br>
+        <em>Note: Most formatting, tables, and layout will transfer to PowerPoint. You may need to adjust fonts or colors to match your template.</em>
+    </p>
+</div>
+
+</body>
+</html>

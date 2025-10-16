@@ -1,5 +1,5 @@
 # Output files (optional - you may want to track these)
-output/
+# output/
 
 # OS files
 .DS_Store
