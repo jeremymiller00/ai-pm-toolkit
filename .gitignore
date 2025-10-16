@@ -1,0 +1,37 @@
+# Output files (optional - you may want to track these)
+# output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local configuration
+.env
+config.local.*
+
+# Node modules (if you add any tooling)
+node_modules/
+
+# Python (if you add any scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Logs
+*.log
+logs/

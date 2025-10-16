@@ -1,0 +1,83 @@
+Meeting: Product Discovery for Churn Prediction Model
+Date: 2024-01-15
+Attendees: Sarah Chen (Product Lead), Mike Rodriguez (DS Lead), Alex Kim (Engineering Lead), Jessica Park (Customer Success)
+
+---
+
+Sarah: Thanks everyone for joining. I wanted to discuss a project idea that's been on my mind. We're seeing about 8% monthly churn in our premium tier, which is costing us roughly $2M annually. I'd like to explore whether we can predict which users are likely to churn so we can intervene proactively.
+
+Mike: That's definitely a problem worth tackling. Do we have any data on why users are churning? Understanding the drivers would help us know what signals to look for.
+
+Sarah: We have survey data from exit interviews, but only about 20% of churning users respond. The most common reasons cited are "not using features enough" and "cost concerns". Jessica, you probably have more insight here.
+
+Jessica: Yeah, from CS conversations, we see a few patterns. Users who don't engage with the core features in their first month rarely stick around. Also, users who have support tickets that take more than 3 days to resolve often churn within the next billing cycle.
+
+Alex: We track a lot of usage data - login frequency, feature usage, support tickets, in-app behavior. We could probably feed all of that into a model.
+
+Mike: That's good. For this to be useful, we'd need to predict churn maybe 2-4 weeks in advance, so we have time to actually intervene. Sarah, what kind of intervention are you thinking?
+
+Sarah: Probably personalized outreach from the CS team, maybe offering a discount, product education, or a white-glove onboarding session. But we can't reach out to everyone - we'd need to prioritize the highest-risk users.
+
+Jessica: Right, and we want to be strategic. If we're offering discounts, we need to be pretty confident they're actually going to churn. Otherwise we're just giving away money to people who would have stayed anyway.
+
+Mike: So we'd want high precision - only flag users who are really likely to churn. What's the acceptable false positive rate here?
+
+Sarah: If we're offering discounts, I'd say we need to be at least 80% confident. Maybe we reach out to the top 10% most at-risk users each week?
+
+Mike: That's doable. The tradeoff is we might miss some users who do churn (lower recall), but sounds like precision is more important here.
+
+Alex: Makes sense. Timeline-wise, when do you need this?
+
+Sarah: We're planning a big retention push for Q2, so ideally we'd have something testable by end of Q1. That's about 10 weeks from now.
+
+Mike: That's tight but doable if the data is clean and accessible. I'd want to start with a simpler model - maybe gradient boosting on user activity features - and then iterate if we need something more sophisticated. We'd also want to do a proper A/B test to validate the actual impact on churn, not just model performance.
+
+Alex: From an engineering perspective, how would this work? Batch predictions daily?
+
+Mike: Yeah, daily batch predictions would be fine. We don't need real-time. We'd score all premium users, rank by churn probability, and surface the top N% to the CS team.
+
+Jessica: How would we get the list? Dashboard? Email?
+
+Alex: We could build a simple dashboard or integrate it into Salesforce if that's easier for CS.
+
+Jessica: Salesforce integration would be ideal. We live in there anyway.
+
+Sarah: What about model maintenance? This isn't a one-and-done thing, right?
+
+Mike: Correct. User behavior changes over time, so the model would need periodic retraining - probably quarterly. We'd also need monitoring to detect if the model starts degrading.
+
+Alex: We'd need to instrument that. Add monitoring for prediction distribution, model performance metrics, things like that.
+
+Mike: Exactly. And we should track the actual outcomes - of the users we flagged, how many actually churned? That feedback loop is important.
+
+Sarah: Okay, this sounds feasible. What's the level of effort we're talking about?
+
+Mike: Rough estimate, I'd say 12-16 person-weeks total for DS. That's 2 weeks for data exploration and baseline model, 3-4 weeks for feature engineering and model iteration, 2 weeks for evaluation and A/B test setup, 1-2 weeks for deployment support, and then a few weeks buffer for unknowns.
+
+Alex: Engineering would need maybe 3-4 weeks for the dashboard/integration, monitoring setup, and data pipeline work.
+
+Sarah: So ballpark, we're looking at 3-4 months to fully launch if we dedicate people to this?
+
+Mike: If we have dedicated DS and engineering resources, we could launch an experiment in 6-8 weeks, then another 4-6 weeks to evaluate and productionize. So yeah, 3-4 months total sounds right.
+
+Sarah: What are the main risks?
+
+Mike: Data quality is the biggest one. If our usage data is messy or inconsistent, we'll spend extra time cleaning it. Also, if the signal is weak - meaning churn is pretty random - the model might not be very predictive. We should do an exploratory analysis in the first week to assess that.
+
+Alex: From my side, the integration with Salesforce could be tricky depending on their API limitations and our data access. We should prototype that early.
+
+Jessica: And from CS, we need to make sure we have capacity to actually do the outreach. If the model surfaces 100 users a week and we can only handle 50, we need to figure that out.
+
+Sarah: Good point. Let me check with CS leadership on capacity. Mike, can you do that exploratory analysis to validate there's signal in the data?
+
+Mike: Yep, I can have something in a week. I'll look at correlations between usage patterns and churn, see if there are clear differentiators.
+
+Sarah: Perfect. Alex, can you investigate the Salesforce integration feasibility?
+
+Alex: Sure, I'll talk to our Salesforce admin and see what's possible.
+
+Sarah: Great. Let's reconvene in a week with those findings, and if things look good, we can kick off the project officially. Sound good?
+
+All: Sounds good.
+
+Sarah: Thanks everyone!
