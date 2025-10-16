@@ -20,6 +20,7 @@
 - **`/stakeholder-update`** - Generate status updates from project notes/activity
 - **`/ds-to-product`** - Translate DS technical language to product-friendly terms
 - **`/kickoff-agenda`** - Generate meeting agendas for project kickoffs
+- **`/create-slides`** - Generate html slides for copying to ppt from a doc
 
 ### 4. **Documentation & Knowledge Management**
 - **`/retro-generator`** - Create retrospective documents from project notes
