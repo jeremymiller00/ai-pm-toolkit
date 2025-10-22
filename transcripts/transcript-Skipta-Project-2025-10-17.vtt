@@ -1,0 +1,2263 @@
+WEBVTT
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/8-0
+00:00:05.578 --> 00:00:09.068
+<v Miller, Jeremy>All right.
+So thanks for making some time to circle</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/8-1
+00:00:09.068 --> 00:00:13.431
+<v Miller, Jeremy>back on this initiative.
+I've had a little bit of time to review</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/8-2
+00:00:13.431 --> 00:00:18.935
+<v Miller, Jeremy>and think about the information that was
+presented and do some research and think</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/8-3
+00:00:18.935 --> 00:00:21.218
+<v Miller, Jeremy>about how we might structure this.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/10-0
+00:00:21.258 --> 00:00:27.278
+<v Miller, Jeremy>In terms of, you know,
+putting together a robot that makes sense.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/10-1
+00:00:27.278 --> 00:00:28.738
+<v Miller, Jeremy>So let me share.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/11-0
+00:00:36.298 --> 00:00:40.370
+<v Miller, Jeremy>All right, so and at any point,
+if there's any questions or corrections</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/11-1
+00:00:40.370 --> 00:00:43.141
+<v Miller, Jeremy>or things that need to be added,
+please jump in.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/11-2
+00:00:43.141 --> 00:00:45.178
+<v Miller, Jeremy>You don't have to wait till the end.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/12-0
+00:00:46.218 --> 00:00:51.091
+<v Miller, Jeremy>But I believe this is our mission,
+which is to turn Skipta as it stands</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/12-1
+00:00:51.091 --> 00:00:56.236
+<v Miller, Jeremy>today into an integrated AI powered
+optimization platform using Norstella's</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/12-2
+00:00:56.236 --> 00:01:00.771
+<v Miller, Jeremy>proprietary RWD to deliver unmatched
+engagement and drive revenue.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/12-3
+00:01:00.771 --> 00:01:03.818
+<v Miller, Jeremy>So two key points being there being the
+RWD.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/13-0
+00:01:04.138 --> 00:01:07.779
+<v Miller, Jeremy>Integration, you know,
+we have data that other folks don't have.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/13-1
+00:01:07.779 --> 00:01:11.197
+<v Miller, Jeremy>We have the engagement data from Skipta,
+we have the access,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/13-2
+00:01:11.197 --> 00:01:15.735
+<v Miller, Jeremy>we know a lot about the physicians and
+then also the opportunity to build a more</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/13-3
+00:01:15.735 --> 00:01:20.217
+<v Miller, Jeremy>integrated platform that just creates
+less steps overall and helps us capture a</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/13-4
+00:01:20.217 --> 00:01:21.058
+<v Miller, Jeremy>bit more value.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/14-0
+00:01:25.578 --> 00:01:30.886
+<v Miller, Jeremy>So I think this is really the key slide
+and we can spend some time here thinking</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/14-1
+00:01:30.886 --> 00:01:35.669
+<v Miller, Jeremy>about how this might look for a build out.
+There are three work streams.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/14-2
+00:01:35.669 --> 00:01:40.978
+<v Miller, Jeremy>The first one is is RJBD powered insights.
+So that's that quick win work stream.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/15-0
+00:01:41.418 --> 00:01:46.141
+<v Miller, Jeremy>Where we take campaigns,
+we match skip to data to RBD data,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/15-1
+00:01:46.141 --> 00:01:52.755
+<v Miller, Jeremy>we build those profiles for providers and
+we build a a model that that is a you can</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/15-2
+00:01:52.755 --> 00:01:56.298
+<v Miller, Jeremy>call it a look alike or a matching model
+so.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/16-0
+00:01:56.498 --> 00:01:59.416
+<v Miller, Jeremy>You know, the key,
+one of the key value props there is</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/16-1
+00:01:59.416 --> 00:02:02.811
+<v Miller, Jeremy>you've got a campaign,
+you've had engagement from this segment,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/16-2
+00:02:02.811 --> 00:02:05.571
+<v Miller, Jeremy>you know,
+do the analysis to figure out who engaged</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/16-3
+00:02:05.571 --> 00:02:08.489
+<v Miller, Jeremy>and who didn't,
+and then find those people who engaged</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/16-4
+00:02:08.489 --> 00:02:11.938
+<v Miller, Jeremy>who weren't necessarily part of the
+campaign and add them to it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/17-0
+00:02:12.138 --> 00:02:16.183
+<v Miller, Jeremy>As well as other learnings,
+but I think that's a key value prop.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/17-1
+00:02:16.183 --> 00:02:19.419
+<v Miller, Jeremy>The second work stream is the reporting
+automation.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/17-2
+00:02:19.419 --> 00:02:23.776
+<v Miller, Jeremy>How can we define and build standardized
+metrics, processes, outputs,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/17-3
+00:02:23.776 --> 00:02:28.319
+<v Miller, Jeremy>documents to speed that up while
+retaining the high level of quality and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/17-4
+00:02:28.319 --> 00:02:29.938
+<v Miller, Jeremy>oversight that we deliver?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/18-0
+00:02:30.378 --> 00:02:34.042
+<v Miller, Jeremy>And then the third is the integrated
+platform workstream,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/18-1
+00:02:34.042 --> 00:02:38.023
+<v Miller, Jeremy>which I think is the biggest of the three,
+which is, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/18-2
+00:02:38.023 --> 00:02:42.824
+<v Miller, Jeremy>how do we leverage our data to really
+optimize campaigns while creating a a</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/18-3
+00:02:42.824 --> 00:02:47.058
+<v Miller, Jeremy>single place that that our clients can
+come to and have access to?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/19-0
+00:02:47.578 --> 00:02:51.416
+<v Miller, Jeremy>You know, a fuller pipeline.
+So I've broken it down into, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/19-1
+00:02:51.416 --> 00:02:55.707
+<v Miller, Jeremy>high-level outcomes across four quarters
+across each work stream, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/19-2
+00:02:55.707 --> 00:03:00.054
+<v Miller, Jeremy>starting with the most of the effort
+initially to get that quick win out the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/19-3
+00:03:00.054 --> 00:03:02.538
+<v Miller, Jeremy>door,
+which is those RGWD powered insights.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/20-0
+00:03:03.058 --> 00:03:07.682
+<v Miller, Jeremy>Finding those missing people and really
+understanding how campaigns are</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/20-1
+00:03:07.682 --> 00:03:11.663
+<v Miller, Jeremy>performing and joining that data.
+And while we're doing that,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/20-2
+00:03:11.663 --> 00:03:16.288
+<v Miller, Jeremy>we'll be doing research and evaluation
+about the metrics and reporting,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/20-3
+00:03:16.288 --> 00:03:19.178
+<v Miller, Jeremy>building standardized metrics,
+dictionaries.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-0
+00:03:19.258 --> 00:03:23.013
+<v Miller, Jeremy>Building basic, you know,
+infrastructure for that as well as on the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-1
+00:03:23.013 --> 00:03:25.443
+<v Miller, Jeremy>third work stream,
+doing research analysis,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-2
+00:03:25.443 --> 00:03:28.922
+<v Miller, Jeremy>probably a lot of this you already have,
+but communicating it,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-3
+00:03:28.922 --> 00:03:33.230
+<v Miller, Jeremy>making it a relevant for this particular
+project and then starting basic data</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-4
+00:03:33.230 --> 00:03:36.544
+<v Miller, Jeremy>pipeline architecture.
+So we come out of Q1 on workstream 3</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/21-5
+00:03:36.544 --> 00:03:38.698
+<v Miller, Jeremy>having a really solid plan and then we.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/22-0
+00:03:38.778 --> 00:03:43.857
+<v Miller, Jeremy>Gradually shift effort away from
+workstream one towards two and three</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/22-1
+00:03:43.857 --> 00:03:47.776
+<v Miller, Jeremy>quarter two.
+We build more advanced lookalike models,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/22-2
+00:03:47.776 --> 00:03:51.476
+<v Miller, Jeremy>add more features,
+hopefully add improved metrics.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/22-3
+00:03:51.476 --> 00:03:57.354
+<v Miller, Jeremy>We start to automate reporting as much as
+possible for standardized things or at</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/22-4
+00:03:57.354 --> 00:03:58.298
+<v Miller, Jeremy>least get to.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/23-0
+00:03:58.298 --> 00:04:03.228
+<v Miller, Jeremy>You know something like a 50% state of
+automation for for more coms select</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/23-1
+00:04:03.228 --> 00:04:08.421
+<v Miller, Jeremy>things and then we start to build you
+know for that third pipeline will in all</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/23-2
+00:04:08.421 --> 00:04:13.023
+<v Miller, Jeremy>likelihood that DSP integration,
+advanced targeting and kind of basic</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/23-3
+00:04:13.023 --> 00:04:14.338
+<v Miller, Jeremy>optimization engine.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/24-0
+00:04:14.858 --> 00:04:17.839
+<v Miller, Jeremy>And then as we get into the second-half
+of the year,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/24-1
+00:04:17.839 --> 00:04:22.001
+<v Miller, Jeremy>it really shifts more towards that
+platform tweaks and fine tuning on the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/24-2
+00:04:22.001 --> 00:04:24.701
+<v Miller, Jeremy>first workstream where needed for
+workstream 2,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/24-3
+00:04:24.701 --> 00:04:29.258
+<v Miller, Jeremy>the reporting really aiming for a high
+automation rate with minimal oversight so</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/24-4
+00:04:29.258 --> 00:04:32.858
+<v Miller, Jeremy>that we can scale without necessarily
+adding time or headcount.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/25-0
+00:04:33.258 --> 00:04:37.661
+<v Miller, Jeremy>And having a first version of that
+integrated platform and looking at</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/25-1
+00:04:37.661 --> 00:04:42.380
+<v Miller, Jeremy>internally, making sure it works,
+maybe some EA users helping us identify,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/25-2
+00:04:42.380 --> 00:04:47.035
+<v Miller, Jeremy>refine it. And then as we get into Q4,
+it really the effort really shifts</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/25-3
+00:04:47.035 --> 00:04:51.754
+<v Miller, Jeremy>towards to making that platform do
+everything we want it to do and I and I</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/25-4
+00:04:51.754 --> 00:04:52.698
+<v Miller, Jeremy>have some more.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-0
+00:04:52.938 --> 00:04:55.814
+<v Miller, Jeremy>Detailed slides about what I think that
+looks like.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-1
+00:04:55.814 --> 00:05:00.460
+<v Miller, Jeremy>The first two are are really clear to me.
+I I think I pretty understand really well</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-2
+00:05:00.460 --> 00:05:04.276
+<v Miller, Jeremy>what what that looks like,
+what it would mean and what kind of would</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-3
+00:05:04.276 --> 00:05:07.539
+<v Miller, Jeremy>need to be built.
+The third one is a little bit less clear</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-4
+00:05:07.539 --> 00:05:10.194
+<v Miller, Jeremy>to me,
+but I think I get the basics and I think</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/26-5
+00:05:10.194 --> 00:05:10.858
+<v Miller, Jeremy>I just need.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/27-0
+00:05:10.858 --> 00:05:14.947
+<v Miller, Jeremy>We just need to share more information
+and communicate more about exactly how</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/27-1
+00:05:14.947 --> 00:05:18.565
+<v Miller, Jeremy>things are working now and how the data
+are flowing in work streams.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/27-2
+00:05:18.565 --> 00:05:22.655
+<v Miller, Jeremy>But that's all work that can be done for
+sure. And then some key assumptions.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/27-3
+00:05:22.655 --> 00:05:25.329
+<v Miller, Jeremy>You know,
+this is a substantial body of work which</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/27-4
+00:05:25.329 --> 00:05:26.378
+<v Miller, Jeremy>is going to involve.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/28-0
+00:05:26.698 --> 00:05:31.428
+<v Miller, Jeremy>Data science, but not just data science.
+So we would need some data engineering</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/28-1
+00:05:31.428 --> 00:05:36.454
+<v Miller, Jeremy>folks to help us build and maintain those
+pipelines, connecting the pieces together.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/28-2
+00:05:36.454 --> 00:05:41.125
+<v Miller, Jeremy>We would obviously need some front end
+engineers to to build the the marketing</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/28-3
+00:05:41.125 --> 00:05:41.658
+<v Miller, Jeremy>platform.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/29-0
+00:05:41.978 --> 00:05:45.894
+<v Miller, Jeremy>Which we would, you know,
+those 3 engineering squads would have to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/29-1
+00:05:45.894 --> 00:05:50.277
+<v Miller, Jeremy>coordinate very closely and then some
+sort of platform UX or UI design for</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/29-2
+00:05:50.277 --> 00:05:54.369
+<v Miller, Jeremy>really making sure it works for the
+clients that are going to use it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/29-3
+00:05:54.369 --> 00:05:57.818
+<v Miller, Jeremy>So I'll pause here for any thoughts,
+feedbacks, questions.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/30-0
+00:06:00.778 --> 00:06:06.309
+<v Marshall, Jake>Jeremy, thanks for putting this together.
+I do. I do want to just just call out.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/30-1
+00:06:06.309 --> 00:06:11.021
+<v Marshall, Jake>I'm just not sure if this was factored
+into your your thinking here,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/30-2
+00:06:11.021 --> 00:06:14.778
+<v Marshall, Jake>but we are we do have a separate work
+stream going on.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/32-0
+00:06:16.378 --> 00:06:21.918
+<v Marshall, Jake>A data cloud project that's going to
+enable our next next best action delivery.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/32-1
+00:06:21.918 --> 00:06:27.251
+<v Marshall, Jake>So we are essentially already putting the
+infrastructure in place. You know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/32-2
+00:06:27.251 --> 00:06:30.368
+<v Marshall, Jake>it's not necessarily the decisioning
+engine,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/32-3
+00:06:30.368 --> 00:06:34.178
+<v Marshall, Jake>but the logic could potentially be be
+built into that.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/33-0
+00:06:34.818 --> 00:06:40.956
+<v Marshall, Jake>So you know there is there is you know
+those these things would have to you know</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/33-1
+00:06:40.956 --> 00:06:47.018
+<v Marshall, Jake>talk to one another but there's you know
+there's a you know acquiring that data</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/33-2
+00:06:47.018 --> 00:06:51.338
+<v Marshall, Jake>cloud piece from Salesforce and then
+having that be the.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/34-0
+00:06:51.818 --> 00:06:57.826
+<v Marshall, Jake>You know where we manage our our
+customers and you know create the the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/34-1
+00:06:57.826 --> 00:07:04.258
+<v Marshall, Jake>more you know the the setups to to
+generate execution list by by channel is</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/34-2
+00:07:04.258 --> 00:07:10.098
+<v Marshall, Jake>at least theorized now to kind of all all
+live off of of data cloud.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/35-0
+00:07:10.938 --> 00:07:14.387
+<v Marshall, Jake>So I mean,
+this could just be like another another</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/35-1
+00:07:14.387 --> 00:07:18.784
+<v Marshall, Jake>piece that that plugs into that, you know,
+in in some way. Andy,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/35-2
+00:07:18.784 --> 00:07:22.978
+<v Marshall, Jake>am I thinking about that the right way
+from your perspective?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/37-0
+00:07:28.338 --> 00:07:34.039
+<v Popp, Andrew>Yeah, I think so,
+but I'm not sure where the are you</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/37-1
+00:07:34.039 --> 00:07:42.538
+<v Popp, Andrew>talking about for like developing like
+the the lookalike model to do the next.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/41-0
+00:07:41.018 --> 00:07:43.914
+<v Marshall, Jake>No, no,
+more for like the next best action engine</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/38-0
+00:07:43.418 --> 00:07:44.418
+<v Popp, Andrew>Q3 OK.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/41-1
+00:07:43.914 --> 00:07:46.579
+<v Marshall, Jake>part. I see that and say, hey,
+we've already,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/41-2
+00:07:46.579 --> 00:07:50.867
+<v Marshall, Jake>we're kind of building that already.
+Now you know the level of we haven't</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/39-0
+00:07:47.538 --> 00:07:47.698
+<v Popp, Andrew>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/41-3
+00:07:50.867 --> 00:07:55.270
+<v Marshall, Jake>gotten to the point where we actually are
+truly building the engine, right?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/40-0
+00:07:51.218 --> 00:07:51.378
+<v Popp, Andrew>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/41-4
+00:07:55.270 --> 00:07:57.298
+<v Marshall, Jake>We're just building the automation.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/43-0
+00:07:57.738 --> 00:08:02.028
+<v Marshall, Jake>To provide for like the decisioning.
+So it just seems like you know the these</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/42-0
+00:08:01.538 --> 00:08:01.778
+<v Popp, Andrew>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/43-1
+00:08:02.028 --> 00:08:06.538
+<v Marshall, Jake>projects will have to kind of be in tune
+with each other and I don't I don't want</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/43-2
+00:08:06.538 --> 00:08:10.828
+<v Marshall, Jake>to you know waste waste motion by by
+duplicating efforts if if it's something</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/43-3
+00:08:10.828 --> 00:08:14.018
+<v Marshall, Jake>that we're already accounting for with
+with that project.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/45-0
+00:08:14.738 --> 00:08:18.722
+<v Skokos, Spiro>Yeah, good point, Jake. Yeah,
+that definitely side by side.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/44-0
+00:08:15.098 --> 00:08:16.258
+<v Popp, Andrew>Yeah, so.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/45-1
+00:08:18.722 --> 00:08:23.105
+<v Skokos, Spiro>Just keep that in mind.
+Like Jake said that that development will</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/45-2
+00:08:23.105 --> 00:08:25.098
+<v Skokos, Spiro>be happening parallel I guess.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/46-0
+00:08:25.738 --> 00:08:30.654
+<v Popp, Andrew>Yeah.
+So I guess the question Jeremy is the so</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/46-1
+00:08:30.654 --> 00:08:36.618
+<v Popp, Andrew>the work stream one for Q3,
+so predictive lift modeling,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/46-2
+00:08:36.618 --> 00:08:40.698
+<v Popp, Andrew>so predictive lift modeling being lift.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/48-0
+00:08:41.178 --> 00:08:45.551
+<v Popp, Andrew>To HC PS that we're currently not
+targeting.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/48-1
+00:08:45.551 --> 00:08:51.673
+<v Popp, Andrew>And then is there a predictive model for
+Nest Next Nest? Geez,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/48-2
+00:08:51.673 --> 00:08:56.338
+<v Popp, Andrew>easy for me to say next best action as
+well or?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/49-0
+00:08:57.818 --> 00:09:02.818
+<v Skokos, Spiro>Yeah,
+maybe they split WS1 into 1A and 1B or.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/52-0
+00:09:02.538 --> 00:09:05.299
+<v Miller, Jeremy>Yeah, yeah,
+that's that's kind of what I was</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/52-1
+00:09:05.299 --> 00:09:09.165
+<v Miller, Jeremy>initially thinking.
+But of course it's very open to, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/50-0
+00:09:08.898 --> 00:09:09.058
+<v Popp, Andrew>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/52-2
+00:09:09.165 --> 00:09:14.197
+<v Miller, Jeremy>doing what makes sense. I mean, you know,
+why would modular modularize as much as</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/52-3
+00:09:14.197 --> 00:09:17.878
+<v Miller, Jeremy>practical, right?
+So if if we want to predict lift in terms</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/51-0
+00:09:15.458 --> 00:09:15.778
+<v Popp, Andrew>Right.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/52-4
+00:09:17.878 --> 00:09:18.738
+<v Miller, Jeremy>of engagement.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/53-0
+00:09:19.178 --> 00:09:24.210
+<v Miller, Jeremy>Or anything else like that should be a
+standalone thing that data science builds,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/53-1
+00:09:24.210 --> 00:09:28.690
+<v Miller, Jeremy>which then integrates with this platform
+or can be called independently,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/53-2
+00:09:28.690 --> 00:09:31.698
+<v Miller, Jeremy>could be integrated into Salesforce or
+wherever.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/54-0
+00:09:31.938 --> 00:09:35.560
+<v Popp, Andrew>Yeah, it's interesting from being able to,
+you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/54-1
+00:09:35.560 --> 00:09:40.480
+<v Popp, Andrew>predict what a next best action would be
+currently. And Jake, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/54-2
+00:09:40.480 --> 00:09:43.897
+<v Popp, Andrew>jump in and correct me if I'm wrong,
+we get told,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/54-3
+00:09:43.897 --> 00:09:48.818
+<v Popp, Andrew>you know what the kind of the journey is
+going to be. So what the next.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/55-0
+00:09:49.098 --> 00:09:57.420
+<v Popp, Andrew>Action is going to be based on, you know,
+engagement of a starting kind of tactic.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/55-1
+00:09:57.420 --> 00:10:03.738
+<v Popp, Andrew>So I don't know if that would be, Jake,
+something that we can.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/57-0
+00:10:03.778 --> 00:10:06.862
+<v Marshall, Jake>Most of the time,
+I mean it's it kind of happens in in</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/56-0
+00:10:05.498 --> 00:10:05.818
+<v Popp, Andrew>And.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/57-1
+00:10:06.862 --> 00:10:10.787
+<v Marshall, Jake>various flavors, Jeremy and team.
+So like most of the time as of now,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/57-2
+00:10:10.787 --> 00:10:14.208
+<v Marshall, Jake>clients are very prescriptive with us in
+terms of, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/57-3
+00:10:14.208 --> 00:10:18.358
+<v Marshall, Jake>here's the CP years and here's,
+here's what we want them to do and here's</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/57-4
+00:10:18.358 --> 00:10:20.938
+<v Marshall, Jake>what we want them to do after that,
+you know?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/59-0
+00:10:21.698 --> 00:10:25.009
+<v Marshall, Jake>Less commonly, we have the opportunity to,
+you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/59-1
+00:10:25.009 --> 00:10:29.445
+<v Marshall, Jake>suggest what those journeys would be.
+And to date, right, they're not,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/59-2
+00:10:29.445 --> 00:10:34.381
+<v Marshall, Jake>they're not based on performance data.
+They're based on some logic and saying,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/59-3
+00:10:34.381 --> 00:10:38.818
+<v Marshall, Jake>hey, if we get someone to point A,
+let's then get them to point B and.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/60-0
+00:10:39.098 --> 00:10:42.480
+<v Marshall, Jake>You know,
+having them see another custom message is</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/60-1
+00:10:42.480 --> 00:10:47.099
+<v Marshall, Jake>is better than seeing the 1st.
+So there's definitely an opportunity to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/60-2
+00:10:47.099 --> 00:10:52.303
+<v Marshall, Jake>leverage data to potentially, you know,
+allow us to be more prescriptive and in</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/60-3
+00:10:52.303 --> 00:10:57.378
+<v Marshall, Jake>setting up those journeys on our own when
+we have the opportunities to do so.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/62-0
+00:10:57.378 --> 00:11:01.552
+<v Marshall, Jake>Jim, I would just say like I I don't,
+I don't want to throw cold water on on on</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/62-1
+00:11:01.552 --> 00:11:04.109
+<v Marshall, Jake>these ideas because I think you know if
+if this,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/62-2
+00:11:04.109 --> 00:11:08.440
+<v Marshall, Jake>if this conversation's about you know how
+do we get skipped it to 100 million then</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/62-3
+00:11:08.440 --> 00:11:12.144
+<v Marshall, Jake>obviously we've got to have some big
+ideas like this and and make some</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/61-0
+00:11:10.138 --> 00:11:10.458
+<v Popp, Andrew>Done.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/62-4
+00:11:12.144 --> 00:11:13.658
+<v Marshall, Jake>advances on what we're doing.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/63-0
+00:11:13.858 --> 00:11:19.089
+<v Marshall, Jake>I will just say though that you know the
+scale of what we execute and and the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/63-1
+00:11:19.089 --> 00:11:23.918
+<v Marshall, Jake>types of tactics we execute aren't
+necessarily conducive to performance</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/63-2
+00:11:23.918 --> 00:11:28.076
+<v Marshall, Jake>based optimization.
+So what I mean by that is you know if I'm</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/63-3
+00:11:28.076 --> 00:11:29.418
+<v Marshall, Jake>delivering you know.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/64-0
+00:11:30.538 --> 00:11:35.407
+<v Marshall, Jake>200 views of something in a month and the
+only thing that people did with it is</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/64-1
+00:11:35.407 --> 00:11:39.120
+<v Marshall, Jake>view it. You know,
+am I really going to be able to generate,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/64-2
+00:11:39.120 --> 00:11:42.164
+<v Marshall, Jake>you know,
+segments built on on performance and to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/64-3
+00:11:42.164 --> 00:11:45.938
+<v Marshall, Jake>say that is like this isn't, you know,
+it isn't banner media.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/64-4
+00:11:45.938 --> 00:11:50.138
+<v Marshall, Jake>I mean there we do have banner media,
+but and we do have some of it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/65-0
+00:11:50.338 --> 00:11:54.682
+<v Marshall, Jake>That scale when we leverage it off site,
+but we don't have, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/65-1
+00:11:54.682 --> 00:11:59.586
+<v Marshall, Jake>tonnage of banner impressions to make
+informed decisions based off things like</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/65-2
+00:11:59.586 --> 00:12:04.117
+<v Marshall, Jake>click rates like you really would
+probably want to do to make this thing</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/65-3
+00:12:04.117 --> 00:12:07.779
+<v Marshall, Jake>really, really work.
+So just just food for thought like it</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/65-4
+00:12:07.779 --> 00:12:08.338
+<v Marshall, Jake>might be.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/66-0
+00:12:08.818 --> 00:12:14.060
+<v Marshall, Jake>You know, time spent with a tactic,
+it just it just might have to be kind of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/66-1
+00:12:14.060 --> 00:12:19.780
+<v Marshall, Jake>other things than what might be, you know,
+traditionally thought about as you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/66-2
+00:12:19.780 --> 00:12:24.138
+<v Marshall, Jake>a a signal for optimization with like
+this type of an approach.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/67-0
+00:12:25.778 --> 00:12:29.509
+<v Miller, Jeremy>Yeah, that. I mean,
+that makes perfect sense. And you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/67-1
+00:12:29.509 --> 00:12:33.055
+<v Miller, Jeremy>where we would,
+where we had the opportunity to do that,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/67-2
+00:12:33.055 --> 00:12:37.098
+<v Miller, Jeremy>we could and where we don't, we wouldn't,
+obviously. Yeah, yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/68-0
+00:12:35.218 --> 00:12:38.790
+<v Marshall, Jake>Yep. OK, cool.
+And I would say the other I mean just</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/68-1
+00:12:38.790 --> 00:12:44.182
+<v Marshall, Jake>practically the the the profiling and
+look alike opportunities you know may may</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/68-2
+00:12:44.182 --> 00:12:49.575
+<v Marshall, Jake>need to be more about and this is what
+we're already doing anyway we just don't</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/68-3
+00:12:49.575 --> 00:12:54.698
+<v Marshall, Jake>have an an automated platform to do it.
+But you know you gave us a list of.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/69-0
+00:12:54.898 --> 00:12:58.550
+<v Marshall, Jake>Target list HC PS,
+we're going to give you back, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/69-1
+00:12:58.550 --> 00:13:02.882
+<v Marshall, Jake>suggested additional HC PS based on their
+patient treatment behavior,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/69-2
+00:13:02.882 --> 00:13:06.844
+<v Marshall, Jake>prescribing behavior,
+lab behavior or whatever else we're we're</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/69-3
+00:13:06.844 --> 00:13:09.815
+<v Marshall, Jake>leveraging our RWD for.
+So it's it's it's more,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/69-4
+00:13:09.815 --> 00:13:14.458
+<v Marshall, Jake>it's much more common for us right to
+make those recommendations based on.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-0
+00:13:14.578 --> 00:13:17.693
+<v Marshall, Jake>You know,
+a matching or you know a profile built</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-1
+00:13:17.693 --> 00:13:22.715
+<v Marshall, Jake>off of the initial target list because if
+we know you know who the clients are</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-2
+00:13:22.715 --> 00:13:26.212
+<v Marshall, Jake>trying to reach,
+then obviously we have other ways to,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-3
+00:13:26.212 --> 00:13:29.454
+<v Marshall, Jake>you know,
+accomplish their goals and and arguably,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-4
+00:13:29.454 --> 00:13:32.633
+<v Marshall, Jake>you know,
+more comprehensive ways in terms of the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/70-5
+00:13:32.633 --> 00:13:33.778
+<v Marshall, Jake>scope of our data.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/72-0
+00:13:33.858 --> 00:13:38.538
+<v Marshall, Jake>And and you know a lot of times that is
+you know completely disconnected from</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/72-1
+00:13:38.538 --> 00:13:42.018
+<v Marshall, Jake>from performance.
+It's just that you know you've got this</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/71-0
+00:13:39.578 --> 00:13:41.058
+<v Miller, Jeremy>Sure, sure.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/72-2
+00:13:42.018 --> 00:13:46.938
+<v Marshall, Jake>group let us source other relevant HC PS
+based on all you know what we do have at</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/72-3
+00:13:46.938 --> 00:13:49.578
+<v Marshall, Jake>scale which is their real world
+behaviours.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/72-4
+00:13:49.578 --> 00:13:53.778
+<v Marshall, Jake>So again just just food for thought in
+terms of how how some of that.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/73-0
+00:13:54.058 --> 00:13:56.922
+<v Marshall, Jake>So filing may have to go,
+although ideally, right,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/73-1
+00:13:56.922 --> 00:14:01.192
+<v Marshall, Jake>we we we could have some cases where
+we're doing it based off of, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/73-2
+00:14:01.192 --> 00:14:04.674
+<v Marshall, Jake>performance, you know,
+campaign performance versus, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/73-3
+00:14:04.674 --> 00:14:06.978
+<v Marshall, Jake>their behaviors in the wild, so to speak.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/74-0
+00:14:07.058 --> 00:14:11.171
+<v Miller, Jeremy>Right. Yeah. And we can take, you know,
+assuming this, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/74-1
+00:14:11.171 --> 00:14:16.361
+<v Miller, Jeremy>we go down this road, broadly speaking,
+we can certainly do that at the start and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/74-2
+00:14:16.361 --> 00:14:20.855
+<v Miller, Jeremy>we can certainly then, you know,
+find missed folks and and then we can</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/74-3
+00:14:20.855 --> 00:14:22.058
+<v Miller, Jeremy>look at engagement.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/78-0
+00:14:22.418 --> 00:14:28.106
+<v Miller, Jeremy>And and you know just share and share you
+know analysis initially to help you know</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/78-1
+00:14:28.106 --> 00:14:33.383
+<v Miller, Jeremy>socialize that idea and build trust and
+say you know things like look we you</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/76-0
+00:14:28.738 --> 00:14:28.858
+<v Popp, Andrew>OK.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/78-2
+00:14:33.383 --> 00:14:38.111
+<v Miller, Jeremy>asked for 1000, we gave you another 500,
+you know these 200 engaged,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/78-3
+00:14:38.111 --> 00:14:42.018
+<v Miller, Jeremy>we've got 500 more that look like those
+but that aren't.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/79-0
+00:14:42.098 --> 00:14:46.312
+<v Miller, Jeremy>Part of your campaign or something.
+So I I I understand that that there's a</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/77-0
+00:14:42.698 --> 00:14:42.818
+<v Popp, Andrew>OK.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/79-1
+00:14:46.312 --> 00:14:50.747
+<v Miller, Jeremy>there's a way that this work is done.
+There's a culture around how this work is</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/79-2
+00:14:50.747 --> 00:14:54.851
+<v Miller, Jeremy>done and you know over time we can you
+know try to help people as much as</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/79-3
+00:14:54.851 --> 00:14:58.178
+<v Miller, Jeremy>possible and and find those opportunities
+for optimization.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/81-0
+00:14:58.658 --> 00:15:01.902
+<v Marshall, Jake>Cool. Jerry, Maggie,
+it's just a practical question too.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/81-1
+00:15:01.902 --> 00:15:06.399
+<v Marshall, Jake>Like how does this work in terms of the
+investment and and how the dollars are</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/80-0
+00:15:02.138 --> 00:15:02.378
+<v Miller, Jeremy>Yep.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/81-2
+00:15:06.399 --> 00:15:09.018
+<v Marshall, Jake>allotted to fund a massive project like
+this?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/82-0
+00:15:10.258 --> 00:15:14.338
+<v Miller, Jeremy>I'm gonna BLOB that over to Hassan.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/83-0
+00:15:14.538 --> 00:15:15.178
+<v Malik, Hassan>So.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/84-0
+00:15:14.738 --> 00:15:18.390
+<v Marshall, Jake>There's an I I S because you know we have,
+we have CapEx,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/84-1
+00:15:18.390 --> 00:15:23.427
+<v Marshall, Jake>right and and part of that CapEx budget
+is for report automation and we've been</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/84-2
+00:15:23.427 --> 00:15:27.394
+<v Marshall, Jake>kind of slugging, you know,
+slogging away at all the different</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/84-3
+00:15:27.394 --> 00:15:32.494
+<v Marshall, Jake>technical work that we need to do to get
+our data in a place to provide for that</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/84-4
+00:15:32.494 --> 00:15:34.258
+<v Marshall, Jake>automation, but right there.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-0
+00:15:34.578 --> 00:15:38.367
+<v Marshall, Jake>There is a limited CapEx budget.
+So I just wondered like how much do we</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-1
+00:15:38.367 --> 00:15:42.366
+<v Marshall, Jake>need to think about next year's budget
+and provide for something like this?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-2
+00:15:42.366 --> 00:15:46.629
+<v Marshall, Jake>It certainly seems like this won't be
+cheap. And then you know, is it, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-3
+00:15:46.629 --> 00:15:49.050
+<v Marshall, Jake>who's,
+who's it ultimately on to make some of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-4
+00:15:49.050 --> 00:15:53.207
+<v Marshall, Jake>the decisions about where that money gets
+allocated across across this and and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/85-5
+00:15:53.207 --> 00:15:54.418
+<v Marshall, Jake>other similar projects?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/86-0
+00:15:55.818 --> 00:16:02.798
+<v Malik, Hassan>Yeah. So I was going to bring it up.
+So it's good that you guys already did.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/86-1
+00:16:02.798 --> 00:16:10.231
+<v Malik, Hassan>So I think we should figure out all teams
+like that needs to participate here and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/86-2
+00:16:10.231 --> 00:16:12.498
+<v Malik, Hassan>ensure that you know the.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/88-0
+00:16:12.738 --> 00:16:16.563
+<v Malik, Hassan>Estimates from all teams are collected,
+including your own team, right?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/88-1
+00:16:16.563 --> 00:16:20.122
+<v Malik, Hassan>Because you will be, you know,
+so if even if other teams are doing</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/88-2
+00:16:20.122 --> 00:16:22.991
+<v Malik, Hassan>technical work,
+you'll be heavily involved in design,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/88-3
+00:16:22.991 --> 00:16:25.381
+<v Malik, Hassan>validation, testing, etcetera,
+and you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/88-4
+00:16:25.381 --> 00:16:29.738
+<v Malik, Hassan>advising on data and so on and so forth.
+So we put it together and maybe take it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/89-0
+00:16:30.058 --> 00:16:35.942
+<v Malik, Hassan>You know as a business case and that
+business case will need to be approved</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/89-1
+00:16:35.942 --> 00:16:41.284
+<v Malik, Hassan>like for the initiative to launch.
+So I was asked to provide overall</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/89-2
+00:16:41.284 --> 00:16:46.859
+<v Malik, Hassan>estimates for my entire department.
+You know for 2026 I we did put some</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/89-3
+00:16:46.859 --> 00:16:48.098
+<v Malik, Hassan>resources there.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/90-0
+00:16:49.538 --> 00:16:52.621
+<v Malik, Hassan>But that's only the data science
+resources.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/90-1
+00:16:52.621 --> 00:16:58.157
+<v Malik, Hassan>So I know Imran have done the same thing.
+Imran, you know, attended, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/90-2
+00:16:58.157 --> 00:17:03.342
+<v Malik, Hassan>the New York meeting with all of us and I
+think his team is will be doing</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/90-3
+00:17:03.342 --> 00:17:08.178
+<v Malik, Hassan>engineering work, et cetera.
+But I think we need a meeting with all.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/91-0
+00:17:08.258 --> 00:17:11.754
+<v Malik, Hassan>Involved team.
+So let's make sure we put together all</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/91-1
+00:17:11.754 --> 00:17:17.064
+<v Malik, Hassan>the estimates together and then I think
+one of you will need to or or or maybe we</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/91-2
+00:17:17.064 --> 00:17:22.180
+<v Malik, Hassan>can just have a joint meeting with Chris
+Caneta and you know Diane or you know</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/91-3
+00:17:22.180 --> 00:17:22.698
+<v Malik, Hassan>whoever.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/92-0
+00:17:24.178 --> 00:17:30.458
+<v Malik, Hassan>Is the ELT member that will need to get
+need to seek approval from ELT?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/93-0
+00:17:30.418 --> 00:17:33.366
+<v Marshall, Jake>That's right.
+Because there there's certainly a world</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/93-1
+00:17:33.366 --> 00:17:37.353
+<v Marshall, Jake>where we would have to, you know,
+chunk us out and prioritize it, right.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/93-2
+00:17:37.353 --> 00:17:41.558
+<v Marshall, Jake>And and certainly some of these are
+forward-thinking enough that there isn't</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/93-3
+00:17:41.558 --> 00:17:45.818
+<v Marshall, Jake>going to be an immediate, you know,
+financial upside for us in business case.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/94-0
+00:17:46.018 --> 00:17:49.958
+<v Marshall, Jake>It it's it's you know so I I so thank you
+for answering that.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/94-1
+00:17:49.958 --> 00:17:55.298
+<v Marshall, Jake>I feel like you know we will have to have
+those conversations to your point and and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/94-2
+00:17:55.298 --> 00:18:00.065
+<v Marshall, Jake>you know again there's there's not I
+don't think there's direct commercial</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/94-3
+00:18:00.065 --> 00:18:04.578
+<v Marshall, Jake>opportunity in the way that that you all
+are envisioning just because.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/96-0
+00:18:04.578 --> 00:18:08.684
+<v Marshall, Jake>You know, our clients, you know, 9.
+5 times out of 10 are like, hey,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/96-1
+00:18:08.684 --> 00:18:13.325
+<v Marshall, Jake>here is my list, deliver against my list.
+Do not do anything else. If you do,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/96-2
+00:18:13.325 --> 00:18:18.265
+<v Marshall, Jake>you're out of compliance and you're fired.
+So you know this idea that there's this</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/96-3
+00:18:18.265 --> 00:18:21.657
+<v Marshall, Jake>massive amount of upside by sourcing
+other HC PS. Again,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/96-4
+00:18:21.657 --> 00:18:23.978
+<v Marshall, Jake>I don't want to throw cold water on it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/97-0
+00:18:24.578 --> 00:18:29.091
+<v Marshall, Jake>But I do think it may be more limited
+than you're envisioning now given who our</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/95-0
+00:18:25.658 --> 00:18:25.738
+<v Malik, Hassan>It.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/97-1
+00:18:29.091 --> 00:18:33.098
+<v Marshall, Jake>buyers are and how and how we have to
+execute on on their media plans.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/99-0
+00:18:33.898 --> 00:18:36.949
+<v Malik, Hassan>Got it.
+So actually there are two different value</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/99-1
+00:18:36.949 --> 00:18:39.633
+<v Malik, Hassan>propositions here, right?
+Not not just one.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/99-2
+00:18:39.633 --> 00:18:43.966
+<v Malik, Hassan>So and and the business value is
+absolutely up to you guys, right. So,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/99-3
+00:18:43.966 --> 00:18:46.895
+<v Malik, Hassan>so we can we get, we are,
+we are technologists,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/98-0
+00:18:45.898 --> 00:18:49.058
+<v Marshall, Jake>For sure. Yeah, no, we love it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/99-4
+00:18:46.895 --> 00:18:49.458
+<v Malik, Hassan>we get excited about you know the yeah so.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/101-0
+00:18:49.778 --> 00:18:54.561
+<v Malik, Hassan>So, so the other opportunity is, you know,
+making it more sticky,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/101-1
+00:18:54.561 --> 00:18:59.851
+<v Malik, Hassan>making it more valuable, right.
+And even so even if the HCP list doesn't</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/100-0
+00:18:55.658 --> 00:18:56.138
+<v Marshall, Jake>Mhm.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/101-2
+00:18:59.851 --> 00:19:04.852
+<v Malik, Hassan>change, let's say, right,
+there is still an opportunity to buy more.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/101-3
+00:19:04.852 --> 00:19:09.418
+<v Malik, Hassan>So, so one, you know,
+justify or or make a much stronger case.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/102-0
+00:19:09.618 --> 00:19:12.892
+<v Malik, Hassan>You know,
+by combining with RWD and producing all</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/102-1
+00:19:12.892 --> 00:19:16.756
+<v Malik, Hassan>kind of, you know,
+um analytics to use us right instead of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/102-2
+00:19:16.756 --> 00:19:20.620
+<v Malik, Hassan>someone who doesn't have RWD.
+So that's one aspect, right?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/104-0
+00:19:19.578 --> 00:19:22.143
+<v Marshall, Jake>Right. But Hassan,
+just just the level set,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/102-3
+00:19:20.620 --> 00:19:22.258
+<v Malik, Hassan>And then that can simply.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/104-1
+00:19:22.143 --> 00:19:25.815
+<v Marshall, Jake>we are doing that now.
+We're just not doing it in an automated</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/104-2
+00:19:25.815 --> 00:19:29.546
+<v Marshall, Jake>platform, but like Spiro, our team,
+we're doing that every day.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/103-0
+00:19:27.018 --> 00:19:27.658
+<v Malik, Hassan>Yep.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/104-3
+00:19:29.546 --> 00:19:30.538
+<v Marshall, Jake>But but go ahead.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/105-0
+00:19:30.538 --> 00:19:33.573
+<v Malik, Hassan>Yeah, understood. So, so,
+so we automate that,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/105-1
+00:19:33.573 --> 00:19:38.224
+<v Malik, Hassan>but the but the more revenue can
+potentially come with building some of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/105-2
+00:19:38.224 --> 00:19:43.262
+<v Malik, Hassan>these capabilities that can now go ahead
+and target the same let's say SA PS,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/105-3
+00:19:43.262 --> 00:19:47.138
+<v Malik, Hassan>but using not not just relying on our
+third party partners.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/106-0
+00:19:47.538 --> 00:19:52.447
+<v Malik, Hassan>So we can, you know, automatically.
+So we discuss this idea of building,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/106-1
+00:19:52.447 --> 00:19:55.473
+<v Malik, Hassan>you know,
+that audience directly for a given</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/106-2
+00:19:55.473 --> 00:20:00.987
+<v Malik, Hassan>campaign and then going and targeting,
+you know, ourselves for example, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/106-3
+00:20:00.987 --> 00:20:02.938
+<v Malik, Hassan>on Google and you know other.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/107-0
+00:20:03.338 --> 00:20:08.091
+<v Malik, Hassan>Exchanges and that can reduce the cost
+but also increase the scale, right.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/107-1
+00:20:08.091 --> 00:20:13.034
+<v Malik, Hassan>So it is again the business value is
+something that you guys can define right</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/107-2
+00:20:13.034 --> 00:20:17.978
+<v Malik, Hassan>and and and help understand how big that
+opportunity would be. I do not know.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/108-0
+00:20:18.018 --> 00:20:20.618
+<v Marshall, Jake>Yeah, no, that's that's helpful.
+Thank you.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/109-0
+00:20:23.378 --> 00:20:26.229
+<v Malik, Hassan>And we can take a slow approach as well,
+right?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/109-1
+00:20:26.229 --> 00:20:30.626
+<v Malik, Hassan>So let so it it's not all or nothing.
+Maybe you know can provide bunch of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/112-0
+00:20:30.058 --> 00:20:32.621
+<v Marshall, Jake>Yeah, no, yeah.
+And I know part of this is just big ideas</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/109-2
+00:20:30.626 --> 00:20:31.458
+<v Malik, Hassan>options, yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/112-1
+00:20:32.621 --> 00:20:36.112
+<v Marshall, Jake>and how do how do we really move this
+thing along and get greater integration.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/110-0
+00:20:33.538 --> 00:20:34.138
+<v Malik, Hassan>Yep.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/112-2
+00:20:36.112 --> 00:20:39.692
+<v Marshall, Jake>So I'm I'm spiro and I are all for it.
+You know we just want to you know balance</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/111-0
+00:20:37.698 --> 00:20:38.058
+Yeah.
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/112-3
+00:20:39.692 --> 00:20:43.184
+<v Marshall, Jake>it out with with the practical and the
+business case but but we appreciate the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/112-4
+00:20:43.184 --> 00:20:43.538
+<v Marshall, Jake>support.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/113-0
+00:20:43.658 --> 00:20:47.247
+<v Skokos, Spiro>And Jake,
+remember we had discussed that minimum,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/113-1
+00:20:47.247 --> 00:20:52.775
+<v Skokos, Spiro>possibly an outfacing portal to our
+customers where they could just grab our</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/113-2
+00:20:52.775 --> 00:20:57.658
+<v Skokos, Spiro>published reports in addition to getting
+them from the sales folks.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/115-0
+00:20:58.578 --> 00:21:02.278
+<v Marshall, Jake>Yeah, no,
+I I do think there's there's definitely a</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/115-1
+00:21:02.278 --> 00:21:07.473
+<v Marshall, Jake>a path of lesser resistance there that
+that we could ultimately opt for,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/115-2
+00:21:07.473 --> 00:21:12.810
+<v Marshall, Jake>you know and and potentially you know as
+a precursor to you know a full on</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/114-0
+00:21:08.458 --> 00:21:08.738
+<v Skokos, Spiro>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/115-3
+00:21:12.810 --> 00:21:16.938
+<v Marshall, Jake>reporting dashboard like we're thinking
+in you know Q3Q4.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/116-0
+00:21:21.618 --> 00:21:24.058
+<v Marshall, Jake>Cool. Jeremy, please continue.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/117-0
+00:21:22.978 --> 00:21:27.014
+<v Miller, Jeremy>All right. Yeah. OK.
+So that's the high level. Again, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/117-1
+00:21:27.014 --> 00:21:31.366
+<v Miller, Jeremy>the the, the point here is like you said,
+Jake, throw out big ideas,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/117-2
+00:21:31.366 --> 00:21:35.087
+<v Miller, Jeremy>get something written down,
+have it as a a starting point,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/117-3
+00:21:35.087 --> 00:21:36.538
+<v Miller, Jeremy>a basis for discussion.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/119-0
+00:21:37.778 --> 00:21:41.370
+<v Miller, Jeremy>So a lot of the rest of,
+I'm going to share this deck with you.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/119-1
+00:21:41.370 --> 00:21:45.918
+<v Miller, Jeremy>A lot of the rest of this deck is really
+sort of detailed views of what that may</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/119-2
+00:21:45.918 --> 00:21:50.016
+<v Miller, Jeremy>look like on a quarter by quarter basis.
+There's a lot of words in here.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/119-3
+00:21:50.016 --> 00:21:53.272
+<v Miller, Jeremy>I'm not going to read them to you,
+but this is, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/119-4
+00:21:53.272 --> 00:21:57.258
+<v Miller, Jeremy>a sketch of what that might look like in
+terms of deliverables across.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/120-0
+00:21:57.418 --> 00:22:02.591
+<v Miller, Jeremy>Orders for each of the three work streams.
+So I won't scroll through all of that.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/120-1
+00:22:02.591 --> 00:22:05.936
+<v Miller, Jeremy>It's there in the deck and I'll share
+this with you.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/120-2
+00:22:05.936 --> 00:22:10.920
+<v Miller, Jeremy>But I think one thing that I do want to
+go to is that second value proposition</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/120-3
+00:22:10.920 --> 00:22:15.211
+<v Miller, Jeremy>that Hassan talked about,
+which I'm calling the integrated platform</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/120-4
+00:22:15.211 --> 00:22:16.978
+<v Miller, Jeremy>or the platform work stream.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/121-0
+00:22:17.178 --> 00:22:20.047
+<v Miller, Jeremy>You know,
+I I tried to lay out how I thought this</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/121-1
+00:22:20.047 --> 00:22:24.294
+<v Miller, Jeremy>would look if we if we, you know,
+sort of went all in and what this looks</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/121-2
+00:22:24.294 --> 00:22:29.058
+<v Miller, Jeremy>like and obviously this could be done at
+at different levels of scale or different</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/121-3
+00:22:29.058 --> 00:22:33.018
+<v Miller, Jeremy>components or different levels of effort
+and so forth, but you know.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/122-0
+00:22:33.218 --> 00:22:37.960
+<v Miller, Jeremy>My ask here is kind of take a look at my
+thinking here and and sort of validate it,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/122-1
+00:22:37.960 --> 00:22:42.534
+<v Miller, Jeremy>hear your thoughts, hear your questions.
+But it seems like the real opportunity,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/122-2
+00:22:42.534 --> 00:22:46.430
+<v Miller, Jeremy>as Hassan mentioned to me,
+if we're going to go down this path is as</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/122-3
+00:22:46.430 --> 00:22:49.818
+<v Miller, Jeremy>much as possible cutting out some of
+those middle surfaces.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-0
+00:22:50.018 --> 00:22:53.429
+<v Miller, Jeremy>To have it the integrated platform where
+people can, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-1
+00:22:53.429 --> 00:22:57.544
+<v Miller, Jeremy>buy space on skip to buy space through
+demand side platforms all in one go,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-2
+00:22:57.544 --> 00:23:00.576
+<v Miller, Jeremy>get the reporting and analytics back in
+the same place.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-3
+00:23:00.576 --> 00:23:04.041
+<v Miller, Jeremy>And then that is what allows for when
+clients are ready for it,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-4
+00:23:04.041 --> 00:23:08.156
+<v Miller, Jeremy>a really high level of optimization
+because all that data sits in one place</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/123-5
+00:23:08.156 --> 00:23:09.618
+<v Miller, Jeremy>and it's really easy to do.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/124-0
+00:23:09.778 --> 00:23:12.658
+<v Miller, Jeremy>that kind of analytics and optimization
+quickly.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/125-0
+00:23:15.618 --> 00:23:18.458
+<v Miller, Jeremy>So I'll pause here again for thoughts and
+questions.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/126-0
+00:23:21.378 --> 00:23:29.675
+<v Marshall, Jake>I mean, I I get what you're saying.
+There's going to be cases where you know</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/126-1
+00:23:29.675 --> 00:23:37.218
+<v Marshall, Jake>that after example will work.
+Most of the time it won't just because.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/128-0
+00:23:37.218 --> 00:23:42.392
+<v Marshall, Jake>Clients have master service agreements
+with agencies and they have to run this</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/128-1
+00:23:42.392 --> 00:23:45.274
+<v Marshall, Jake>media through them with their
+partnerships.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/128-2
+00:23:45.274 --> 00:23:48.288
+<v Marshall, Jake>So just not all of them but but most of
+them.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/128-3
+00:23:48.288 --> 00:23:53.200
+<v Marshall, Jake>So you know we're and and nor do we
+probably want to be in the business of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/128-4
+00:23:53.200 --> 00:23:56.738
+<v Marshall, Jake>undercutting our our core client which is
+the agency.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/129-0
+00:23:57.098 --> 00:24:01.630
+<v Marshall, Jake>But you know,
+this is something we could socialize with</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/129-1
+00:24:01.630 --> 00:24:08.186
+<v Marshall, Jake>with other leadership team members and
+get their thoughts as well. But you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/129-2
+00:24:08.186 --> 00:24:14.013
+<v Marshall, Jake>you know the idea of, you know,
+60% of our businesses is CMI if if they</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/129-3
+00:24:14.013 --> 00:24:14.418
+<v Marshall, Jake>were.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/130-0
+00:24:14.658 --> 00:24:17.616
+<v Marshall, Jake>You know,
+if they understood that we were going to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/130-1
+00:24:17.616 --> 00:24:22.025
+<v Marshall, Jake>brands directly and intentionally kind of
+cutting them out of this piece of</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/130-2
+00:24:22.025 --> 00:24:26.317
+<v Marshall, Jake>business that could potentially tank all
+of Skipta. But again, in theory,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/130-3
+00:24:26.317 --> 00:24:28.058
+<v Marshall, Jake>I get what you're saying here.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/132-0
+00:24:28.098 --> 00:24:31.601
+<v Malik, Hassan>So, so, so actually I'm not sure if we're,
+you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/132-1
+00:24:31.601 --> 00:24:34.773
+<v Malik, Hassan>talking about cutting down the agencies,
+right.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/132-2
+00:24:34.773 --> 00:24:39.466
+<v Malik, Hassan>We are talking about cutting down or not
+even maybe cutting them down.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/132-3
+00:24:39.466 --> 00:24:44.621
+<v Malik, Hassan>So the the third party providers that we
+use to run programmatic campaigns at</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/132-4
+00:24:44.621 --> 00:24:45.018
+<v Malik, Hassan>scale.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/133-0
+00:24:45.218 --> 00:24:48.015
+<v Malik, Hassan>So we're talking about them, right.
+So the so,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/133-1
+00:24:48.015 --> 00:24:52.658
+<v Malik, Hassan>so essentially we did do X amount of
+business with them right now which costs</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/133-2
+00:24:52.658 --> 00:24:57.242
+<v Malik, Hassan>us certain amount of money we can and we
+were looking at something like $14.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/133-3
+00:24:57.242 --> 00:25:00.338
+<v Malik, Hassan>15 dollars CPM there,
+correct from what I remember.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/134-0
+00:25:02.498 --> 00:25:05.520
+<v Malik, Hassan>So the average CPM S on,
+let's say Google Edex,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/134-1
+00:25:05.520 --> 00:25:10.243
+<v Malik, Hassan>which is the largest exchange, you know,
+tend to be like 2 bucks, 3 bucks.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/134-2
+00:25:10.243 --> 00:25:14.904
+<v Malik, Hassan>So there's a very substantial margin
+involved there that from these third</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/134-3
+00:25:14.904 --> 00:25:17.738
+<v Malik, Hassan>party, you know,
+partners that we are using.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/135-0
+00:25:18.178 --> 00:25:23.246
+<v Malik, Hassan>So what so so so we can be but but they
+are providing this very substantial value</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/135-1
+00:25:23.246 --> 00:25:28.437
+<v Malik, Hassan>we should acknowledge that of mapping you
+know tracking down all these HCPS and and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/135-2
+00:25:28.437 --> 00:25:31.157
+<v Malik, Hassan>and you know mapping their devices to
+them.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/135-3
+00:25:31.157 --> 00:25:34.062
+<v Malik, Hassan>So they're essentially building this
+audience.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/135-4
+00:25:34.062 --> 00:25:38.018
+<v Malik, Hassan>So so that part is non trivial frankly
+and unless we can build.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/136-0
+00:25:38.098 --> 00:25:42.878
+<v Malik, Hassan>Build a very substantial presence on a
+very large number of sites with all kind</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/136-1
+00:25:42.878 --> 00:25:47.719
+<v Malik, Hassan>of things. We can't build that at our own.
+So the idea there was that everything</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/136-2
+00:25:47.719 --> 00:25:51.723
+<v Malik, Hassan>that is today remains in place,
+including the agency relationship,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/136-3
+00:25:51.723 --> 00:25:54.830
+<v Malik, Hassan>including this third party relationship
+by the way.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/136-4
+00:25:54.830 --> 00:25:57.938
+<v Malik, Hassan>But then when we use things like
+impression pixels.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/138-0
+00:25:58.018 --> 00:26:03.913
+<v Malik, Hassan>And click pixels to essentially start
+building those audiences ourselves, right,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/138-1
+00:26:03.913 --> 00:26:08.279
+<v Malik, Hassan>with Google, etc.
+And then we can simply sell more media so</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/137-0
+00:26:04.378 --> 00:26:04.858
+<v Marshall, Jake>Mhm.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/138-2
+00:26:08.279 --> 00:26:13.738
+<v Malik, Hassan>we can keep the current budgets with
+these third party providers constant.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/139-0
+00:26:14.018 --> 00:26:18.915
+<v Malik, Hassan>But instead of growing with them,
+we grow ourselves and that would cost us</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/139-1
+00:26:18.915 --> 00:26:22.767
+<v Malik, Hassan>substantially less.
+And we can actually increase the scale</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/139-2
+00:26:22.767 --> 00:26:26.162
+<v Malik, Hassan>because then we can pay the exchange
+directly more,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/139-3
+00:26:26.162 --> 00:26:30.863
+<v Malik, Hassan>substantially more than average,
+which can give us a lot more scale for</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/139-4
+00:26:30.863 --> 00:26:31.778
+<v Malik, Hassan>the same SEPs.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/141-0
+00:26:33.138 --> 00:26:37.727
+<v Malik, Hassan>And there could be places outside of what
+they're able to target these third party,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/141-1
+00:26:37.727 --> 00:26:40.404
+<v Malik, Hassan>you know,
+providers they're able to target right</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/141-2
+00:26:40.404 --> 00:26:43.355
+<v Malik, Hassan>now, maybe opportunities there.
+So that was the idea.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/141-3
+00:26:43.355 --> 00:26:45.759
+<v Malik, Hassan>So the business relationship remain
+intact,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/141-4
+00:26:45.759 --> 00:26:48.218
+<v Malik, Hassan>it's just incremental revenue
+opportunately.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/140-0
+00:26:46.978 --> 00:26:47.098
+<v Marshall, Jake>OK.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/142-0
+00:26:48.578 --> 00:26:48.698
+<v Malik, Hassan>Hey.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/143-0
+00:26:51.618 --> 00:26:54.662
+<v Marshall, Jake>Yeah, understood.
+This is this is more Frank's domain,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/143-1
+00:26:54.662 --> 00:26:57.098
+<v Marshall, Jake>but we'll we'll loop him into this as
+well.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/144-0
+00:26:56.418 --> 00:27:01.318
+<v Malik, Hassan>Cool. Yeah. And I've worked in that,
+you know, world for a long time,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/144-1
+00:27:01.318 --> 00:27:05.238
+<v Malik, Hassan>including my own startup.
+And after that and at Amazon,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/144-2
+00:27:05.238 --> 00:27:09.158
+<v Malik, Hassan>I know how sensitive agency relationships
+are. So yeah,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/144-3
+00:27:09.158 --> 00:27:11.538
+<v Malik, Hassan>I wouldn't want to mess with that.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/146-0
+00:27:17.738 --> 00:27:19.058
+<v Miller, Jeremy>Anything else here?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/147-0
+00:27:21.458 --> 00:27:23.430
+<v Marshall, Jake>Sorry,
+I've got a screaming child in the</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/148-0
+00:27:23.418 --> 00:27:25.658
+<v Miller, Jeremy>Oh, no worries.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/147-1
+00:27:23.430 --> 00:27:24.778
+<v Marshall, Jake>background. Please continue.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-0
+00:27:27.138 --> 00:27:30.013
+<v Miller, Jeremy>All right.
+And then I've laid out just some again</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-1
+00:27:30.013 --> 00:27:34.097
+<v Miller, Jeremy>preliminary thoughts about what
+dependencies and risk looks like would</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-2
+00:27:34.097 --> 00:27:38.238
+<v Miller, Jeremy>look like for a plan like this.
+You know what we would need you know to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-3
+00:27:38.238 --> 00:27:42.954
+<v Miller, Jeremy>get have get done each quarter to kind of
+go along this plan obviously subject to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-4
+00:27:42.954 --> 00:27:46.002
+<v Miller, Jeremy>adjustment,
+but just saying you know if we went down</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/149-5
+00:27:46.002 --> 00:27:46.578
+<v Miller, Jeremy>this road.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/151-0
+00:27:46.898 --> 00:27:50.389
+<v Miller, Jeremy>Kind of what would this look like in
+terms of those things?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/151-1
+00:27:50.389 --> 00:27:54.987
+<v Miller, Jeremy>What would be the kind of main risks that
+would come across technical business</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/151-2
+00:27:54.987 --> 00:27:58.478
+<v Miller, Jeremy>resource domains?
+And I'll I'll leave this with you for for</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/151-3
+00:27:58.478 --> 00:28:03.017
+<v Miller, Jeremy>processing and adding and go ahead and
+edit this document directly or take it</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/151-4
+00:28:03.017 --> 00:28:04.298
+<v Miller, Jeremy>however we want to do.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/152-0
+00:28:04.978 --> 00:28:09.975
+<v Miller, Jeremy>And then what would success metrics and
+APIs look like again for this broad,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/152-1
+00:28:09.975 --> 00:28:15.037
+<v Miller, Jeremy>ambitious plan where we kind of engage in
+all three of these work streams and</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/152-2
+00:28:15.037 --> 00:28:18.218
+<v Miller, Jeremy>allocate a bunch of people to it and go
+forward?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/153-0
+00:28:19.578 --> 00:28:19.658
+<v Miller, Jeremy>Um.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/154-0
+00:28:21.778 --> 00:28:26.339
+<v Miller, Jeremy>So that's the presentation.
+I think it's the input that I've gotten</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/154-1
+00:28:26.339 --> 00:28:30.162
+<v Miller, Jeremy>from that we've gotten from you guys so
+far is is great.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/154-2
+00:28:30.162 --> 00:28:35.595
+<v Miller, Jeremy>Obviously important that we're completely
+on the same page about what's going to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/154-3
+00:28:35.595 --> 00:28:37.138
+<v Miller, Jeremy>provide the most value.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/155-0
+00:28:38.018 --> 00:28:42.042
+<v Miller, Jeremy>As far as next steps, you know,
+if there's anything else you want to</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/155-1
+00:28:42.042 --> 00:28:45.658
+<v Miller, Jeremy>discuss today, let's do it. Otherwise,
+I would say, you know,</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/155-2
+00:28:45.658 --> 00:28:49.391
+<v Miller, Jeremy>let's take this away.
+Let's have get a little feedback from you</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/155-3
+00:28:49.391 --> 00:28:54.173
+<v Miller, Jeremy>after you've maybe had a little time to
+digest some of the details and then start</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/155-4
+00:28:54.173 --> 00:28:57.498
+<v Miller, Jeremy>to plan that session that Hassan talked
+about, which is.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/156-0
+00:28:57.698 --> 00:29:00.135
+<v Miller, Jeremy>You know,
+what would it look like across a couple</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/156-1
+00:29:00.135 --> 00:29:02.524
+<v Miller, Jeremy>of different teams?
+What would the size be like?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/156-2
+00:29:02.524 --> 00:29:06.035
+<v Miller, Jeremy>What would the effort be like?
+And then do and then going down the road</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/156-3
+00:29:06.035 --> 00:29:07.498
+<v Miller, Jeremy>of building the business case?</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/157-0
+00:29:09.498 --> 00:29:10.978
+<v Marshall, Jake>OK, excellent. Um.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/158-0
+00:29:13.618 --> 00:29:17.125
+<v Marshall, Jake>We can,
+we can certainly you know aim to you know</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/158-1
+00:29:17.125 --> 00:29:22.736
+<v Marshall, Jake>get back to you in a week or so just in
+terms of just really going through this</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/158-2
+00:29:22.736 --> 00:29:26.243
+<v Marshall, Jake>and and hopefully sharing it across some
+more Lt.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/158-3
+00:29:26.243 --> 00:29:31.784
+<v Marshall, Jake>members to and and Frank and Peter as
+well in particular and then you know you</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/158-4
+00:29:31.784 --> 00:29:33.538
+<v Marshall, Jake>guys let us know kind of.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/159-0
+00:29:33.618 --> 00:29:39.295
+<v Marshall, Jake>Next steps on you know chatting about you
+know our our time investment and how that</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/159-1
+00:29:39.295 --> 00:29:43.418
+<v Marshall, Jake>should come together.
+You know we can kind of go from there.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/160-0
+00:29:47.058 --> 00:29:49.018
+<v Miller, Jeremy>OK. That sounds like a good plan to me.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/161-0
+00:29:52.258 --> 00:29:54.691
+<v Marshall, Jake>Awesome.
+Thanks so much guys for your your time</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/161-1
+00:29:54.691 --> 00:29:57.378
+<v Marshall, Jake>and effort putting in this.
+We really appreciate it.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/162-0
+00:29:57.498 --> 00:29:58.298
+<v Skokos, Spiro>Thank you.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/163-0
+00:29:57.738 --> 00:29:57.978
+<v Miller, Jeremy>Yeah.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/166-0
+00:30:00.818 --> 00:30:01.178
+<v Skokos, Spiro>Yes.</v>
+
+f23f0711-a20c-4b88-a944-c6d9b0291b00/167-0
+00:30:01.578 --> 00:30:01.818
+<v Marshall, Jake>See.</v>

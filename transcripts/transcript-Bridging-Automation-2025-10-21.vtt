@@ -1,0 +1,1689 @@
+WEBVTT
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/7-0
+00:00:03.530 --> 00:00:03.930
+<v Miller, Jeremy>And.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/8-0
+00:00:10.050 --> 00:00:10.530
+<v Silva, Pedro>Thank you.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/18-0
+00:00:45.330 --> 00:00:46.450
+<v Miller, Jeremy>Hey, Sir.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/19-0
+00:00:46.890 --> 00:00:47.090
+<v Silva, Pedro>Hello.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/21-0
+00:00:51.770 --> 00:00:55.490
+<v Miller, Jeremy>All right, you guys want to kick it off?
+Tell us all about bridging.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/23-0
+00:00:57.250 --> 00:01:02.137
+<v Silva, Pedro>Yeah,
+so I'm a little bit annoyed that I've</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/23-1
+00:01:02.137 --> 00:01:11.021
+<v Silva, Pedro>lost access to to my Replid prototype
+that I had built because I think it would</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/23-2
+00:01:11.021 --> 00:01:15.130
+<v Silva, Pedro>have provided a much cleaner kind of.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/25-0
+00:01:15.970 --> 00:01:21.644
+<v Silva, Pedro>Discussion, you know, visual.
+But I mean it, Jeremy,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/25-1
+00:01:21.644 --> 00:01:29.674
+<v Silva, Pedro>in it's most simplistic form, right?
+Right now we receive real-world data,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/25-2
+00:01:29.674 --> 00:01:34.170
+<v Silva, Pedro>whether it's our own internal vendor data.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/26-0
+00:01:34.250 --> 00:01:40.070
+<v Silva, Pedro>Whether it's through, you know,
+bring your own data where a client is is</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/26-1
+00:01:40.070 --> 00:01:44.455
+<v Silva, Pedro>providing us the data,
+we bridge it back to, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/26-2
+00:01:44.455 --> 00:01:45.890
+<v Silva, Pedro>our MMIT plan IDs.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/27-0
+00:01:48.090 --> 00:01:54.363
+<v Silva, Pedro>Right now the process is, you know,
+first it goes through kind of an</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/27-1
+00:01:54.363 --> 00:02:00.818
+<v Silva, Pedro>automated bridging process,
+which in many cases is probably, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/27-2
+00:02:00.818 --> 00:02:07.090
+<v Silva, Pedro>kind of a fuzzy look up where it's
+looking for, hey, I see the word.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/28-0
+00:02:07.570 --> 00:02:14.403
+<v Silva, Pedro>Aetna in a couple places I see in this
+particular ID there might be something</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/28-1
+00:02:14.403 --> 00:02:19.484
+<v Silva, Pedro>like, you know,
+NY Medi or something along those lines in</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/28-2
+00:02:19.484 --> 00:02:24.653
+<v Silva, Pedro>the IDs or somewhere in the naming
+convention or whatever,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/28-3
+00:02:24.653 --> 00:02:26.930
+<v Silva, Pedro>which leads us to believe.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/29-0
+00:02:27.210 --> 00:02:33.530
+<v Silva, Pedro>This is something like New York Medicare
+or New York Medicaid, I should say. Um.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/30-0
+00:02:35.290 --> 00:02:43.224
+<v Silva, Pedro>And ultimately what we're trying to do is
+improve that automated bridging and then</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/30-1
+00:02:43.224 --> 00:02:50.010
+<v Silva, Pedro>also look at are there areas where we can
+use something like you know.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/31-0
+00:02:50.570 --> 00:02:55.399
+<v Silva, Pedro>A I to not only, you know,
+suggest bridging,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/31-1
+00:02:55.399 --> 00:03:03.875
+<v Silva, Pedro>but look at it and say something like,
+you know, this plan or this particular,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/31-2
+00:03:03.875 --> 00:03:06.450
+<v Silva, Pedro>you know, record, right?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/32-0
+00:03:08.410 --> 00:03:16.915
+<v Silva, Pedro>We can bridge this to our MMIT plan ID or
+multiple in some cases MMIT plan IDs with</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/32-1
+00:03:16.915 --> 00:03:21.875
+<v Silva, Pedro>you know,
+75% certainty or or or something along</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/32-2
+00:03:21.875 --> 00:03:23.090
+<v Silva, Pedro>those lines.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/33-0
+00:03:23.610 --> 00:03:28.159
+<v Silva, Pedro>And and I feel like,
+you know that there there'd be,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/33-1
+00:03:28.159 --> 00:03:32.794
+<v Silva, Pedro>it'd be two-fold here.
+It would be a concept of, hey,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/33-2
+00:03:32.794 --> 00:03:38.116
+<v Silva, Pedro>we've bridged this before,
+so we know that this is, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/33-3
+00:03:38.116 --> 00:03:40.090
+<v Silva, Pedro>we've seen this record.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/34-0
+00:03:40.490 --> 00:03:44.936
+<v Silva, Pedro>We've previously bridged it.
+We're automatically going to bridge it</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/34-1
+00:03:44.936 --> 00:03:48.205
+<v Silva, Pedro>this time or we've never seen this record
+before.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/34-2
+00:03:48.205 --> 00:03:53.632
+<v Silva, Pedro>We're going to analyze the data coming in.
+We're going to compare it to, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/34-3
+00:03:53.632 --> 00:03:58.732
+<v Silva, Pedro>our existing databases and we are going
+to say this is a one-to-one, meaning,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/34-4
+00:03:58.732 --> 00:04:00.170
+<v Silva, Pedro>you know, this record.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/35-0
+00:04:00.410 --> 00:04:09.604
+<v Silva, Pedro>Bridges directly to an MMIT plan or this
+is a one to many right where it it</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/35-1
+00:04:09.604 --> 00:04:15.290
+<v Silva, Pedro>bridges from one record to many MMIT plan
+IDs.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/36-0
+00:04:15.610 --> 00:04:19.840
+<v Silva, Pedro>Within,
+let's say a certain geography or or or</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/36-1
+00:04:19.840 --> 00:04:25.870
+<v Silva, Pedro>whatnot. So quick pause there,
+give you an opportunity to ask some</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/36-2
+00:04:25.870 --> 00:04:26.770
+<v Silva, Pedro>questions.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-0
+00:04:30.690 --> 00:04:33.347
+<v Miller, Jeremy>Yeah.
+So let me just sort of repeat back what I</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-1
+00:04:33.347 --> 00:04:37.996
+<v Miller, Jeremy>heard to make sure we're on the same page.
+So essentially there's a funnel. So, OK,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/37-0
+00:04:35.050 --> 00:04:35.570
+<v Silva, Pedro>Yep.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-2
+00:04:37.996 --> 00:04:41.760
+<v Miller, Jeremy>let me back in one step further.
+So we receive a piece of RWD data.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-3
+00:04:41.760 --> 00:04:45.911
+<v Miller, Jeremy>So when you say that, I'm thinking,
+I've mostly heard this talked about in</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-4
+00:04:45.911 --> 00:04:49.343
+<v Miller, Jeremy>the context of claims.
+Are we talking about things other than</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/40-0
+00:04:48.370 --> 00:04:53.769
+<v Silva, Pedro>Yep, Yep. Yeah. Claims RX's.
+So generally that format.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/38-5
+00:04:49.343 --> 00:04:49.730
+<v Miller, Jeremy>claims?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/40-1
+00:04:53.769 --> 00:04:58.677
+<v Silva, Pedro>In some cases we actually just get
+planned lists,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/40-2
+00:04:58.677 --> 00:05:06.629
+<v Silva, Pedro>meaning you know we'll get something like
+a on the pharmacy side specifically we</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/39-0
+00:04:59.730 --> 00:04:59.850
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/40-3
+00:05:06.629 --> 00:05:07.610
+<v Silva, Pedro>may get a.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/42-0
+00:05:07.770 --> 00:05:11.541
+<v Silva, Pedro>File that has a bin, a group,
+a PCN number,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/42-1
+00:05:11.541 --> 00:05:18.138
+<v Silva, Pedro>which I'm sure or I think you're probably
+familiar with what that is, right.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/42-2
+00:05:18.138 --> 00:05:24.736
+<v Silva, Pedro>That's on a, you know, on a yeah, OK,
+we may get something like a, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/41-0
+00:05:20.090 --> 00:05:21.450
+<v Miller, Jeremy>I am, yes.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/42-3
+00:05:24.736 --> 00:05:26.450
+<v Silva, Pedro>along with that bin.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/43-0
+00:05:27.690 --> 00:05:32.774
+<v Silva, Pedro>Group PCN number,
+we may get a payer name of some sort and</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/43-1
+00:05:32.774 --> 00:05:37.513
+<v Silva, Pedro>a geography,
+no actual associated claim with something</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/43-2
+00:05:37.513 --> 00:05:41.649
+<v Silva, Pedro>like that.
+But essentially you know that that's</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/43-3
+00:05:41.649 --> 00:05:47.250
+<v Silva, Pedro>those are some of the metrics that would
+come with with a claim.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/44-0
+00:05:49.410 --> 00:05:53.789
+<v Silva, Pedro>So in reality,
+what we're doing is we're not looking at</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/44-1
+00:05:53.789 --> 00:05:57.229
+<v Silva, Pedro>the number of claims or anything like
+that.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/44-2
+00:05:57.229 --> 00:06:03.250
+<v Silva, Pedro>We're trying to figure out the plan level
+data that is tied to these claims.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/47-0
+00:06:04.850 --> 00:06:07.975
+<v Miller, Jeremy>OK,
+so there are two buckets of input data.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/47-1
+00:06:07.975 --> 00:06:12.449
+<v Miller, Jeremy>One of them is RWD claims.
+Straightforward, consistent format.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/45-0
+00:06:10.850 --> 00:06:11.090
+<v Silva, Pedro>Yep.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/47-2
+00:06:12.449 --> 00:06:17.420
+<v Miller, Jeremy>You know what that looks like.
+Sits in the table. We go to the table.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/46-0
+00:06:17.330 --> 00:06:17.490
+<v Silva, Pedro>Yep.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/47-3
+00:06:17.420 --> 00:06:20.970
+<v Miller, Jeremy>The second bucket is anything people
+throw at us.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/49-0
+00:06:21.130 --> 00:06:25.439
+<v Silva, Pedro>Exactly. And and here's the reality,
+right? In most cases,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/49-1
+00:06:25.439 --> 00:06:29.456
+<v Silva, Pedro>the stuff that's getting thrown at us,
+we can kind of,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/49-2
+00:06:29.456 --> 00:06:35.080
+<v Silva, Pedro>we can tie it back to that same format
+that we are looking at our own claims</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/49-3
+00:06:35.080 --> 00:06:35.810
+<v Silva, Pedro>currently.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/48-0
+00:06:36.330 --> 00:06:36.450
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/52-0
+00:06:38.410 --> 00:06:43.392
+<v Miller, Jeremy>OK, so that's the that's the very top.
+That's everything that comes into this</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/50-0
+00:06:41.970 --> 00:06:42.210
+<v Silva, Pedro>Yep.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/52-1
+00:06:43.392 --> 00:06:46.778
+<v Miller, Jeremy>funnel, right?
+And the first step of the funnel is a</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/51-0
+00:06:43.850 --> 00:06:44.330
+<v Silva, Pedro>Yep.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/52-2
+00:06:46.778 --> 00:06:51.760
+<v Miller, Jeremy>totally automated process that says have
+I seen this exact data point before?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/52-3
+00:06:51.760 --> 00:06:54.570
+<v Miller, Jeremy>And if I has and it's already been
+bridged.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/53-0
+00:06:55.370 --> 00:06:57.850
+<v Miller, Jeremy>Apply the MMIT plan ID. Move on.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/54-0
+00:07:00.130 --> 00:07:06.985
+<v Silva, Pedro>Yeah. And what what I would like though,
+you know, to think about is, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/54-1
+00:07:06.985 --> 00:07:12.298
+<v Silva, Pedro>along with that, right, is there,
+if we build this thing out,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/54-2
+00:07:12.298 --> 00:07:18.210
+<v Silva, Pedro>maybe just verify right somehow that that
+bridging is still correct?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/55-0
+00:07:20.330 --> 00:07:20.850
+<v Miller, Jeremy>Hmm, OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/57-0
+00:07:22.330 --> 00:07:25.165
+<v Miller, Jeremy>OK,
+so let's call that a some sort of QC</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/56-0
+00:07:25.010 --> 00:07:26.170
+<v Silva, Pedro>Yeah, yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/57-1
+00:07:25.165 --> 00:07:27.930
+<v Miller, Jeremy>process. OK, may make a note about that.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/58-0
+00:07:33.650 --> 00:07:37.850
+<v Miller, Jeremy>The second step in the funnel is what you
+call the fuzzy lookup.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/60-0
+00:07:39.050 --> 00:07:44.073
+<v Miller, Jeremy>So that's you know, if this word appears,
+find you know the thing that that it</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/60-1
+00:07:44.073 --> 00:07:48.777
+<v Miller, Jeremy>looks like you know some sort of string
+matching metrics, blah blah blah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/60-2
+00:07:48.777 --> 00:07:53.037
+<v Miller, Jeremy>And if that's above some,
+there are rules that say if that's above</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/60-3
+00:07:53.037 --> 00:07:56.343
+<v Miller, Jeremy>meets certain criteria,
+we pass it through. If not,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/60-4
+00:07:56.343 --> 00:07:58.250
+<v Miller, Jeremy>then it goes to a manual pile.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/61-0
+00:07:58.890 --> 00:07:59.730
+<v Miller, Jeremy>Is that correct?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/59-0
+00:08:00.690 --> 00:08:01.130
+<v Silva, Pedro>Yes.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/62-0
+00:08:01.450 --> 00:08:06.973
+<v Miller, Jeremy>OK. So that's there's certainly,
+that's certainly an opportunity for us to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/62-1
+00:08:06.973 --> 00:08:07.930
+<v Miller, Jeremy>help I think.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/63-0
+00:08:08.890 --> 00:08:14.223
+<v Miller, Jeremy>And then the manual pile is there's an an
+internal application that an analyst sits</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/63-1
+00:08:14.223 --> 00:08:17.842
+<v Miller, Jeremy>down in front of and they get this piece
+of information,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/63-2
+00:08:17.842 --> 00:08:21.968
+<v Miller, Jeremy>whether it's a claim ID or a spreadsheet
+or something like that,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/63-3
+00:08:21.968 --> 00:08:25.650
+<v Miller, Jeremy>and they use that data in combination
+with MIT plan data.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/64-0
+00:08:26.450 --> 00:08:30.919
+<v Miller, Jeremy>In combination with any other information
+they want to do,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/64-1
+00:08:30.919 --> 00:08:37.053
+<v Miller, Jeremy>including Google searches to figure out
+what MMIT plan IDs these items should be</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/64-2
+00:08:37.053 --> 00:08:37.810
+<v Miller, Jeremy>linked to.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/65-0
+00:08:39.210 --> 00:08:40.930
+<v Miller, Jeremy>Is that correct?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/68-0
+00:08:42.250 --> 00:08:47.112
+<v Silva, Pedro>Sorry, yes, correct.
+And and right now that team,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/66-0
+00:08:45.130 --> 00:08:45.250
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/68-1
+00:08:47.112 --> 00:08:55.183
+<v Silva, Pedro>so there's an operational team which does
+the manual lookups and all that and they</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/68-2
+00:08:55.183 --> 00:08:59.850
+<v Silva, Pedro>have a a front end that they use to to do
+that.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/67-0
+00:09:00.050 --> 00:09:01.890
+<v Miller, Jeremy>Right, right.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/69-0
+00:09:02.890 --> 00:09:06.323
+<v Miller, Jeremy>OK. And so the goals of trying to,
+you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/69-1
+00:09:06.323 --> 00:09:12.424
+<v Miller, Jeremy>use some data science to improve this
+process are improve the throughput at the</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/69-2
+00:09:12.424 --> 00:09:15.170
+<v Miller, Jeremy>automated, the two automated stages.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/70-0
+00:09:16.730 --> 00:09:22.755
+<v Miller, Jeremy>And while keeping an eye on the quality
+and then when we get to the manual stage,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/70-1
+00:09:22.755 --> 00:09:28.191
+<v Miller, Jeremy>try to help the analyst by making
+suggestions about what is where this is</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/70-2
+00:09:28.191 --> 00:09:31.130
+<v Miller, Jeremy>likely to go with some confidence level.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/72-0
+00:09:32.690 --> 00:09:37.586
+<v Silva, Pedro>Yeah, I mean that in it's simple,
+most simplistic form that that's exactly</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/72-1
+00:09:37.586 --> 00:09:42.940
+<v Silva, Pedro>it right is what what we're trying to do
+is right now the way scripts are written</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/71-0
+00:09:37.850 --> 00:09:38.290
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/72-2
+00:09:42.940 --> 00:09:46.530
+<v Silva, Pedro>and the way the process works,
+I think something like.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/73-0
+00:09:47.530 --> 00:09:51.995
+<v Silva, Pedro>You know,
+15% of records the tool will bridge for</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/73-1
+00:09:51.995 --> 00:09:59.406
+<v Silva, Pedro>us. The the expectation here is, you know,
+we we don't think that we will ever get</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/73-2
+00:09:59.406 --> 00:10:05.210
+<v Silva, Pedro>to the point where 100% of records can be
+automatically bridged.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/75-0
+00:10:05.250 --> 00:10:10.716
+<v Silva, Pedro>Bridged, you know.
+But if we can figure out a way even to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/74-0
+00:10:06.210 --> 00:10:08.570
+<v Miller, Jeremy>No, probably not. Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/75-1
+00:10:10.716 --> 00:10:18.349
+<v Silva, Pedro>bridge 50% of those records automatically,
+to me that's a huge win, right? That,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/75-2
+00:10:18.349 --> 00:10:20.610
+<v Silva, Pedro>you know, we we've just.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/78-0
+00:10:20.770 --> 00:10:24.735
+<v Silva, Pedro>Made the whole,
+the process a whole lot more efficient</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/78-1
+00:10:24.735 --> 00:10:30.719
+<v Silva, Pedro>and essentially now that operations team
+can do more, right? Because it, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/78-2
+00:10:30.719 --> 00:10:35.621
+<v Silva, Pedro>technically there's there's less on their
+plate and we can do more,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/78-3
+00:10:35.621 --> 00:10:40.090
+<v Silva, Pedro>we can do it faster, we can, you know,
+get to market quicker.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/79-0
+00:10:40.290 --> 00:10:45.356
+<v Silva, Pedro>The other piece of all this is,
+I'm sure you're aware we are constantly</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/77-0
+00:10:40.850 --> 00:10:41.370
+<v Miller, Jeremy>Mhm.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/79-1
+00:10:45.356 --> 00:10:50.843
+<v Silva, Pedro>looking at who's the next, you know,
+data vendor that we're going to bring in</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/79-2
+00:10:50.843 --> 00:10:54.290
+<v Silva, Pedro>when it comes to, you know,
+our real-world data.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/80-0
+00:10:55.530 --> 00:10:55.610
+<v Silva, Pedro>Um.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/81-0
+00:10:57.170 --> 00:11:00.880
+<v Silva, Pedro>As it stands, the current process,
+you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/81-1
+00:11:00.880 --> 00:11:07.804
+<v Silva, Pedro>it would take something like four to five
+years for us to to bridge or fully bridge</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/81-2
+00:11:07.804 --> 00:11:12.090
+<v Silva, Pedro>a new data set every time we bring on a
+new vendor.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/82-0
+00:11:12.930 --> 00:11:16.721
+<v Silva, Pedro>So it's it's a matter of prioritizing a,
+you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/82-1
+00:11:16.721 --> 00:11:20.215
+<v Silva, Pedro>we can bridge 80% of the volume a lot
+quicker,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/82-2
+00:11:20.215 --> 00:11:23.858
+<v Silva, Pedro>but all the what I call the onesies and
+twosies,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/82-3
+00:11:23.858 --> 00:11:29.210
+<v Silva, Pedro>which are just a couple claims here and
+there and we've only seen this.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/83-0
+00:11:29.490 --> 00:11:34.690
+<v Silva, Pedro>Particular insurance provider or whatnot,
+you know, a few times.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/83-1
+00:11:34.690 --> 00:11:38.690
+<v Silva, Pedro>Those are the ones that essentially take
+forever.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/83-2
+00:11:38.690 --> 00:11:45.250
+<v Silva, Pedro>Those are the ones that we have to go in
+and do the Google and and all of that to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/83-3
+00:11:45.250 --> 00:11:47.250
+<v Silva, Pedro>to figure out what it is.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/84-0
+00:11:47.330 --> 00:11:54.341
+<v Silva, Pedro>You know, I've played around a little bit,
+which is throwing one line of information.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/84-1
+00:11:54.341 --> 00:11:58.416
+<v Silva, Pedro>Let's say it's a bin group PCN number or
+whatnot,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/84-2
+00:11:58.416 --> 00:12:04.530
+<v Silva, Pedro>like into something like ChatGPT and it
+actually spits out results pretty.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/85-0
+00:12:04.610 --> 00:12:09.540
+<v Silva, Pedro>You know, accurately most of the time.
+So what what I'm trying to do is,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/85-1
+00:12:09.540 --> 00:12:13.120
+<v Silva, Pedro>you know,
+do we take kind of like a phased approach,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/85-2
+00:12:13.120 --> 00:12:16.361
+<v Silva, Pedro>right,
+where we write some scripts 1st and then</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/85-3
+00:12:16.361 --> 00:12:19.130
+<v Silva, Pedro>start figuring out how do we incorporate?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/86-0
+00:12:19.570 --> 00:12:22.860
+<v Silva, Pedro>You know,
+smart lookups or or smart suggestions and</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/86-1
+00:12:22.860 --> 00:12:25.770
+<v Silva, Pedro>things like that as kind of like a phase
+two.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/87-0
+00:12:26.650 --> 00:12:30.760
+<v Miller, Jeremy>Yeah. So just to back up one step,
+that 15% that you mentioned,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/87-1
+00:12:30.760 --> 00:12:35.255
+<v Miller, Jeremy>is that the first two steps,
+the fully automated plus the fuzzy look,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/87-2
+00:12:35.255 --> 00:12:36.090
+<v Miller, Jeremy>fuzzy lookup?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/89-0
+00:12:36.330 --> 00:12:41.976
+<v Silva, Pedro>Yeah, I mean, I I full transparency.
+I I don't know exactly how the automated,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/89-1
+00:12:41.976 --> 00:12:46.621
+<v Silva, Pedro>you know, bridging works now,
+but I think it looks at, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/89-2
+00:12:46.621 --> 00:12:51.194
+<v Silva, Pedro>it's something like a payer name finds a
+clue with that, right?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/89-3
+00:12:51.194 --> 00:12:55.410
+<v Silva, Pedro>Like so we know it might be Aetna based
+on the payer name.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/88-0
+00:12:53.810 --> 00:12:53.890
+<v Miller, Jeremy>So.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/90-0
+00:12:56.050 --> 00:13:02.824
+<v Silva, Pedro>Then I think in the identification kind
+of IDs at times that we receive or</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/90-1
+00:13:02.824 --> 00:13:07.250
+<v Silva, Pedro>whatnot,
+it may look at like I mentioned before,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/90-2
+00:13:07.250 --> 00:13:14.386
+<v Silva, Pedro>that ID may have something like you know,
+NY medic in the identification which</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/90-3
+00:13:14.386 --> 00:13:15.650
+<v Silva, Pedro>would lead us.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/92-0
+00:13:15.730 --> 00:13:20.312
+<v Silva, Pedro>To believe it's, you know,
+like New York Medicaid. So there's,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/92-1
+00:13:20.312 --> 00:13:23.803
+<v Silva, Pedro>you know,
+kind of little little bits and pieces</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/91-0
+00:13:20.370 --> 00:13:21.970
+<v Miller, Jeremy>Yeah, that that makes sense.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/92-2
+00:13:23.803 --> 00:13:28.821
+<v Silva, Pedro>here that the system kind of looks at and
+says, OK, we're, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/92-3
+00:13:28.821 --> 00:13:31.730
+<v Silva, Pedro>it's pretty confident that it's it's it.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/93-0
+00:13:31.810 --> 00:13:37.465
+<v Silva, Pedro>Bridges to this particular plan or payer.
+I'm assuming it probably works a little</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/93-1
+00:13:37.465 --> 00:13:42.843
+<v Silva, Pedro>bit differently when you're looking at
+medical claims versus pharmacy claims,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/93-2
+00:13:42.843 --> 00:13:48.359
+<v Silva, Pedro>just because in general pharmacy claims
+at least tend to have a a bin group PCN</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/93-3
+00:13:48.359 --> 00:13:50.290
+<v Silva, Pedro>number, which helps us even.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/95-0
+00:13:50.290 --> 00:13:55.707
+<v Silva, Pedro>You know, identify plans a little,
+a little better. But like I said before,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/95-1
+00:13:55.707 --> 00:14:00.981
+<v Silva, Pedro>it looks at things like, you know,
+the naming conventions that may or may</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/95-2
+00:14:00.981 --> 00:14:04.830
+<v Silva, Pedro>not be provided.
+It's looking at geography. You know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/94-0
+00:14:04.610 --> 00:14:05.130
+<v Miller, Jeremy>Yeah, yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/95-3
+00:14:04.830 --> 00:14:09.890
+<v Silva, Pedro>in some cases I know there's scripts that
+run that if we get a record.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/96-0
+00:14:10.090 --> 00:14:16.284
+<v Silva, Pedro>With a specific patient ID and this time
+you know there's no medical info or no</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/96-1
+00:14:16.284 --> 00:14:19.690
+<v Silva, Pedro>insurance information with that patient
+ID.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/96-2
+00:14:19.690 --> 00:14:26.039
+<v Silva, Pedro>What it does is it'll look back at like
+where have we seen this patient ID before</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/96-3
+00:14:26.039 --> 00:14:29.290
+<v Silva, Pedro>and if we have, was there insurance on it?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/97-0
+00:14:29.490 --> 00:14:34.806
+<v Silva, Pedro>And then it would apply that insurance to
+that new record that was for whatever</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/97-1
+00:14:34.806 --> 00:14:39.392
+<v Silva, Pedro>reason missing the insurance information.
+So that there's, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/97-2
+00:14:39.392 --> 00:14:44.841
+<v Silva, Pedro>a few scripts and processes that that are
+running currently that help us identify</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/97-3
+00:14:44.841 --> 00:14:45.970
+<v Silva, Pedro>some things, but.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/98-0
+00:14:46.570 --> 00:14:49.635
+<v Silva, Pedro>Again,
+when it comes to the specific bridging,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/98-1
+00:14:49.635 --> 00:14:54.264
+<v Silva, Pedro>you know I I keep referring.
+I don't know if it's exactly a fuzzy look</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/98-2
+00:14:54.264 --> 00:14:57.068
+<v Silva, Pedro>up,
+but it's probably like a fuzzy look up</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/98-3
+00:14:57.068 --> 00:14:57.850
+<v Silva, Pedro>plus, right?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-0
+00:14:58.730 --> 00:15:03.077
+<v Miller, Jeremy>Yeah, that's fine. I'm I'm more,
+I'm trying to ask about the quantity that</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/99-0
+00:15:00.650 --> 00:15:00.890
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-1
+00:15:03.077 --> 00:15:05.800
+<v Miller, Jeremy>that get successfully bridged at those
+stages.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/100-0
+00:15:03.770 --> 00:15:04.010
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-2
+00:15:05.800 --> 00:15:10.321
+<v Miller, Jeremy>So you threw out this number 15% and so
+I'm trying to understand if that's so</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/101-0
+00:15:09.930 --> 00:15:10.170
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-3
+00:15:10.321 --> 00:15:13.624
+<v Miller, Jeremy>there's three phase,
+there's three steps to this funnel.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-4
+00:15:13.624 --> 00:15:17.507
+<v Miller, Jeremy>There's fully automated,
+there's fuzzy look up and there's manual.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/102-5
+00:15:17.507 --> 00:15:17.970
+<v Miller, Jeremy>So what?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/103-0
+00:15:18.370 --> 00:15:23.050
+<v Miller, Jeremy>Does the 15% represent the first phase,
+the 1st 2 phases, the second phase?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/105-0
+00:15:22.530 --> 00:15:26.330
+<v Silva, Pedro>I think it's it's probably the first two.
+Um.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/104-0
+00:15:26.410 --> 00:15:26.530
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/108-0
+00:15:27.730 --> 00:15:33.880
+<v Silva, Pedro>Which again, those scripts, like I said,
+look at things like naming conventions,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/108-1
+00:15:33.880 --> 00:15:39.575
+<v Silva, Pedro>which to me I equate to a fuzzy look up
+and then some of the other kind of</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/106-0
+00:15:34.810 --> 00:15:35.010
+<v Miller, Jeremy>Right.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/107-0
+00:15:37.450 --> 00:15:37.770
+<v Miller, Jeremy>Got it.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/108-2
+00:15:39.575 --> 00:15:40.410
+<v Silva, Pedro>indicators.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/109-0
+00:15:40.770 --> 00:15:43.984
+<v Miller, Jeremy>OK.
+And have you done any analysis to look at</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/109-1
+00:15:43.984 --> 00:15:46.010
+<v Miller, Jeremy>error rates for that process?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/110-0
+00:15:46.210 --> 00:15:48.370
+<v Silva, Pedro>Not that I'm aware of.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/111-0
+00:15:49.210 --> 00:15:49.330
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/113-0
+00:15:50.530 --> 00:15:53.964
+<v Miller, Jeremy>Do you have,
+do you have a good understanding or an</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/112-0
+00:15:50.770 --> 00:15:51.610
+<v Silva, Pedro>Yeah, that this.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/113-1
+00:15:53.964 --> 00:15:58.850
+<v Miller, Jeremy>understanding of what the acceptable
+error rates for automation would be?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/115-0
+00:16:00.370 --> 00:16:07.802
+<v Silva, Pedro>No, I'm open to suggestions. So Jeremy,
+like one, you know, one note here is,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/114-0
+00:16:04.210 --> 00:16:04.610
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/115-1
+00:16:07.802 --> 00:16:12.089
+<v Silva, Pedro>you know,
+I inherited a lot of this process.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/115-2
+00:16:12.089 --> 00:16:19.330
+<v Silva, Pedro>So that's why I'm not, you know,
+I can't sit here and and pinpoint exactly.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/117-0
+00:16:19.410 --> 00:16:25.715
+<v Silva, Pedro>How everything works once we move forward.
+Yeah, I mean we can get, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/116-0
+00:16:21.210 --> 00:16:23.410
+<v Miller, Jeremy>That's fine. We can learn together.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/117-1
+00:16:25.715 --> 00:16:31.939
+<v Silva, Pedro>like Will Vanderveer involved too,
+because I think he had a hand in creating</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/117-2
+00:16:31.939 --> 00:16:36.708
+<v Silva, Pedro>this and but at this point, you know,
+it's more of a, hey,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/117-3
+00:16:36.708 --> 00:16:38.890
+<v Silva, Pedro>let's just discuss the the.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/118-0
+00:16:38.930 --> 00:16:41.210
+<v Silva, Pedro>Part of what's possible.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/121-0
+00:16:41.170 --> 00:16:44.324
+<v Miller, Jeremy>Right. Yeah. I mean,
+so that'll be something we'll have to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/121-1
+00:16:44.324 --> 00:16:48.387
+<v Miller, Jeremy>think about at some point. I mean,
+the thing that strikes me off the bat is</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/121-2
+00:16:48.387 --> 00:16:52.076
+<v Miller, Jeremy>like the the biggest lever,
+I think the biggest lever we can pull is</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/121-3
+00:16:52.076 --> 00:16:55.497
+<v Miller, Jeremy>in the automation phase.
+Like I would focus on that first take,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/119-0
+00:16:54.490 --> 00:16:54.730
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/121-4
+00:16:55.497 --> 00:16:58.330
+<v Miller, Jeremy>take as much work off their plate as you
+can, right?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/120-0
+00:16:55.730 --> 00:16:58.650
+<v Silva, Pedro>100 percent, 100%.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/123-0
+00:16:58.930 --> 00:17:02.508
+<v Miller, Jeremy>Yeah,
+and then when that when the juice isn't</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/123-1
+00:17:02.508 --> 00:17:08.654
+<v Miller, Jeremy>worth the squeeze anymore, look at OK,
+how can we make their work 10/20/30/40%</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/122-0
+00:17:07.770 --> 00:17:07.930
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/123-2
+00:17:08.654 --> 00:17:14.643
+<v Miller, Jeremy>faster, right? Do you have examples?
+So where this work has been done in the</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/123-3
+00:17:14.643 --> 00:17:15.810
+<v Miller, Jeremy>past, is there?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-0
+00:17:15.970 --> 00:17:19.470
+<v Miller, Jeremy>A data store somewhere where that we can
+go to where we can see, OK,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-1
+00:17:19.470 --> 00:17:22.615
+<v Miller, Jeremy>this thing came in,
+it was automatically bridged because we'd</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-2
+00:17:22.615 --> 00:17:26.115
+<v Miller, Jeremy>seen it. This thing came in,
+it went through the Fuzzy lookup script</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-3
+00:17:26.115 --> 00:17:28.550
+<v Miller, Jeremy>and it was matched to that.
+This thing came in,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-4
+00:17:28.550 --> 00:17:31.745
+<v Miller, Jeremy>it wasn't matched to anything.
+It went in front of an analyst.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/124-5
+00:17:31.745 --> 00:17:32.810
+<v Miller, Jeremy>The analyst did this.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/125-0
+00:17:33.250 --> 00:17:39.143
+<v Silva, Pedro>Yeah, I'm sure we can.
+We can get you some examples of, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/125-1
+00:17:39.143 --> 00:17:43.786
+<v Silva, Pedro>successful,
+successfully automated versus you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/125-2
+00:17:43.786 --> 00:17:48.250
+<v Silva, Pedro>kind of put into the queue for manual
+review and.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/126-0
+00:17:48.890 --> 00:17:51.010
+<v Silva, Pedro>And then what that looks like.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/128-0
+00:17:51.210 --> 00:17:54.243
+<v Miller, Jeremy>Yeah,
+I think I would be interested much more</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/128-1
+00:17:54.243 --> 00:17:59.385
+<v Miller, Jeremy>in some sort of data store or data stores
+where we can go and get them versus</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/128-2
+00:17:59.385 --> 00:18:03.010
+<v Miller, Jeremy>having colleagues, you know, pull,
+pull them manually.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/127-0
+00:18:02.970 --> 00:18:03.130
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/131-0
+00:18:04.690 --> 00:18:08.836
+<v Silva, Pedro>Yeah, you know what, George?
+Ranker could probably provide some of</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/131-1
+00:18:08.836 --> 00:18:11.930
+<v Silva, Pedro>that. And between Ranker and maybe, uh,
+Ashutosh.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/129-0
+00:18:12.450 --> 00:18:12.570
+OK.
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/130-0
+00:18:13.610 --> 00:18:13.730
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/134-0
+00:18:16.130 --> 00:18:20.368
+<v Silva, Pedro>Because I think I should touch can
+probably, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/132-0
+00:18:16.490 --> 00:18:16.530
+<v Miller, Jeremy>Uh.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/134-1
+00:18:20.368 --> 00:18:26.685
+<v Silva, Pedro>discuss the UI a little further and and
+provide some kind of wins and where these</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/134-2
+00:18:26.685 --> 00:18:31.770
+<v Silva, Pedro>things are stored. But yeah,
+we'll we'll we'll get you something.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/133-0
+00:18:28.330 --> 00:18:28.450
+<v Miller, Jeremy>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/135-0
+00:18:32.050 --> 00:18:35.992
+<v Miller, Jeremy>OK.
+So and I think for now my this all makes</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/135-1
+00:18:35.992 --> 00:18:40.546
+<v Miller, Jeremy>sense to me.
+This all seems very logical and like a</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/135-2
+00:18:40.546 --> 00:18:47.290
+<v Miller, Jeremy>good opportunity for us to, you know,
+work together and improve the process.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/136-0
+00:18:47.730 --> 00:18:52.920
+<v Miller, Jeremy>I still don't have any insight as to what
+happened at the planning session last</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/136-1
+00:18:52.920 --> 00:18:55.839
+<v Miller, Jeremy>week.
+So can you help Assan and I understand</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/136-2
+00:18:55.839 --> 00:19:00.120
+<v Miller, Jeremy>where this sits in terms of priorities
+and planning and you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/136-3
+00:19:00.120 --> 00:19:04.596
+<v Miller, Jeremy>should we be scoping this out?
+Should we be waiting for things to be</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/136-4
+00:19:04.596 --> 00:19:07.450
+<v Miller, Jeremy>approved budget wise like I don't have
+any.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/137-0
+00:19:07.730 --> 00:19:09.490
+<v Miller, Jeremy>Is ability into that aspect.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/138-0
+00:19:08.290 --> 00:19:12.819
+<v Silva, Pedro>Yeah, I think so. You know,
+based on my understanding with with a lot</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/138-1
+00:19:12.819 --> 00:19:17.866
+<v Silva, Pedro>of the planning and and all that is this
+would become a pretty high priority.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/138-2
+00:19:17.866 --> 00:19:22.330
+<v Silva, Pedro>What Armahan had mentioned and I think
+Hassan, you were on the call.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/139-0
+00:19:23.490 --> 00:19:30.547
+<v Silva, Pedro>Is that he may even have some funding
+potentially that that we can use for this</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/139-1
+00:19:30.547 --> 00:19:35.840
+<v Silva, Pedro>even in Q4, right?
+If there's a a possibility to to do some</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/139-2
+00:19:35.840 --> 00:19:43.250
+<v Silva, Pedro>work here as far as priority wise and and
+all of that, Jeremy, you know what I can.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/140-0
+00:19:43.330 --> 00:19:50.519
+<v Silva, Pedro>Tell you is you know company-wide,
+but even you know we'll we'll focus on</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/140-1
+00:19:50.519 --> 00:19:57.610
+<v Silva, Pedro>market access at MIT alone just about
+every NPD that is being developed.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/141-0
+00:20:06.010 --> 00:20:06.650
+<v Miller, Jeremy>Mhm.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/142-0
+00:20:10.610 --> 00:20:10.730
+<v Malik, Hassan>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/144-0
+00:20:10.770 --> 00:20:16.515
+<v Silva, Pedro>And integrating that together, well,
+the most important, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/143-0
+00:20:10.810 --> 00:20:10.890
+<v Malik, Hassan>Um.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/144-1
+00:20:16.515 --> 00:20:21.746
+<v Silva, Pedro>the foundation of all of that is the
+actual bridging, right.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/144-2
+00:20:21.746 --> 00:20:25.690
+<v Silva, Pedro>So if we can't bridge efficiently into
+scale.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/146-0
+00:20:26.130 --> 00:20:31.490
+<v Silva, Pedro>That that almost kind of puts everything
+else at at, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/146-1
+00:20:31.490 --> 00:20:37.531
+<v Silva, Pedro>just delays everything right.
+And so I think leadership is starting to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/146-2
+00:20:37.531 --> 00:20:42.210
+<v Silva, Pedro>realize the importance or at least,
+you know, kind of.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/148-0
+00:20:42.290 --> 00:20:48.846
+<v Silva, Pedro>Putting putting some light onto the
+importance of of all of this foundational</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/148-1
+00:20:48.846 --> 00:20:53.805
+<v Silva, Pedro>back end data integration work that that
+needs to be done.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/147-0
+00:20:53.010 --> 00:20:53.530
+<v Miller, Jeremy>Mhm.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/148-2
+00:20:53.805 --> 00:20:59.857
+<v Silva, Pedro>So I I think it's a it's going to be a
+priority in 26 and based on that</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/148-3
+00:20:59.857 --> 00:21:02.210
+<v Silva, Pedro>discussion the reason we're.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/149-0
+00:21:02.210 --> 00:21:06.695
+<v Silva, Pedro>We're talking now was Armahan
+specifically said, hey, I may, you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/149-1
+00:21:06.695 --> 00:21:11.433
+<v Silva, Pedro>if we can have a couple people that or
+somebody that's available on a data</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/149-2
+00:21:11.433 --> 00:21:14.907
+<v Silva, Pedro>science team,
+we may even be able to do some of or get</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/149-3
+00:21:14.907 --> 00:21:17.370
+<v Silva, Pedro>started on some of this work this year.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/150-0
+00:21:18.770 --> 00:21:22.353
+<v Silva, Pedro>So Hassan, keep me honest there.
+I think that's kind of where we landed</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/152-0
+00:21:18.930 --> 00:21:24.194
+<v Malik, Hassan>Yeah. So, so there is to clarify,
+there's no one available readily per se.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/150-1
+00:21:22.353 --> 00:21:22.850
+<v Silva, Pedro>with that.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/152-1
+00:21:24.194 --> 00:21:27.773
+<v Malik, Hassan>However,
+Armand did say that there is some funding</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/152-2
+00:21:27.773 --> 00:21:31.493
+<v Malik, Hassan>available. I'm also aware of that funding,
+you know,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/152-3
+00:21:31.493 --> 00:21:35.634
+<v Malik, Hassan>so for Q4 now of course that would
+require hiring someone,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/151-0
+00:21:31.730 --> 00:21:32.090
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/152-4
+00:21:35.634 --> 00:21:38.090
+<v Malik, Hassan>some consultant to take care of it.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/155-0
+00:21:38.210 --> 00:21:42.687
+<v Malik, Hassan>Which is possible, right.
+So what I would like to get to is you</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/155-1
+00:21:42.687 --> 00:21:48.074
+<v Malik, Hassan>know can we how quickly can we get to
+actionable requirements that and if we</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/155-2
+00:21:48.074 --> 00:21:52.061
+<v Malik, Hassan>have a lot of so,
+so Jeremy can start spending time with</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/155-3
+00:21:52.061 --> 00:21:53.530
+<v Malik, Hassan>you guys right on it.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/154-0
+00:21:52.850 --> 00:21:53.130
+<v Silva, Pedro>Yeah.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/156-0
+00:21:53.810 --> 00:21:57.210
+<v Malik, Hassan>And in concurrent to it or as soon as you
+know we we can,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/156-1
+00:21:57.210 --> 00:22:02.075
+<v Malik, Hassan>we can start looking for a resource that
+can start at least start working on it in</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/156-2
+00:22:02.075 --> 00:22:04.595
+<v Malik, Hassan>Q4.
+I'm not sure if we can deliver it will</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/156-3
+00:22:04.595 --> 00:22:08.640
+<v Malik, Hassan>all depend on the, you know,
+complexity and the total amount of work</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/156-4
+00:22:08.640 --> 00:22:09.050
+<v Malik, Hassan>needed.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/157-0
+00:22:09.170 --> 00:22:11.690
+<v Malik, Hassan>But we can absolutely start working now.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/158-0
+00:22:12.250 --> 00:22:14.874
+<v Silva, Pedro>Yeah,
+I don't think anybody expected us to</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/158-1
+00:22:14.874 --> 00:22:19.268
+<v Silva, Pedro>finish anything in Q4, but I think,
+you know, the the thought was, hey,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/158-2
+00:22:19.268 --> 00:22:21.770
+<v Silva, Pedro>if we can get started, let's get started.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/159-0
+00:22:22.210 --> 00:22:23.250
+<v Malik, Hassan>Make sense?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-0
+00:22:24.290 --> 00:22:26.926
+<v Miller, Jeremy>Yeah.
+So the single biggest next step that I</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-1
+00:22:26.926 --> 00:22:30.030
+<v Miller, Jeremy>would need is access to those,
+that historical data,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-2
+00:22:30.030 --> 00:22:33.720
+<v Miller, Jeremy>see what it looks like,
+understand what's there and then I can</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-3
+00:22:33.720 --> 00:22:38.406
+<v Miller, Jeremy>start turning that into requirements.
+I can propose metrics and success targets</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-4
+00:22:38.406 --> 00:22:42.447
+<v Miller, Jeremy>and send that back over to you for review.
+But I think that's to me,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/161-5
+00:22:42.447 --> 00:22:43.970
+<v Miller, Jeremy>that's the next big thing.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/160-0
+00:22:44.770 --> 00:22:45.210
+<v Silva, Pedro>Right, so.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/162-0
+00:22:46.650 --> 00:22:47.050
+<v Miller, Jeremy>Sh.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/164-0
+00:22:47.090 --> 00:22:50.789
+<v Silva, Pedro>George, Hamrudra.
+So here's what I'm thinking.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/164-1
+00:22:50.789 --> 00:22:56.848
+<v Silva, Pedro>Maybe I'll set up a meeting something
+like tomorrow with you guys and Jeremy</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/163-0
+00:22:55.730 --> 00:22:56.010
+<v Miller, Jeremy>Yes.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/164-2
+00:22:56.848 --> 00:23:01.255
+<v Silva, Pedro>and and ranker where at least we can at
+the very start,</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/164-3
+00:23:01.255 --> 00:23:06.370
+<v Silva, Pedro>start with that automated process and I
+think he could probably.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/165-0
+00:23:06.610 --> 00:23:10.649
+<v Silva, Pedro>Probably guide us where things are,
+what are the scripts look like and all of</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/165-1
+00:23:10.649 --> 00:23:13.290
+<v Silva, Pedro>that good stuff and and we could start
+from there.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/167-0
+00:23:15.850 --> 00:23:17.490
+<v Ramesh, Hamrudhra>Sure but that works.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/166-0
+00:23:16.530 --> 00:23:17.050
+<v Green, George>Mhm.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/168-0
+00:23:17.010 --> 00:23:18.090
+<v Silva, Pedro>Yep. Thanks.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/169-0
+00:23:18.210 --> 00:23:19.130
+<v Miller, Jeremy>Yep, works for me.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/170-0
+00:23:19.730 --> 00:23:23.473
+<v Silva, Pedro>All right,
+well then look out for an a meeting</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/170-1
+00:23:23.473 --> 00:23:28.170
+<v Silva, Pedro>within the next couple days to to really
+start digging in.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/171-0
+00:23:28.650 --> 00:23:28.890
+<v Miller, Jeremy>Right.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/172-0
+00:23:29.290 --> 00:23:29.370
+<v Green, George>Oh.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/173-0
+00:23:30.530 --> 00:23:32.170
+<v Malik, Hassan>Sounds that cool.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/174-0
+00:23:31.490 --> 00:23:35.031
+<v Silva, Pedro>Cool. All right.
+I think we even get 5 minutes back on</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/176-0
+00:23:34.810 --> 00:23:36.810
+<v Green, George>Whoa, is that possible?</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/174-1
+00:23:35.031 --> 00:23:35.610
+<v Silva, Pedro>this one.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/175-0
+00:23:35.850 --> 00:23:36.810
+<v Malik, Hassan>OK.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/178-0
+00:23:35.930 --> 00:23:39.410
+<v Miller, Jeremy>All right, high five.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/185-0
+00:23:36.690 --> 00:23:42.650
+<v Silva, Pedro>All right. Thank you very much, guys.
+Thank you, Mani.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/183-0
+00:23:38.410 --> 00:23:41.770
+<v Malik, Hassan>Thank you. Thank you so much. Yep. Bye.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/177-0
+00:23:39.370 --> 00:23:39.610
+<v Green, George>Alright.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/186-0
+00:23:40.650 --> 00:23:44.330
+<v Miller, Jeremy>Cool. Alright, thanks. Bye. Alright,
+bye bye.</v>
+
+0432e7d1-5619-42a3-a1b4-77209c17877d/184-0
+00:23:40.770 --> 00:23:41.530
+<v Green, George>Thanks. Bye.</v>
