@@ -1,169 +1,88 @@
-# Product Requirements Document (PRD)
+# [Project Name] Data Science Project
 
-## Project Overview
+This PRD is a living document. It is perfectly acceptable to update sections as more information becomes available or as project requirements evolve. The purpose of this guide is to ensure a smooth collaboration among all teams, reduce misunderstandings, and support data-driven decision-making in our data science projects.
 
-**Project Name:** [Name]
+[Data Science Jira Guidelines](https://evaluateltd.atlassian.net/wiki/spaces/DS/pages/4030595123/Jira+Guidelines)
 
-**Owner:** [PM/Team]
+Items should be added or removed as needed. The Template represents was we expect to need to define most of the time, but there will inevitably be some bespoke elements in some projects. 
 
-**DS Team:** [Data Science Team]
+Make a clone and edit…
 
-**Status:** [Draft/In Review/Approved]
+|Item|Value|
+|-|-|
+|status|Defined or Defining|
+|Product Management Sponsor||
+|Data Science PM||
+|Data Science Tech Lead||
+|Other Team Members and Roles||
+|Leadership Stakeholder(s)||
+|Objective||
+|Due Date||
+|Key Outcomes||
+|Deliverable||
+|Links||
 
-**Last Updated:** [Date]
 
-## Executive Summary
 
-[2-3 sentence summary of what this project aims to accomplish and why it matters]
+# Project Canvas - Risk Assessment
 
-## Background & Context
+## Value
 
-### Problem Statement
-[What problem are we solving? What pain points exist today?]
+1. Business Problem/Opportunity: summarize the core business challenge or potential opportunity
+    a. Who is the user?
+    b. What is the problem we want to solve for them?
+2. Business or Product Metrics: how will success be measured at the product or user level?
+3. Expected ROI: ie operational efficiency, new product sales, etc
+4. Alignment with Product Strategy: how does this project support a defined business or product strategy?
+5. Monday Board Link: what is the Monday board ticket item associated with this project?
 
-### Current State
-[How do things work today? What are the limitations?]
+## Viability
+1. Data Availability: detail what data sources (databases, data warehouses, apis, etc) are available and add any links or documentation
+2. Can the outbound dependancies for integration be cleared? who will be consuming this API and do they have the bandwidth to consume it? On what timeframe?
+3. Solution Flow: a flow diagram outlining how you see the solution should work
+4. Other Considerations (privacy, partnerships, etc):
+5. Timeline Constraints: include deadlines or scheduling conflicts that might affect this project
 
-### Opportunity
-[What's the business opportunity? Why now?]
+## Feasibility
+1. Input: what data will be sent to the data science service? be as specific as you can
+2. Output: what data it will be returned from the data science service?
+    a. If this is a chatbot project, provide a document with at least 20 examples (to start, will eventually need to be 100+) representing the breadth of questions we expect the system to be able to handle Each example should include at a minumum:
+        i. Question: required to understand scope
+        ii. Answer: shows us what a good answer looks like, even if the data are not correct
+        iii. Data source: where will we get the data to answer this question?
 
-## Goals & Success Metrics
+3. Model Quality Metrics and Targets (Precision, Recall, ROC AUC, etc): if you are unsure our data science team can provide guidance
+4. Other Performance Metrics (latency, throughput, etc):
+5. Deliverable Format (ie API, batch process, etc):
+6. Estimated Infrastructure and Compute Requirements:
+7. Estimated Team Member Requirements: how many people from each team for how long?
 
-### Primary Goals
-1. [Goal 1]
-2. [Goal 2]
-3. [Goal 3]
+## Usability
+1. End User Persona: describe who will be using the final product that this API will support
+2. User Experience Requirements (if appropriate): explain how will end users interact with the data sign service outputs
+    a. Evidence for ML outputs
+    b. Ability to fail gracefully
 
-### Success Metrics
-| Metric | Baseline | Target | Timeline |
-|--------|----------|--------|----------|
-| [Metric 1] | [Current value] | [Target value] | [When] |
-| [Metric 2] | [Current value] | [Target value] | [When] |
+# Ways of Working
 
-### Non-Goals
-- [What we're explicitly NOT doing]
+## Communication Channels
 
-## Requirements
+1. Working Team:
+    a. Teams Channel (preferred):
+    b. Email List:
+    c. Meeting Cadence:
 
-### Functional Requirements
-1. **[Requirement 1]**
-   - Description: [Details]
-   - Priority: [P0/P1/P2]
+2. Leadership Stakeholder Updates (if not already represented by the Product, or otherwise needed):
+    a. Update Method:
+    b. Update Frequency:
 
-2. **[Requirement 2]**
-   - Description: [Details]
-   - Priority: [P0/P1/P2]
+# Assumptions
 
-### Data Science Requirements
-1. **Data Requirements**
-   - [Required datasets, features, or data sources]
-   - Data quality/volume needs
-   - Labeled data needs (if applicable)
+# Milestones
 
-2. **Model/Analysis Requirements**
-   - [Type of model or analysis needed]
-   - Performance requirements (accuracy, latency, etc.)
-   - Explainability needs
+|Milestone|Owner|Deadline|Status|Success Criteria|Deliverable|
+|-|-|-|-|-|-|
+|POC/Feasibility||||||
+|Deveopment||||||
+|Production||||||
 
-3. **Infrastructure Requirements**
-   - [Compute, storage, serving needs]
-   - Real-time vs batch processing
-   - Integration points
-
-### Non-Functional Requirements
-- **Performance:** [Latency, throughput requirements]
-- **Scale:** [Expected volume, growth]
-- **Reliability:** [Uptime, error handling]
-- **Privacy/Compliance:** [Data governance, regulatory requirements]
-
-## Proposed Solution
-
-### Approach
-[High-level description of the proposed DS solution]
-
-### Key Components
-1. [Component 1]
-2. [Component 2]
-3. [Component 3]
-
-### Alternative Approaches Considered
-- **[Alternative 1]:** [Why not chosen]
-- **[Alternative 2]:** [Why not chosen]
-
-## Dependencies & Risks
-
-### Dependencies
-- **Data:** [Required data sources, data engineering work]
-- **Teams:** [Other teams or stakeholders we depend on]
-- **Infrastructure:** [Platform, tools, or systems needed]
-- **External:** [Third-party APIs, vendors, etc.]
-
-### Risks & Mitigations
-| Risk | Impact | Probability | Mitigation |
-|------|--------|-------------|------------|
-| [Risk 1] | [High/Med/Low] | [High/Med/Low] | [How we'll address] |
-| [Risk 2] | [High/Med/Low] | [High/Med/Low] | [How we'll address] |
-
-## Experiment Design (if applicable)
-
-### Hypothesis
-[What we believe will happen and why]
-
-### Experiment Setup
-- **Treatment:** [What's different in treatment group]
-- **Control:** [Baseline experience]
-- **Randomization:** [How users are assigned]
-- **Sample Size:** [Required sample size]
-- **Duration:** [How long to run]
-
-### Guardrail Metrics
-- [Metric 1: ensure we don't break existing functionality]
-- [Metric 2: ...]
-
-## Timeline & Effort Estimate
-
-### Phases
-1. **Phase 1: [Name]** - [Duration]
-   - [Key deliverables]
-
-2. **Phase 2: [Name]** - [Duration]
-   - [Key deliverables]
-
-3. **Phase 3: [Name]** - [Duration]
-   - [Key deliverables]
-
-### Effort Estimate
-- **Data Science:** [X person-weeks]
-- **Data Engineering:** [X person-weeks]
-- **ML Engineering:** [X person-weeks]
-- **Product/Design:** [X person-weeks]
-
-### Key Milestones
-- **[Date]:** [Milestone 1]
-- **[Date]:** [Milestone 2]
-- **[Date]:** [Launch target]
-
-## Stakeholders
-
-| Role | Name | Responsibility |
-|------|------|----------------|
-| Product Lead | [Name] | [Responsibility] |
-| DS Lead | [Name] | [Responsibility] |
-| Engineering Lead | [Name] | [Responsibility] |
-| Key Stakeholder | [Name] | [Responsibility] |
-
-## Open Questions
-
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]
-
-## Appendix
-
-### Related Documents
-- [Link to design docs]
-- [Link to technical specs]
-- [Link to previous analysis]
-
-### Additional Context
-[Any other relevant information]
