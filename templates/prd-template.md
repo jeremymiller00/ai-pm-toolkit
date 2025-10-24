@@ -1,29 +1,5 @@
 # [Project Name] Data Science Project
 
-This PRD is a living document. It is perfectly acceptable to update sections as more information becomes available or as project requirements evolve. The purpose of this guide is to ensure a smooth collaboration among all teams, reduce misunderstandings, and support data-driven decision-making in our data science projects.
-
-[Data Science Jira Guidelines](https://evaluateltd.atlassian.net/wiki/spaces/DS/pages/4030595123/Jira+Guidelines)
-
-Items should be added or removed as needed. The Template represents was we expect to need to define most of the time, but there will inevitably be some bespoke elements in some projects. 
-
-Make a clone and edit…
-
-|Item|Value|
-|-|-|
-|status|Defined or Defining|
-|Product Management Sponsor||
-|Data Science PM||
-|Data Science Tech Lead||
-|Other Team Members and Roles||
-|Leadership Stakeholder(s)||
-|Objective||
-|Due Date||
-|Key Outcomes||
-|Deliverable||
-|Links||
-
-
-
 # Project Canvas - Risk Assessment
 
 ## Value
@@ -80,9 +56,5 @@ Make a clone and edit…
 
 # Milestones
 
-|Milestone|Owner|Deadline|Status|Success Criteria|Deliverable|
-|-|-|-|-|-|-|
-|POC/Feasibility||||||
-|Deveopment||||||
-|Production||||||
+
 
